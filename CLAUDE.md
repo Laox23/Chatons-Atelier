@@ -22,7 +22,7 @@ Dans cet ordre, à chaque session :
 - **Rester fidèle aux fiches.** Un PNJ garde son rôle, son attitude, ses qualités et sa voix. Changer une fiche existante est une décision du MJ : la proposer, ne pas l'écrire.
 - **Continuité.** Un scénario part de là où la saga s'est arrêtée : faits posés (#faits), PNJ rencontrés, lieux visités.
 - **Ne pas toucher aux `id`** d'un élément modifié.
-- Le ton, les limites et le public sont dans `lore.md` ; en cas de doute, le plus doux et le plus simple.
+- Le ton, les limites et le public sont dans `lore.md` ; en cas de doute, le plus doux et le plus clair, sans trop simplifier : il faut garder de l'intérêt. Réglage à ajuster après les premières parties.
 
 ## Avant de dire « fini »
 
