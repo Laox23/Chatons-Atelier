@@ -1,0 +1,13 @@
+{
+  "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
+  "nom": "Casse-Auto",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "f08a96c3-4cbc-4c65-b741-019bc3013c09"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Le bruit de la tôle frappée, l’odeur de la rouille et des moteurs",
+  "description": "Une décharge de vieilles voitures, repaire des Chiens de la Casse. Ils y frappent la tôle pour faire des armes et des armures. Dangereuse.",
+  "parentId": "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7",
+  "descriptionImage": "Une décharge de vieilles voitures rouillées empilées, de la tôle partout, des fumées de moteur."
+}

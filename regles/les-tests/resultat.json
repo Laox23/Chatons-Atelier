@@ -1,0 +1,13 @@
+{
+  "id": "e3afe11d-32b6-4fff-9756-efc3bf4a422d",
+  "titre": "Résultat",
+  "sousTitre": "Réussite ou échec",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 9,
+  "texte": "Seuil atteint : réussite, au moins autant de succès que la Difficulté.\nSous le seuil : la joueuse choisit, un échec sans autre conséquence ou une réussite avec une complication.\n! Aucun succès : échec complet.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Si le chaton a au moins autant de succès que la Difficulté, il réussit.\nS'il en a moins, mais au moins un, c'est la joueuse qui choisit : soit un échec simple, sans autre conséquence, soit une réussite avec une complication.\nS'il n'a aucun succès, c'est un échec complet : pas de choix.\nExemple : test Moyen (2 succès), Plume fait 1 succès en grimpant. Sa joueuse choisit de réussir avec une complication : elle arrive en haut, mais fait tomber une tuile et alerte le garde.\nExemple : même cas, la joueuse préfère l'échec simple : Plume n'arrive pas à grimper, sans autre ennui.\nContre-exemple : 0 succès. La joueuse ne peut pas demander une réussite avec complication : c'est un échec complet."
+}

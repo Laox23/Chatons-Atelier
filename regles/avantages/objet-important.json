@@ -1,0 +1,13 @@
+{
+  "id": "18437f0c-ea6a-499b-819f-37f1c8f82367",
+  "titre": "Objet important",
+  "sousTitre": "Ce qui compte vraiment",
+  "groupe": "Avantages",
+  "couleur": "#8a62a8",
+  "icone": "etoile",
+  "ordre": 11.5,
+  "texte": "Ce que c’est : un objet qui compte pour le chaton, noté sur sa fiche.\nRelance : quand il sert vraiment, le chaton relance un dé au choix.\nUne arme : en querelle de griffes, elle donne des relances.\nEn porter un de plus : se paie en expérience.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Un objet important compte vraiment pour le chaton et est noté sur sa fiche. Quand il sert vraiment à l'action, le chaton peut relancer un dé de son choix.\nEn querelle de griffes, une arme qui est un objet important donne des relances.\nExemple : la corde de Mistigri l'aide à descendre dans le puits : il relance un dé raté.\nContre-exemple : Mistigri tente de charmer un garde. Sa corde ne sert à rien dans cette action : pas de relance.\nContre-exemple : un bâton ramassé par terre. S'il n'est pas noté sur la fiche, ce n'est pas un objet important."
+}

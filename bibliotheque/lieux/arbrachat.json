@@ -1,0 +1,14 @@
+{
+  "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+  "nom": "Arbrachat",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "4b9d5949-6423-4883-98c9-6244255e2787"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Animé et bruyant ; la garde du roi n’est jamais loin",
+  "description": "Château du royaume des chats. Marchés, quartiers et ateliers s’étagent sur ses flancs, jusqu’à la chambre du roi Walter, tout en haut de la plus haute tour.",
+  "parentId": "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7",
+  "descriptionImage": "Un immense château aux toits rouges, couvert de maisons à colombages qui s’étagent jusqu’à une très haute tour à drapeaux ; une rivière et un petit port à son pied.",
+  "ambianceSonore": "6dff38a7-04d9-4735-94f8-c7a99d31278a"
+}

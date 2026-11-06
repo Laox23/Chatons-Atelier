@@ -1,0 +1,13 @@
+{
+  "id": "452d8c11-010e-42a2-ae57-2ff37d60de00",
+  "titre": "Actions de querelle",
+  "sousTitre": "Que faire à son tour",
+  "groupe": "Querelles",
+  "couleur": "#a8693a",
+  "icone": "patte",
+  "ordre": 11.9,
+  "texte": "Attaquer, offensive : chaque succès retire 1 Cœur.\nGêner, offensive : au moins 1 succès, l’adversaire a le Désavantage.\nAider : réussite automatique, un compagnon a l’Avantage à son jet.\nDéfendre : Malin ou Costaud ; chaque succès annule un succès adverse pendant le tour.\nSe déplacer : bouger, sauter, passer un obstacle, se faufiler sans bruit.\nInteragir : discuter, ouvrir, soigner, manipuler le décor, sans menacer personne.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "À son tour, un chaton fait une action.\nAttaquer, offensive : chaque succès retire 1 Cœur. Gêner, offensive : avec au moins 1 succès, l'adversaire a le Désavantage.\nAider : réussite automatique, un compagnon a l'Avantage à son jet. Défendre : avec Malin ou Costaud, chaque succès annule un succès adverse pendant le tour.\nSe déplacer et Interagir : bouger, se faufiler, ouvrir, soigner, discuter, sans menacer personne.\nExemple : Plume aide Mistigri, sans jet. Mistigri attaque ensuite avec l'Avantage, 4 dés.\nExemple : Mistigri se défend et fait 2 succès. Le rat qui l'attaque ensuite en fait 3 : il ne lui en reste qu'1, Mistigri perd 1 Cœur.\nContre-exemple : Aider et attaquer dans le même tour. Un chaton fait une action à son tour."
+}

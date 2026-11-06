@@ -1,0 +1,13 @@
+{
+  "id": "269e68aa-f917-4daa-8075-f2124ab289e7",
+  "titre": "Jouer ensemble",
+  "sousTitre": "Pas de gagnant, pas de perdant",
+  "groupe": "Esprit du jeu",
+  "couleur": "#a0785a",
+  "icone": "coeur",
+  "ordre": -4,
+  "texte": "But : raconter une histoire ensemble.\nLes joueuses : sont là pour s’amuser.\nLes chatons : vivent l’aventure pour de vrai ; ils ont peur, se blessent, se consolent.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Personne ne gagne et personne ne perd : le but est de raconter une histoire ensemble, et les joueuses sont là pour s'amuser.\nLes chatons, eux, vivent l'aventure pour de vrai. Ils peuvent avoir peur, être blessés, être tristes, et le jeu le prend au sérieux.\nExemple : les chatons perdent la piste de Grelot. Ce n'est pas une défaite : c'est l'histoire qui continue autrement, et les chatons peuvent s'en inquiéter.\nContre-exemple : « la buse a gagné, vous avez perdu ». Le jeu ne se termine pas sur un score ; on raconte ce qui arrive ensuite."
+}

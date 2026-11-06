@@ -1,0 +1,13 @@
+{
+  "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+  "titre": "Avantage et Désavantage",
+  "sousTitre": "Un dé de plus ou de moins",
+  "groupe": "Avantages",
+  "couleur": "#8a62a8",
+  "icone": "etoile",
+  "ordre": 9.9,
+  "texte": "Avantage : 4D6. Circonstances favorables, talent adapté ou aide d’un allié.\nDésavantage : 2D6. Blessure, terrain difficile ou surprise.\nLes deux à la fois : ils s’annulent, on lance 3D6.\n! Jamais de cumul : toujours entre 2 et 4 dés.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "L'Avantage ajoute un dé (4 dés), le Désavantage en retire un (2 dés).\nAvantage : circonstances favorables, talent adapté ou aide d'un compagnon. Désavantage : blessure, terrain difficile ou surprise.\nSi on a les deux en même temps, ils s'annulent : on lance 3 dés.\nExemple : Mistigri grimpe avec le talent qui convient : Avantage, 4 dés.\nExemple : il grimpe sous l'orage avec le talent adapté. Avantage et Désavantage s'annulent : 3 dés.\nContre-exemple : un talent adapté et l'aide d'un compagnon ne font pas 5 dés. Jamais de cumul : toujours entre 2 et 4 dés."
+}

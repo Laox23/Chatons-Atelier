@@ -1,0 +1,16 @@
+{
+  "nom": "Les chiens fous du volant",
+  "role": "Molosses des Chiens de la Casse qui font régner la terreur : plusieurs chiens joués comme un seul personnage",
+  "attitude": "Mauvais, bagarreurs",
+  "stats": "Talents : Feuler et menacer, Griffer. Leurs armes et leurs armures, moches et rouillées, restent souvent à l’arrière du véhicule.",
+  "id": "f08a96c3-4cbc-4c65-b741-019bc3013c09",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "factionIds": [
+    "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5"
+  ],
+  "costaud": 4,
+  "malin": 1,
+  "mignon": 1,
+  "descriptionImage": "Trois gros molosses en armures de tôle rouillée, moches et cabossées, des armes bricolées à la patte."
+}

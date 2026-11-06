@@ -1,0 +1,416 @@
+{
+  "id": "bea6dcf4-4a9f-46c9-bac7-78aeaa687317",
+  "but": "recevoir des objets importants ; accepter la mission de Victorin ; l’expérience",
+  "titre": "Une importante mission",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "602267ae-33d6-44a0-a414-8e9d5ddfc49e",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ", ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
+                  "label": "Léon",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " et ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
+                  "label": "Grinella",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " remercient chaleureusement les chatons.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
+                  "label": "Léon",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " leur offre une petite flûte, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
+                  "label": "Grinella",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " un assortiment de perles colorées.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "9d9b3f2f-a3f4-4d4e-97af-ebaa91f83706",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les chatons peuvent garder ces objets"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "9fc5a15d-c820-4478-9b7f-9fde93719146",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les perlent peuvent se troquer"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "37813e2e-7367-4932-a35e-023f24667e89",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "18437f0c-ea6a-499b-819f-37f1c8f82367",
+                      "label": "Objet important",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "8d12ebde-4ca5-44f3-868d-6140a608548a",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
+                  "label": "Grinella",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " et "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
+                  "label": "Léon",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " partent de leur côté."
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "1143fde1-b5ff-45ac-9acf-cac2c567282d",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " est impressionné par votre courage. Il a une mission importante à accomplir, ordonnée par le ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "77ef64ae-5b00-4024-8f57-05aa7a079320",
+                      "label": "Grand Chêne",
+                      "nature": "mot",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " lui-même.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Si vous l’aidez, il vous guidera jusqu’à ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+                      "label": "Grand’Roue",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f0f83db-e421-4699-983d-5bfd4f5138b8",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La nuit tombe : il est temps de se reposer et d’installer un petit campement.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "e350d833-8b4f-4f0d-9f69-701ba571c972",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Proposez ce que fait votre chaton pour aider à l’installation."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "0026c857-1258-4fd5-8f67-dd0f8a9896bc",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "La nuit rend 1 Cœur à chaque chaton."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Si l’ambiance est conviviale entre tous : +1 Amitié pour chacun."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "a4ebeda3-e95a-423b-b8e8-7c4e6e6ca2ca",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au matin, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " est plus prêt que jamais. Il prend la tête du groupe et vous emmène vers la ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+                  "label": "Forêt endormie",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "7f9c7bfb-fe59-4885-ae73-96a710f9d85b",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons ont déjà gagné 2 points d’expérience : chacun peut les dépenser pour un nouveau talent, à cocher sur sa fiche.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "46009ac3-79b6-4d07-9dee-d048e6ebf15c",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Chaque chatons peut dépenser ces deux points pour gagner un nouveau "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
+                      "label": "Talents",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "ambiance": "le soulagement, puis la chaleur du campement"
+}

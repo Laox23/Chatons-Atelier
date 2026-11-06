@@ -1,0 +1,13 @@
+{
+  "id": "ea80048e-a47f-444c-8b90-c95f20f74c60",
+  "titre": "Test de groupe",
+  "sousTitre": "Tous ensemble",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 9.5,
+  "texte": "Quand : tout le groupe tente la même chose ensemble.\nChaque chaton : fait son propre test, avec la même Qualité.\nRéussite : si la majorité des chatons réussit, tout le groupe réussit.\n! La moitié ne suffit pas : il faut plus de réussites que d’échecs.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Quand tout le groupe fait la même chose ensemble, chaque chaton lance son propre test avec la même Qualité. Le groupe réussit s'il y a plus de réussites que d'échecs.\nExemple : quatre chatons traversent la forêt sans bruit, Malin. Trois réussissent, un rate : le groupe passe sans être repéré.\nExemple : deux réussites, deux échecs. La moitié ne suffit pas : le groupe échoue.\nContre-exemple : un chaton grimpe pendant que les autres font le guet. Ce ne sont pas les mêmes actions : chacun fait son test, ce n'est pas un test de groupe."
+}

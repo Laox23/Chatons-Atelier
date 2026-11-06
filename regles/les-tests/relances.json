@@ -1,0 +1,13 @@
+{
+  "id": "d7e71282-1829-4c7c-9bd9-ed21b8f83e24",
+  "titre": "Relances",
+  "sousTitre": "Une seconde chance",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 9.7,
+  "texte": "Relancer : reprendre un dé au choix et le relancer.\nD’où elles viennent : un objet important, un don, une idée ingénieuse.\nPlusieurs : possibles sur un même jet.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Une relance permet de reprendre un dé au choix et de le relancer. Elle vient d'un objet important, d'un don, ou d'une idée ingénieuse. On peut en utiliser plusieurs sur le même jet.\nExemple : Plume crochète une serrure et fait 1, 6, 4 avec Malin 3. Elle utilise son épingle, objet important, pour relancer le 6. Elle fait 2 : un succès de plus.\nExemple : une joueuse a une idée ingénieuse, comme graisser la porte avant de la pousser : c'est l'une des sources de relance.\nContre-exemple : relancer tous les dés d'un coup. Une relance porte sur un seul dé."
+}

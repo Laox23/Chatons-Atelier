@@ -1,0 +1,21 @@
+{
+  "id": "18ff6e19-412a-4f2f-b0c5-4d3ab19b9206",
+  "nom": "Batiste",
+  "role": "Ours, le Grand Chêne actuel de la Compagnie de Toutes les Forêts",
+  "attitude": "Sage et protecteur ; il dirige de loin, par pigeon voyageur",
+  "stats": "",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "factionIds": [
+    "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2"
+  ],
+  "descriptionImage": "Un grand ours brun à l’air sage, en uniforme vert de garde forestier, un chêne doré brodé sur la poitrine.",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
+      }
+    ]
+  }
+}

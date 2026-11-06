@@ -1,0 +1,13 @@
+{
+  "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+  "titre": "Amitié",
+  "sousTitre": "Moral et chance",
+  "groupe": "Ressources vitales",
+  "couleur": "#c98a3c",
+  "icone": "patte",
+  "ordre": 5,
+  "texte": "Le moral, la chance et le lien avec le groupe.\nAu départ : Mignon.\nMaximum : jamais plus que la valeur de départ.\nAprès le jet : dépenser 1 donne 1 succès automatique, pour soi ou pour un compagnon. Jamais plus de 4 succès au total.\nGros câlin : hors querelle, dépenser 1 rend 1 Cœur à un compagnon.\nEn regagner 1 : un beau moment partagé : dormir ensemble dans un endroit calme et sûr, admirer un beau spectacle, une soirée tranquille et joyeuse.\n! À 0 Amitié, impossible d’entrer dans une querelle de griffes : il faut fuir.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "L'Amitié, c'est le moral, la chance et le lien avec les compagnons. Elle part de Mignon et ne dépasse jamais cette valeur.\nOn la dépense de deux façons. Après un jet : 1 Amitié donne 1 succès de plus, pour soi ou pour un compagnon. Hors querelle : un gros câlin, 1 Amitié rend 1 Cœur à un compagnon.\nOn en regagne 1 lors d'un beau moment partagé.\nExemple : Plume fait 1 succès sur un test Moyen (2 succès). Sa joueuse dépense 1 Amitié : 2 succès, réussi.\nExemple : le soir, les chatons dorment blottis dans une grange calme. Chacun peut regagner 1 Amitié.\nContre-exemple : Mistigri a déjà 4 succès sur 4 dés et veut dépenser 1 Amitié pour un cinquième : impossible, jamais plus de 4 succès au total.\nContre-exemple : un gros câlin pendant une querelle. Le câlin se fait hors querelle.\n! À 0 Amitié, impossible d'entrer en querelle de griffes : le chaton doit fuir."
+}

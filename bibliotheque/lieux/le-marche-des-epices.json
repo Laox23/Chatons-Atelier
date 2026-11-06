@@ -1,0 +1,14 @@
+{
+  "id": "dfcc40fb-3498-4fd4-81e6-707c8976deb6",
+  "ambiance": "Des odeurs fortes qui piquent le nez",
+  "pnjIds": [
+    "bc1a52e9-7923-468c-a84e-d34115171961"
+  ],
+  "nom": "Le marché des épices",
+  "description": "Une ruelle couverte de toiles rouges et jaunes, à flanc d’Arbrachat. Des sacs de poivre, de cannelle et d’herbe à chat ; Gaspard y tient son étal.",
+  "parentId": "532cba13-f874-4d6f-9332-c70f743aee18",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une ruelle couverte de toiles rouges et jaunes, des sacs ouverts de poivre, de cannelle et d’herbe à chat.",
+  "ambianceSonore": "49561057-2d2c-4b2d-bd41-09c24d1aa791"
+}

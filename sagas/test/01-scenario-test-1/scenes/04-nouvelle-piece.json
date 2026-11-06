@@ -1,0 +1,51 @@
+{
+  "id": "c6f23127-3247-4665-808d-8aee397b223d",
+  "titre": "Nouvelle pièce",
+  "ambiance": "",
+  "but": "",
+  "statut": "brouillon",
+  "encarts": [
+    {
+      "id": "5db93cc9-a283-48ee-935d-1d7f13b06e12",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "C'est le bordel ici ?"
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "parties": [
+        {
+          "id": "2bfe0999-2d7b-44c4-8f3f-cfc9c477168f",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Coucou"
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Batiste"
+        }
+      ]
+    }
+  ],
+  "piece": true,
+  "donjon": "Nouveau donjon"
+}

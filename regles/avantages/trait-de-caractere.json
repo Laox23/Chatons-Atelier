@@ -1,0 +1,13 @@
+{
+  "id": "fc4b430d-0020-4c63-acbf-39105300b5f5",
+  "titre": "Trait de caractère",
+  "sousTitre": "Une force, un défaut",
+  "groupe": "Avantages",
+  "couleur": "#8a62a8",
+  "icone": "patte",
+  "ordre": 10.5,
+  "texte": "Un par chaton : un mot qui le décrit, curieux, têtu, gourmand…\nIl aide : une fois par séance, le chaton gagne l’Avantage.\nIl gêne : une fois par séance, il lui attire des ennuis ; la scène réglée, un compagnon reçoit 1 Amitié.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Chaque chaton a un trait, un mot qui le décrit : curieux, têtu, gourmand… Ce trait joue dans les deux sens, une fois chacun par séance.\nIl aide : une fois par séance, le chaton gagne l'Avantage.\nIl gêne : une fois par séance, il attire des ennuis au chaton. Une fois la scène réglée, un compagnon reçoit 1 Amitié.\nExemple : Grelot est curieux. Il fouille la boutique de Mère Brioche : son trait l'aide, il gagne l'Avantage.\nExemple : plus tard, sa curiosité le pousse à suivre un papillon et il se perd. Le trait gêne ; une fois Grelot retrouvé, un compagnon reçoit 1 Amitié.\nContre-exemple : utiliser « curieux » pour avoir l'Avantage une deuxième fois dans la même séance. C'est une fois par séance."
+}

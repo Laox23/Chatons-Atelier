@@ -1,0 +1,13 @@
+{
+  "id": "aff9c097-359d-4931-9257-ae0de7bd85b2",
+  "titre": "Pas de retour en arrière",
+  "sousTitre": "Ce qui est dit est fait",
+  "groupe": "Esprit du jeu",
+  "couleur": "#a0785a",
+  "icone": "patte",
+  "ordre": -2,
+  "texte": "Ce qu’une joueuse fait dire ou faire à son chaton arrive vraiment.\nOn ne rembobine pas : on assume, et l’histoire continue à partir de là.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Une fois qu'une joueuse a annoncé ce que fait ou dit son chaton, c'est arrivé. On n'efface pas pour essayer autre chose quand le résultat ne plaît pas.\nExemple : un chaton insulte un Chien de la Casse, puis la joueuse dit « non attends, je retire ». La conteuse répond gentiment que le chien a entendu, et l'histoire part de là.\nContre-exemple : la joueuse réfléchit à voix haute, « et si je lui disais que… ? ». Tant qu'elle n'a pas décidé, rien n'est arrivé : elle peut encore choisir."
+}

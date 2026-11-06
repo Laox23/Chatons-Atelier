@@ -1,0 +1,43 @@
+{
+  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+  "nom": "Victorin",
+  "role": "Canard, garde forestier de la Compagnie de Toutes les Forêts",
+  "attitude": "Courageux et réfléchi",
+  "stats": "",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "factionIds": [
+    "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2"
+  ],
+  "costaud": 2,
+  "malin": 3,
+  "mignon": 2,
+  "descriptionImage": "Un canard en uniforme vert de garde forestier, un chêne doré brodé sur la poitrine.",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "text": "Canard, garde forestier de la ",
+            "type": "text"
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2",
+              "label": "Compagnie de Toutes les Forêts",
+              "nature": "faction",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "text": " ",
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  }
+}

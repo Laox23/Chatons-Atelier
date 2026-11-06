@@ -1,0 +1,13 @@
+{
+  "id": "9dd70904-bdc9-4aab-9ee3-26a6a0af7a68",
+  "titre": "Expérience",
+  "sousTitre": "Grandir",
+  "groupe": "Progression",
+  "couleur": "#3f8f8a",
+  "icone": "etoile",
+  "ordre": 12,
+  "texte": "Gagner : 1 point à la fin de chaque séance, 1 de plus par aventure finie ou objectif atteint.\nDépenser : une Qualité, un talent, un sort de miagie, ou un objet important de plus.\nMaxima : monter Costaud ou Malin monte le Cœur ; monter Mignon monte l’Amitié.\nUn talent : 2 points, à notre table.\n! Les autres coûts sont dans le livre de base.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Les chatons gagnent 1 point d'expérience à la fin de chaque séance, et 1 de plus quand une aventure se termine ou qu'un objectif est atteint.\nOn les dépense pour monter une Qualité, apprendre un talent ou un sort de miagie, ou porter un objet important de plus. À notre table, un talent coûte 2 points.\nMonter Costaud ou Malin monte aussi le maximum de Cœur ; monter Mignon monte le maximum d'Amitié.\nExemple : fin de séance, les chatons ont délivré les compagnons de Victorin, leur objectif : 2 points chacun.\nExemple : Mistigri dépense 2 points pour apprendre un talent.\n! Les autres coûts (Qualité, sort, objet) sont dans le livre de base."
+}

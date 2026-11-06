@@ -1,0 +1,13 @@
+{
+  "id": "679b9ef0-b68d-4578-9c80-20f09d2b9fb9",
+  "nom": "Clairière de la Pomme d’or",
+  "ambiance": "Un lieu de rêve, mais abîmé : herbe sombre, chardons, ruisseau boueux",
+  "description": "Une clairière ronde au cœur de la Forêt endormie. De grands chênes l’entourent, un ruisseau la traverse. Au centre, un pommier aux fleurs blanches porte une seule pomme : la Pomme d’or.",
+  "pnjIds": [
+    "7735c5cb-2222-47e7-a928-f6886efe45c6"
+  ],
+  "parentId": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une clairière ronde entourée de grands chênes, un ruisseau, et au centre un pommier aux fleurs blanches qui porte une seule pomme d’or lumineuse."
+}

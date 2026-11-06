@@ -1,0 +1,244 @@
+{
+  "id": "fd3ab1ff-6a55-4590-a926-9cdba484013e",
+  "but": "faire vivre son chaton, puis le faire réagir au monde",
+  "titre": "L'exil des chatons",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "d8a4a269-18fe-496d-a3e4-f98c0c916b50",
+      "styles": {},
+      "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le roi Walter est un roi cruel. Il règne par la peur, la ruse et la triche, et la garde lui obéit. Pour faire plier les familles qui lui tiennent tête, il a inventé une loi : l'exil des chatons. Chaque année, des chatons sont « tirés au sort » et envoyés loin de l'Arbrachat. Le tirage est truqué : ce sont toujours les enfants des familles qui le gênent.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "164d99a6-872b-42a4-b154-371568c89f52",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les joueuses ne connaissent pas la loi de l'exil. Elles la découvrent pendant la scène.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "f1fb8bb7-31ee-4041-8ba9-8331442a7a5f",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Présente ton chaton : son nom, l'endroit où il vit dans l'Arbrachat, sa famille, ce qu'il fait de ses journées, ce qu'il aime. ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "59e58ec4-59f0-4dee-aaff-e6b95d0f588b",
+                  "label": "Incarner son chaton",
+                  "nature": "regle",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "9a2dacf9-27a9-42fa-8b91-ac6d0d38d3a3",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Relancer par une question concrète : « Qu'est-ce que ta maman te prépare le soir ? », « Qui est ton meilleur ami dans ton quartier ? ». ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "parChaton": true
+    },
+    {
+      "id": "55e87cb0-077f-41fe-a49d-6dedc4fb1dda",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le soir même, on frappe à la porte. Un garde du roi entre chez la famille du chaton.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "4c78c06d-cb04-4e2e-a280-f043e9ca59a6",
+          "qui": "Garde du roi",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Le chaton a était tiré au sort, il doit partir en exile, il partira demain matin l'ors de la grande cérémonie de l'exil",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "1b273283-b52e-4136-8b0c-cd29cbc0059e",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Chaque chaton réagit à l'annonce : il pleure, proteste, se cache, pose des questions. La conteuse fait répondre la famille et le garde. ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "aff9c097-359d-4931-9257-ae0de7bd85b2",
+                      "label": "Pas de retour en arrière",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "2f6a4933-162f-4e3e-b86f-d6627cefb7e1",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Montrer par le dialogue que le tirage n'a rien d'un hasard :",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Le garde, gêné : « Le roi a choisi… Le sort, je veux dire. Le sort a choisi. »",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Un parent, à voix basse : « Ton père a refusé de payer la taxe du roi le mois dernier. Ce n'est pas un hasard. »",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "text": "Un voisin : « Drôle de sort, il ne tombe jamais sur les enfants des conseillers du roi. »",
+                            "type": "text"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        }
+      ],
+      "parChaton": true
+    }
+  ],
+  "lieuIds": [
+    "532cba13-f874-4d6f-9332-c70f743aee18"
+  ],
+  "ambiance": "douce et familiale, puis inquiétante"
+}

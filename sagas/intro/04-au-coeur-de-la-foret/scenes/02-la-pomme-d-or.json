@@ -1,0 +1,1100 @@
+{
+  "id": "4d0be183-997e-4d39-a9a8-8485e4bd4dd0",
+  "but": "protéger la Pomme d’or ; la querelle, l’initiative et la miagie",
+  "titre": "La Pomme d’or",
+  "statut": "brouillon",
+  "encarts": [
+    {
+      "id": "5917adc0-62c2-4956-b23d-45b0ccf668c6",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Vous arrivez au bord d’une clairière toute ronde : la "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "679b9ef0-b68d-4578-9c80-20f09d2b9fb9",
+                  "label": "Clairière de la Pomme d’or",
+                  "mentionSuggestionChar": "@",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "type": "text",
+                "text": ". Vos moustaches frémissent."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "De grands chênes l’entourent et un petit ruisseau chante. Au centre pousse un pommier aux fleurs blanches. Une seule pomme pend à ses branches : une pomme d’or, qui brille toute seule."
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b3bfbaad-3f39-4f66-a87a-ea22705c82a8",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Puis la vision s’efface. "
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "668d3d95-b858-4e52-911e-658d6e1a585d",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "L’herbe est sombre et pleine de chardons. L’eau du ruisseau est boueuse. L’écorce des chênes est fendue. Seule la pomme brille encore."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Près du pommier, quatre "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+                      "label": "Souris maléfiques",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " chuchotent : « Vite, prenons la pomme ! Le maître sera content. »"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "a1e8dadd-4bea-42ca-9857-38688eb6badf",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cette vision vient de la miagie des chatons : ils en ont tous un peu, toutes ces histoire leurs avaient fait oublier tout cela, la "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "af916201-07e2-4c52-8392-87efb1c37977",
+                      "label": "Miagie",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " de la forêt leurs fait retrouver la mémoire."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "c93e0c10-6212-4608-bce8-f4a942f8606c",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Présenter la "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "af916201-07e2-4c52-8392-87efb1c37977",
+                      "label": "Miagie",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "0a83d836-f24f-4eea-a0d0-7203e62239a6",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Vous arrivez dans la clairière en même temps que quatre "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+                  "label": "Souris maléfiques",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": ", elles ne vous ont pas encore remarquées"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "Course égale"
+      },
+      "parties": [
+        {
+          "id": "2aa828d7-8bb0-442d-a0ba-7d66c574eb02",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " Vite, vite, prenons la pomme ! Le maître sera content."
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Souri MALEFIQUE"
+        }
+      ]
+    },
+    {
+      "id": "0f420bd2-95d4-4888-b868-1b9e24c0cc29",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Près du pommier, quatre "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+                  "label": "Souris maléfiques",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": ", elles ne vous ont pas encore remarquées"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": false,
+        "fait": "Course égale"
+      },
+      "parties": [
+        {
+          "id": "451c85e5-1e7b-40eb-8274-16c273511b06",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "La pomme est à nous, vite, prenons là, le maître sera content"
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Souri MALEFIQUE"
+        }
+      ]
+    },
+    {
+      "id": "982dd2cf-33e6-421c-b6cf-a93e441f4507",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " oublie sa peur, et vous chuchote"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "2a5e5b9b-5a6e-4fbd-9b44-171c1d7e5e67",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " C’est la "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "aa8339ab-c6ff-41a3-8487-79906d9994ee",
+                      "label": "Pomme d’or",
+                      "mentionSuggestionChar": "@",
+                      "nature": "objet"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ", la force de la forêt ! Si elles la volent, "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "7735c5cb-2222-47e7-a928-f6886efe45c6",
+                      "label": "Séléné",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " va s’affaiblir encore. Il faut les arrêter !"
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Victorin"
+        },
+        {
+          "id": "586ef24b-3605-4b25-b1cf-2c316a401201",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les chatons doivent trouver comment arrêter les souries"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "d9de0e2f-6b1c-4d54-8980-d86795628d43",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voici des idées :"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Foncer sur les souris et les faire fuir  "
+                          },
+                          {
+                            "type": "fait",
+                            "attrs": {
+                              "id": "Foncer sur les souris",
+                              "label": "Foncer sur les souris",
+                              "mentionSuggestionChar": "#"
+                            }
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "S’approcher sans bruit et prendre la pomme avant elles. "
+                          },
+                          {
+                            "type": "fait",
+                            "attrs": {
+                              "id": "S approcher sans bruit",
+                              "label": "S approcher sans bruit",
+                              "mentionSuggestionChar": "#"
+                            }
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Parler aux souris pour les distraire ou les embrouiller. "
+                          },
+                          {
+                            "type": "fait",
+                            "attrs": {
+                              "id": "Distraire les souris",
+                              "label": "Distraire les souris",
+                              "mentionSuggestionChar": "#"
+                            }
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Appeler l’esprit de la forêt à l’aide. "
+                          },
+                          {
+                            "type": "fait",
+                            "attrs": {
+                              "id": "Aide de sélené",
+                              "label": "Aide de sélené",
+                              "mentionSuggestionChar": "#"
+                            }
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Autre idée "
+                          },
+                          {
+                            "type": "fait",
+                            "attrs": {
+                              "id": "Autre idée",
+                              "label": "Autre idée",
+                              "mentionSuggestionChar": "#"
+                            }
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ab94f8d5-130f-4210-9441-8957deceb7ad",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Les chatons et "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " courent sur les souries pour les faires fuir !"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "Foncer sur les souris"
+      },
+      "libelle": "Faire fuir les souris"
+    },
+    {
+      "id": "cc0c23e6-6318-46c6-a436-4e9de541531d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Un chaton s'approche sans bruit pour voler la pomme"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "S approcher sans bruit"
+      },
+      "parties": [
+        {
+          "id": "6396d52b-e676-4bdd-9e24-1276e01071f2",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les souris sont à l'affut c'est difficile"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b7c9da27-ada8-44ef-be49-14e6f9cc78a1",
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          "champs": {
+            "sorte": "qualite",
+            "qualite": "malin",
+            "difficulte": "3",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Le chaton attrape la pomme. Une souris le voit au dernier moment : « Des chatons ! Attaquez ! » Querelle, les chatons agissent en premier. \"},{\"type\":\"fait\",\"attrs\":{\"id\":\"Les chatons ont la pomme\",\"label\":\"Les chatons ont la pomme\",\"mentionSuggestionChar\":\"#\"}}]}]}",
+            "rate": "Les souris le repèrent : querelle, la conteuse agit en premier."
+          }
+        }
+      ],
+      "libelle": "S'approcher pour voler la pomme"
+    },
+    {
+      "id": "f3bd0bb0-2a34-4d80-a8b4-93abaf1ecc16",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Un chaton doit les distraire ou les baratiner "
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "Distraire les souris"
+      },
+      "libelle": "Parler aux souris pour les distraire ou les embrouiller.",
+      "parties": [
+        {
+          "id": "db3d8b4d-99cc-4f66-8da0-d7eaca675e7c",
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          "champs": {
+            "sorte": "qualite",
+            "qualite": "malin",
+            "difficulte": "3",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\" Les souris hésitent : « Qu’est-ce que vous voulez, les chatons ? Cette pomme est pour notre maître ! » \"},{\"type\":\"fait\",\"attrs\":{\"id\":\"Souris distraite\",\"label\":\"Souris distraite\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}",
+            "rate": "« Pas de temps à perdre avec vous ! » Querelle, la conteuse agit en premier."
+          }
+        },
+        {
+          "id": "a0dd6b46-6612-4f53-945f-727f66316fe6",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Si "
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Distraire les souris",
+                      "label": "Distraire les souris",
+                      "mentionSuggestionChar": "#"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ", les chatons peuvent se préparer un tour avant la querelle "
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fca8af23-9cb3-4231-bc40-6410d86c00fa",
+      "champs": {
+        "sorte": "qualite",
+        "qualite": "mignon",
+        "difficulte": "2",
+        "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Séléné dort, mais elle entend un peu. Des branches se tendent et gênent les souris : Désavantage à leur première action. \"},{\"type\":\"fait\",\"attrs\":{\"id\":\"Aide de sélené reussi\",\"label\":\"Aide de sélené reussi\",\"mentionSuggestionChar\":\"#\"}}]}]}",
+        "rate": "Rien ne se passe : Séléné dort trop profondément."
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph"
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "Aide de sélené"
+      },
+      "libelle": "Appeler l’esprit de la forêt à l’aide.",
+      "parties": [
+        {
+          "id": "dd7cbb62-b4d4-4578-baca-bc5c8f86c3dc",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les souris engagent la querelle, si "
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Aide de sélené reussi",
+                      "label": "Aide de sélené reussi",
+                      "mentionSuggestionChar": "#"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " les chatons ont un avantage"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "6256ef8e-3b2c-455f-8d5d-b839e0623002",
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " se révèle être très compétant et expérimenté, il entre seul en querelle contre deux souris et parvient même parfois à aider les chatons"
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "parties": [
+        {
+          "id": "a58164a8-127f-4092-b28b-e62dbfae56bc",
+          "typeId": "99a01fbe-7bae-474a-b648-7fdaa7c6c221",
+          "contenu": null,
+          "champs": {
+            "sorte": "crocs",
+            "adversaires": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+            "enjeu": "Prendre ou garder la @Pomme d'or",
+            "gagne": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Souris en fuitent\",\"label\":\"Souris en fuitent\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}"
+          }
+        },
+        {
+          "id": "94b0928d-37a0-46a2-88bc-42f9c6f0bf4e",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "5b25f8ab-c9e0-41f7-b958-c985183d7797",
+                      "label": "Querelle de crocs",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "54e10f02-b74e-4ba2-bcac-f8134d0fa843",
+                      "label": "Initiative",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "452d8c11-010e-42a2-ae57-2ff37d60de00",
+                      "label": "Actions de querelle",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "6b0427bc-9ab1-455a-ae6e-1b4c0766de2f",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Querelle de crocs : on feule, on menace, on bouscule, mais on ne blesse pas. Chaque succès retire 1 Cœur. À 0 Cœur, on abandonne la querelle."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Un chaton connaît un sort de miagie : il peut le lancer avant ou pendant la querelle."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Un chaton n’a plus que 1 Cœur : "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " vient l’aider, Avantage à son prochain jet."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "d9b0a26f-26a7-4de8-8fc2-5996f28fbb41",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "les souris s’enfuient en couinant. La "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "aa8339ab-c6ff-41a3-8487-79906d9994ee",
+                  "label": "Pomme d’or",
+                  "mentionSuggestionChar": "@",
+                  "nature": "objet"
+                }
+              },
+              {
+                "type": "text",
+                "text": " est en sécurité avec les chatons"
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "condition": {
+        "si": true,
+        "fait": "Souris en fuitent"
+      },
+      "parties": [
+        {
+          "id": "49ffa3bc-5ed0-45fd-a94d-73e36d23b38f",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vous l’avez"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " fait ! La forêt est sauvée"
+                  },
+                  {
+                    "type": "text",
+                    "text": "… pour le moment. "
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Victorin"
+        }
+      ]
+    },
+    {
+      "id": "1bf1d91a-eee4-4081-beb8-743977014f51",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Les souris ont la pomme et filent avec !"
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "condition": {
+        "si": false,
+        "fait": "Souris en fuitent"
+      },
+      "parties": [
+        {
+          "id": "12ed6409-b37e-47c0-a617-febbcc682fe7",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "On l’a ! Le maître sera fier ! "
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Souri"
+        }
+      ]
+    },
+    {
+      "id": "9107b76b-ad74-4036-a2ba-c0f244659d46",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mettre à jour qui a la "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "aa8339ab-c6ff-41a3-8487-79906d9994ee",
+                  "label": "Pomme d’or",
+                  "mentionSuggestionChar": "@",
+                  "nature": "objet"
+                }
+              },
+              {
+                "type": "text",
+                "text": " : les chatons, ou les "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+                  "label": "Souris maléfiques",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "bc5045e3-6139-42f5-8c8a-b6dcac46f6d9",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Si "
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Les souris ont la pomme",
+                      "label": "Les souris ont la pomme",
+                      "mentionSuggestionChar": "#"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "lieuIds": [
+    "679b9ef0-b68d-4578-9c80-20f09d2b9fb9"
+  ],
+  "ambiance": "une clairière de rêve, abîmée"
+}

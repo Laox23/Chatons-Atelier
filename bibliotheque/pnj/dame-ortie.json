@@ -1,0 +1,14 @@
+{
+  "id": "db72ecfe-470a-4cc1-a037-75d5f61ad6a9",
+  "nom": "Dame Ortie",
+  "role": "Hérissonne en tablier, jardinière de la serre, en haut de l’Arbrachat",
+  "attitude": "Sévère et piquante ; elle aime ses plantes plus que tout, mais se laisse attendrir",
+  "stats": "Talent : Feuler et menacer",
+  "costaud": 3,
+  "malin": 2,
+  "mignon": 1,
+  "coeur": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une hérissonne en tablier de jardinière, piquants dressés, un pot de menthe à chat dans les pattes."
+}

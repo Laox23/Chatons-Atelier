@@ -1,0 +1,11 @@
+{
+  "id": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+  "nom": "Pense-bête",
+  "icone": "📌",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "couleur": "#ca8a04",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "stylesParDefaut": {
+    "position": "droite"
+  }
+}

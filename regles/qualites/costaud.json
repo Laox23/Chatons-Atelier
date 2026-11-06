@@ -1,0 +1,13 @@
+{
+  "id": "f28f9b6a-be90-44a9-bc27-5eacdfce7cf7",
+  "titre": "Costaud",
+  "sousTitre": "Force et endurance",
+  "groupe": "Qualités",
+  "couleur": "#b5655e",
+  "icone": "tete",
+  "ordre": 1,
+  "texte": "La force, l’endurance, la vitesse et l’agilité.\nPour : grimper, porter, courir, encaisser.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Costaud sert dès qu'il faut le corps : force, endurance, vitesse, agilité.\nExemple : grimper au toit de l'orphelinat, porter des planches, courir après Grelot, encaisser une chute.\nExemple : en querelle, intimider en montrant les crocs se fait avec Costaud (querelle de crocs), griffer aussi (querelle de griffes).\nContre-exemple : convaincre la garde de laisser passer en étant aimable n'est pas Costaud, c'est Mignon."
+}

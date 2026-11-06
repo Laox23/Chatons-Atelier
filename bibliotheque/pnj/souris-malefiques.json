@@ -1,0 +1,17 @@
+{
+  "id": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+  "nom": "Souris maléfiques",
+  "role": "Sbires de Mickus, vêtues de toges sombres",
+  "attitude": "Elles ont mauvais air et chuchotent sans cesse",
+  "stats": "",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "costaud": 2,
+  "malin": 3,
+  "mignon": 1,
+  "coeur": 4,
+  "talentIds": [
+    "324ee245-c33b-4f42-bdec-d370e0573529"
+  ],
+  "descriptionImage": "Des souris à l’air mauvais, en toges sombres à capuche."
+}

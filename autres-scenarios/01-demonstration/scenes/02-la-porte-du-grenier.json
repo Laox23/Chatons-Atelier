@@ -1,0 +1,213 @@
+{
+  "id": "sd-faits",
+  "titre": "La porte du grenier",
+  "ambiance": "poussière dorée, silence",
+  "statut": "prete",
+  "but": "Montrer le passage des anciens faits : un fait posé par une seule suite se remplace par l'issue ; un fait à deux causes reste un fait de campagne.",
+  "encarts": [
+    {
+      "id": "sd2-intro",
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "styles": {},
+      "libelle": "Pour le MJ",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ouvre « Faits de vos scénarios », en bas de la scène en Création. "
+              },
+              {
+                "type": "text",
+                "text": "#porte-ouverte",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " vient d'une seule suite et n'est attendu qu'ici : Chatons dit d'où il vient et propose « Remplacer par l'issue ». "
+              },
+              {
+                "type": "fait",
+                "attrs": {
+                  "id": "ami-de-charbon",
+                  "label": "ami-de-charbon"
+                }
+              },
+              {
+                "type": "text",
+                "text": " a deux causes : il reste un fait de campagne."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sd2-porte",
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "styles": {},
+      "libelle": "Le loquet",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Soulever le vieux loquet."
+              }
+            ]
+          }
+        ]
+      },
+      "champs": {
+        "sorte": "groupe",
+        "qualite": "malin",
+        "difficulte": "1",
+        "reussi": "La porte grince et s'ouvre. #porte-ouverte",
+        "rate": "Le loquet ne bouge pas."
+      }
+    },
+    {
+      "id": "sd2-derriere",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "styles": {},
+      "condition": {
+        "si": true,
+        "fait": "porte-ouverte"
+      },
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Derrière la porte : une malle, des pelotes, et une odeur de vieux biscuit."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sd2-charbon",
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "styles": {},
+      "libelle": "Charbon",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "nature": "pnj",
+                  "id": "b698778c-2eb2-409c-bfb2-d2e87c79e445",
+                  "label": "Charbon"
+                }
+              },
+              {
+                "type": "text",
+                "text": " dort sur la malle. Deux façons d'en faire un ami."
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "sd2-calin",
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": null,
+          "champs": {
+            "sorte": "qualite",
+            "qualite": "mignon",
+            "difficulte": "2",
+            "reussi": "Charbon ronronne. #ami-de-charbon",
+            "rate": "Charbon grogne et se retourne."
+          }
+        },
+        {
+          "id": "sd2-defi",
+          "typeId": "99a01fbe-7bae-474a-b648-7fdaa7c6c221",
+          "contenu": null,
+          "champs": {
+            "sorte": "crocs",
+            "adversaires": "b698778c-2eb2-409c-bfb2-d2e87c79e445",
+            "enjeu": "la place sur la malle",
+            "gagne": "Charbon vous respecte. #ami-de-charbon",
+            "perd": "Charbon garde la malle."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sd2-ami",
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "qui": "Charbon",
+      "styles": {},
+      "condition": {
+        "si": true,
+        "fait": "ami-de-charbon"
+      },
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Revenez quand vous voulez, les minots."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sd2-memo",
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "styles": {
+        "position": "droite"
+      },
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "À cocher à la main si la table range le grenier : "
+              },
+              {
+                "type": "fait",
+                "attrs": {
+                  "id": "grenier-range",
+                  "label": "grenier-range"
+                }
+              },
+              {
+                "type": "text",
+                "text": ". Ce fait survit au scénario."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

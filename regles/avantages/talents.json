@@ -1,0 +1,13 @@
+{
+  "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
+  "titre": "Talents",
+  "sousTitre": "Savoir-faire",
+  "groupe": "Avantages",
+  "couleur": "#8a62a8",
+  "icone": "etoile",
+  "ordre": 10,
+  "texte": "Acquis ou absent : un talent n’a pas de valeur chiffrée.\nEffet : quand un talent aide le chaton à agir mieux, plus vite ou plus facilement, Avantage : 4D6 au lieu de 3D6.\nEn apprendre : par l’expérience, ou auprès d’un professeur.\nLa liste : 24 talents, groupe « Liste des talents ».",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Un talent se possède ou non : il n'a pas de chiffre. Quand il aide vraiment le chaton à agir mieux, plus vite ou plus facilement, le chaton a l'Avantage : 4 dés au lieu de 3.\nExemple : Plume a Soigner blessures et maladies. Elle soigne Mistigri : test de Malin avec l'Avantage.\nContre-exemple : Plume utilise le même talent pour convaincre un garde. Le talent n'aide pas cette action : pas d'Avantage.\nContre-exemple : deux talents adaptés ne donnent pas 5 dés. L'Avantage ne se cumule pas."
+}

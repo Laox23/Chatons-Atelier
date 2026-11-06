@@ -1,0 +1,314 @@
+{
+  "id": "727da391-b4a2-43df-8a58-8312de62c2d2",
+  "but": "rejoindre Grelot là-haut ; le don, l’objet important, les relances et le Cœur",
+  "titre": "Par les toits de l’école",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "378478c8-85d0-4fea-8d7e-aaaa0f066abd",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "C’est jour de marché : pas d’école aujourd’hui. La porte est fermée à clé, et le vieux gardien fait la sieste dans sa loge.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Tout là-haut, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e91445ba-b5f4-4108-b370-8da257681017",
+                  "label": "Grelot",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " grimpe de poutre en poutre, toujours derrière son papillon. Il passe par une lucarne sous un toit de vitres, et disparaît.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "87177b3b-0c17-4497-9f7c-e18d3e9550f7",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Demander à la joueuse comment son chaton monte. Toute bonne idée marche ; la conteuse choisit la Qualité et la Difficulté selon l’idée.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "a12d3d9f-6ab3-48c2-97f1-e9879e011705",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Escalader la façade par les poutres : Costaud, Difficile, 3 succès.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "431201f5-d7e2-463b-98ef-760757a4443d",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Passer par une fenêtre entrouverte et monter par l’intérieur sans réveiller le gardien : Malin, Moyenne, 2 succès. Avantage avec Se déplacer en silence.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "02e65be2-0f99-4859-a56f-220fcb643238",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Réveiller le gardien et le convaincre d’ouvrir : Mignon, Moyenne, 2 succès. Avantage avec Convaincre et baratiner.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "80644910-0a91-44db-ad27-4d76a26af874",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Son don peut servir : il rend l’action possible, la fait réussir sans jet, ou donne une relance ou l’Avantage. S’il est très fort, il peut coûter 1 Amitié.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Un objet important qui sert vraiment, une corde, une écharpe, un bâton : elle relance un dé au choix.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "56f537b7-ed84-4aaf-8437-9d94f6019b0f",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "2bfdff93-733b-488e-953a-6a3dca7bc2ad",
+                  "label": "Don",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "18437f0c-ea6a-499b-819f-37f1c8f82367",
+                  "label": "Objet important",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "d7e71282-1829-4c7c-9bd9-ed21b8f83e24",
+                  "label": "Relances",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a76a3af-7323-40c4-81d7-3c7be942b4f0",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Aucun succès : le chaton glisse et se rattrape de justesse à une enseigne. Il arrive quand même en haut, essoufflé.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "307051ae-5c44-468f-bccd-8f6358980f0c",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Quel que soit le résultat : en passant la lucarne, le chaton s’écorche la patte sur une vitre cassée. Il perd 1 Cœur.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "91be06bc-64d9-44fd-8b1c-a20c1247892a",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+                  "label": "Cœur",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "1969a8f7-3d71-4f65-a7cb-ed6abd01e5bd",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Te voilà devant la lucarne. De l’autre côté, il fait chaud et ça sent la terre mouillée. Il y a des plantes partout, et des dizaines de papillons.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Et puis tu entends une voix sèche : « Toi, tu ne bouges plus d’ici ! »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5ed573c1-8d80-438d-a3a4-b2e4f0c2cb31",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le chaton entre dans ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "48285b7e-0588-4839-911b-34a7a8c1a040",
+                  "label": "La serre",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "du vent, du vide, et une vue magnifique"
+}

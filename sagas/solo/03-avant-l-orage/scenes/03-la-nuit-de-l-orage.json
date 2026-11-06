@@ -1,0 +1,370 @@
+{
+  "id": "a2da0903-3000-431b-99f8-445172187d62",
+  "but": "réparer le toit sous la pluie ; l’Avantage et le Désavantage ensemble ; finir la campagne",
+  "titre": "La nuit de l’orage",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "0037d559-3a38-4a32-b2a7-530deefba16d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "L’orage éclate. Il pleut si fort qu’on n’y voit plus rien, et le vent secoue la vieille maison.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Charbon tient l’échelle. Noisette passe les clous. Toi, tu montes sur le toit avec les planches.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c78c4969-eae0-45d2-acc5-ac332c4482b2",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Réparer le toit : Costaud, Difficile, 3 succès.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Désavantage : la pluie et le vent.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Avantage : le talent Bricoler des trucs et des machins, s’il vient de l’apprendre.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a8a689d-7847-4c6d-9646-2b8d7f44529c",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Avantage et Désavantage à la fois : ils s’annulent, on lance 3D6.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Un objet important qui sert vraiment, un marteau, une corde : il relance un dé au choix.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "S’il manque un succès : dépenser 1 Amitié pour 1 succès automatique.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "8202f8e7-0aca-4a62-82ff-52024930c07d",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                  "label": "Avantage et Désavantage",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "d7e71282-1829-4c7c-9bd9-ed21b8f83e24",
+                  "label": "Relances",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+                  "label": "Amitié",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "440c8741-22a7-4ac5-a5dc-847cebbe2d95",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Sous le seuil, la joueuse choisit : un échec, le toit fuit encore un peu et les petits dorment serrés dans un coin sec ; ou une réussite avec une complication, le chaton glisse et descend du toit trempé jusqu’aux os.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "20d4e4fc-3816-49a4-a8df-9520aa8caf3b",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e3afe11d-32b6-4fff-9756-efc3bf4a422d",
+                  "label": "Résultat",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "7be8a9ce-d71a-4bf5-932c-2c26446277b4",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Quand tu redescends, les petits t’attendent avec une couverture. ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e91445ba-b5f4-4108-b370-8da257681017",
+                  "label": "Grelot",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " est là aussi, venu avec sa maman et une marmite de soupe.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Dehors, l’orage gronde. Dedans, tout le monde est au sec, serré autour de la soupe. Noisette chante, et les petits s’endorment un par un.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "4630bb45-cc08-458b-b058-12e5b1b1c99e",
+      "qui": "Grelot",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Tu sais quoi ? Quand je serai grand, je ferai des aventures comme toi. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "06796d47-8760-4c6a-9e61-e5e8929521a3",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une soirée tranquille et joyeuse : le chaton regagne 1 Amitié.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "La nuit, il dort au calme : il regagne 1 Cœur.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ad701447-d68f-48be-b0cf-ed32fc9ffdb5",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+                  "label": "Amitié",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+                  "label": "Cœur",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "86ad8e0b-e2f1-4027-9f21-2d6bf73db858",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fin de la séance et aventure finie : le chaton gagne 2 points d’expérience.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e188701e-a65d-458e-8d29-479ce51944da",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9dd70904-bdc9-4aab-9ee3-26a6a0af7a68",
+                  "label": "Expérience",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e316f175-3ba2-4573-9469-7cceef55f9e8",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fin de la campagne Solo. Le chaton retrouvera l’Arbrachat plus tard, dans la campagne Intro.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "la pluie, le vent, puis une nuit au sec"
+}

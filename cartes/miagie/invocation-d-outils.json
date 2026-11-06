@@ -1,0 +1,13 @@
+{
+  "id": "d7ec8443-64c7-4dcc-bb1c-afb9691a107f",
+  "infos": {
+    "Qualité": "Malin",
+    "École": "Miagie des ateliers",
+    "Niveau": "2"
+  },
+  "owner": "nicolas.fonollosa@gmail.com",
+  "texte": "Le Chaton fait apparaître un sac plein d’outils utiles pour la tâche à venir et qu’il peut utiliser jusqu’à complétion du travail. Ils disparaissent ensuite.",
+  "titre": "Invocation d’outils",
+  "paquet": "Miagie",
+  "realmId": "nicolas.fonollosa@gmail.com"
+}

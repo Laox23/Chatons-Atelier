@@ -1,0 +1,584 @@
+{
+  "id": "e60eed61-053f-4938-958e-7cca5a17c9c0",
+  "but": "libérer Léon et Grinella ; la Difficulté, les talents et le trait de caractère",
+  "titre": "À la chasse avec un canard",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "5f354a70-ab20-4f62-938a-13e948e0ff8f",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous arrivez près du véhicule et restez cachés. C’est un ancien véhicule agricole, transformé par les chiens : d’énormes moteurs, des pots d’échappement partout.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Tout près, trois molosses pestent et râlent : ils ont perdu le canard. Ils ont retiré leurs armures et posé leurs armes à l’arrière du véhicule. Deux réparent, le troisième surveille.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous voyez ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
+                  "label": "Léon",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " et ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
+                  "label": "Grinella",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ", attachés à une des roues.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "f77cb03a-9991-4313-a862-442eaace4c69",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce sont des "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
+                      "label": "Chiens de la Casse",
+                      "mentionSuggestionChar": "@",
+                      "nature": "faction"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " : leurs armes sont à l’arrière du véhicule, pas sur eux."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "27d114bf-ba6a-42f4-afc7-6c9a346ec5fc",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " observe la situation et propose trois plans :"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "aad8c875-2f42-4018-8c75-d3d6faafa4f9",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1. Détacher discrètement les prisonniers et s’enfuir."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2. Prendre discrètement les armes, puis intimider les chiens : plus risqué, mais plus d’informations et de prestige."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3. Ou un meilleur plan, s’il vient des joueuses."
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Victorin"
+        },
+        {
+          "id": "dc08cd6c-1d00-4ae2-a306-c5b6d9d00648",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "ee0dff72-d5ef-4042-aaa4-3add235acbc7",
+                      "label": "Difficulté",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
+                      "label": "Talents",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "fc4b430d-0020-4c63-acbf-39105300b5f5",
+                      "label": "Trait de caractère",
+                      "mentionSuggestionChar": "@",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "70440ab0-0f08-4f6a-a0f3-43eb6f1b805d",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Si  "
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Prisionniers libérés",
+                      "label": "Prisionniers libérés",
+                      "mentionSuggestionChar": "#"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "  ou  "
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Armes prisent",
+                      "label": "Armes prisent",
+                      "mentionSuggestionChar": "#"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "  ou "
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Echec",
+                      "label": "Echec",
+                      "mentionSuggestionChar": "#"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b81f87a7-740f-4d1d-a1cc-8566a814dc53",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Les "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
+                  "label": "Chiens de la Casse",
+                  "mentionSuggestionChar": "@",
+                  "nature": "faction"
+                }
+              },
+              {
+                "type": "text",
+                "text": " partent à la poursuite des chatons"
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "condition": {
+        "si": true,
+        "fait": "Prisionniers libérés"
+      },
+      "parties": [
+        {
+          "id": "050d7c8f-dced-45d5-b121-1a2364d71b7c",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " Les gars, ça sert à rien. Avec toutes les souris qui traînent, faut qu’on répare le véhicule avant qu’elles s’en prennent à nous"
+                  }
+                ]
+              }
+            ]
+          },
+          "qui": "Un des chiens"
+        }
+      ]
+    },
+    {
+      "id": "c703b98d-a8db-4ba9-a544-3d71c415969e",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Les chatons font prisonnier les "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
+                  "label": "Chiens de la Casse",
+                  "mentionSuggestionChar": "@",
+                  "nature": "faction"
+                }
+              },
+              {
+                "type": "text",
+                "text": " et libèrent "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
+                  "label": "Léon",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " et "
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
+                  "label": "Grinella",
+                  "mentionSuggestionChar": "@",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "condition": {
+        "si": true,
+        "fait": "Armes prisent"
+      },
+      "parties": [
+        {
+          "id": "e7845cae-3a5b-471a-a7e3-bc6acdd450ad",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ils apprennent le lore de "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
+                      "label": "Casse-Auto",
+                      "mentionSuggestionChar": "@",
+                      "nature": "lieu"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " ici, récompense leurs courages "
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "0aff6614-aa20-4a8a-8c5a-5d1de2cc316d",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les chatons peuvent récupérer des vivres, des rations, des armes "
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "93497e94-43ff-4cb8-8c8c-d1054426fd2d",
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": " les chatons sont faits prisonniers. Les chiens réparent le véhicule, mais il marche moins bien et ne peut pas emmener tout le monde : ils laissent les prisonniers au bord du chemin."
+              }
+            ]
+          }
+        ]
+      },
+      "styles": {},
+      "condition": {
+        "si": true,
+        "fait": "Echec"
+      },
+      "parties": [
+        {
+          "id": "7da49af7-2212-4ca8-8d13-b8b694463559",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " se libère avec une pierre tranchante et délivre tout le monde. "
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "c9914dca-5dbe-4a4f-bdbd-52ff3f607a8d",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Chaque chaton perd 1 Cœur."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "aa65a699-59a7-44ff-aab7-d7c1ad5e09cb",
+      "styles": {},
+      "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
+                  "label": "Chiens de la Casse",
+                  "nature": "faction"
+                }
+              },
+              {
+                "text": " regrettent les ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "cd8c5986-c405-417b-a9ab-d42ae158679c",
+                  "label": "Gros-tout-nus",
+                  "nature": "mot"
+                }
+              },
+              {
+                "text": ", leurs maîtres, et attendent leur retour. Ils vagabondent et errent ; certains sombrent et deviennent violents.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
+                  "label": "Casse-Auto",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": " n’est un paradis pour personne : une décharge de vieilles voitures. Les chiens y frappent la tôle pour faire des armes et des armures, moches et rouillées.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Ils partent en meute piller et récupérer des matériaux, et forcent d’autres animaux à travailler.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Lore Casse auto et chiens de la casse"
+    }
+  ],
+  "ambiance": "tension et discrétion"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2bfdff93-733b-488e-953a-6a3dca7bc2ad",
+  "titre": "Don",
+  "sousTitre": "Le cadeau de l’enfance",
+  "groupe": "Avantages",
+  "couleur": "#8a62a8",
+  "icone": "etoile",
+  "ordre": 10.2,
+  "texte": "Un par chaton : il vient de sa carte d’enfance.\nEffet : rend une action possible, la fait réussir sans jet, ou donne une relance ou l’Avantage.\nTrès fort : l’effet peut coûter 1 Amitié.\n! La conteuse tranche au cas par cas.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Chaque chaton a un don, venu de sa carte d'enfance. Un don peut rendre possible une action qui ne l'était pas, la faire réussir sans jet, ou donner une relance ou l'Avantage.\nSi l'effet est très fort, il peut coûter 1 Amitié. C'est la conteuse qui tranche, au cas par cas.\nExemple : un chaton au don de parler aux oiseaux peut questionner un moineau, ce que les autres ne peuvent pas faire.\nExemple : un chaton qui veut que son don règle toute la scène d'un coup : la conteuse peut demander 1 Amitié en échange.\n! Rien ici n'est automatique : la conteuse décide chaque fois de l'effet et du prix."
+}

@@ -1,0 +1,297 @@
+{
+  "id": "3cdc23ab-0e71-4ea4-aa6e-8e4204a71742",
+  "but": "faire connaissance entre chatons ; se reposer ; le Cœur et l’Amitié",
+  "titre": "Vers l’inconnu et au-delà",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "a334220f-6490-47a9-9ed1-57266467d0f5",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous arrivez aux limites du royaume. La nuit tombe : il faut se reposer.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "380faedb-fb9b-45f4-8e7f-f331649fbc42",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "S’ils sont venus en charrette : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+                      "label": "Anatole",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " et ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "996bfb46-017b-49b6-9307-3e5de7e8b1ee",
+                      "label": "Picotin",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " les laissent là, les encouragent et leur donnent quelques friandi",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "35d0eb1d-b6e9-4b59-b5fe-5d17aaf438b6",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous trouvez un petit bosquet calme, près d’un panneau qui indique la ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
+                  "label": "Casse-Auto",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": " et la ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+                  "label": "Forêt endormie",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "9986bc26-d69d-4966-b021-c63c50e602fd",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Mettez en scène un moment calme : faites connaissance, jouez, chantez…",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "54bb9ea3-812c-4ee8-aac8-14e85ff703bd",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Une nuit au calme rend 1 Cœur à chaque chaton",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "c4aea1eb-c474-442c-b58d-5e4b54c25f40",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Si moment convivial entre chatons ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "080de0c0-c67c-426b-a61d-ff55b10ccb4d",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Gros câlin : un chaton peut dépenser 1 Amitié pour rendre 1 Cœur à un compagnon.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Dormir ensemble au calme est un beau moment partagé : chaque chaton regagne 1 Amitié",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "1bbf0c8c-2650-4993-8f74-25bfa2d08871",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+                      "label": "Cœur",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+                      "label": "Amitié",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "9d8497ec-7574-4175-99a1-e97ba774d695",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Pendant la nuit, vous entendez au loin des hurlements, des bruits, de la mécanique…",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "183800e2-94ec-4117-886c-b6e1aea5c958",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Ce sont les chiens de la casse ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b9b00f90-69e5-4cfa-9df3-06d9bad7ac6e",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au réveil, les chatons sont en forme : ils ont bien dormi. Mais ils sont toujours perdus. Que leur réserve l’avenir ?",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "lieuIds": [
+    "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7"
+  ],
+  "ambiance": "le calme du soir, puis des bruits inquiétants dans la nuit"
+}

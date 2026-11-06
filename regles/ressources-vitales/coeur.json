@@ -1,0 +1,13 @@
+{
+  "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+  "titre": "Cœur",
+  "sousTitre": "Santé et volonté",
+  "groupe": "Ressources vitales",
+  "couleur": "#c9607a",
+  "icone": "coeur",
+  "ordre": 4,
+  "texte": "La santé, la volonté et l’énergie du chaton.\nAu départ : Costaud + Malin.\nMaximum : jamais plus que la valeur de départ.\nOn en perd : agressé, stressé, blessé, ou quand on perd espoir.\nRepos : 1 au repas de midi, 1 pendant la nuit.\nTendresse : un compagnon dépense 1 Amitié et rend 1 Cœur.\nSoigner : une fois par demi-journée, un test de Malin avec le talent Soigner blessures et maladies rend 1 Cœur à un autre chaton.\n! À 0 Cœur, le chaton est hors jeu.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Le Cœur est à la fois la santé et le courage du chaton. Il part de Costaud + Malin et ne monte jamais au-dessus de cette valeur de départ.\nOn en perd quand on est blessé, mais aussi quand on est agressé, stressé, ou qu'on perd espoir.\nOn en regagne : 1 au repas de midi, 1 pendant la nuit ; 1 quand un compagnon dépense 1 Amitié en tendresse ; 1 grâce à un soin avec le talent Soigner blessures et maladies.\nExemple : Mistigri a Costaud 3 et Malin 2 : il démarre avec 5 Cœur. Il tombe d'une branche et perd 1 Cœur. Au repas de midi, il le regagne.\nExemple : Plume voit l'orphelinat prendre l'eau et croit que tout est perdu : elle peut perdre 1 Cœur sans aucune blessure.\nContre-exemple : Mistigri a 5 Cœur, il dîne et dort bien. Il reste à 5 : jamais plus que la valeur de départ.\nContre-exemple : soigner deux fois le même matin. Le soin se fait une fois par demi-journée, et sur un autre chaton.\n! À 0 Cœur, le chaton est hors jeu : il ne peut plus agir. En querelle de griffes, c'est en plus une blessure grave (table des blessures du livre)."
+}

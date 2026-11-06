@@ -1,0 +1,13 @@
+{
+  "id": "ebe4beed-616e-42f7-aa53-9892dba38d2c",
+  "ambiance": "Des rires, des cris, et des seaux sous les gouttières",
+  "pnjIds": [
+    "cc9bd048-39e0-433d-81a2-3fc029afb185"
+  ],
+  "nom": "L’orphelinat",
+  "description": "Une vieille maison penchée au pied de l’Arbrachat, pleine de petits sans famille. Son toit fuit.",
+  "parentId": "532cba13-f874-4d6f-9332-c70f743aee18",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une vieille maison penchée au pied d’un château, au toit qui fuit, des seaux sous les gouttières."
+}

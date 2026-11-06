@@ -1,0 +1,37 @@
+{
+  "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+  "nom": "Anatole",
+  "role": "Vieux matou paysan, il mène une charrette de croquettes tirée par Picotin",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Méfiant à cause des attaques sur les routes, mais il a un cœur d’or",
+  "descriptionImage": "Un vieux matou gris au museau blanchi, chapeau de paille et gilet de paysan.",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "text": "Il voyage sur une charrette de croquettes tirée par ",
+            "type": "text"
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "996bfb46-017b-49b6-9307-3e5de7e8b1ee",
+              "label": "Picotin",
+              "nature": "pnj",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "text": " ",
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "d7dc35d3-a402-467a-bd4e-a4e28db3bc32",
+  "ambiance": "Gris, enfumé, on tousse un peu",
+  "pnjIds": [
+    "b698778c-2eb2-409c-bfb2-d2e87c79e445"
+  ],
+  "nom": "Le quartier de la suie",
+  "description": "Des ruelles étroites entre des maisons noires de suie. Des cheminées partout. La bande à Charbon y fait payer un péage.",
+  "parentId": "532cba13-f874-4d6f-9332-c70f743aee18",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Des ruelles étroites entre des maisons noires de suie, des cheminées qui fument partout."
+}

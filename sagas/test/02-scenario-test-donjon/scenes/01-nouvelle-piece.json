@@ -1,0 +1,15 @@
+{
+  "id": "1030e869-2cb8-409b-a94a-e8d05ca41715",
+  "but": "",
+  "piece": true,
+  "titre": "Nouvelle pièce",
+  "donjon": "Donjon test",
+  "statut": "brouillon",
+  "suites": [
+    {
+      "vers": "fc9fd6a8-cdf1-4c5f-8f22-196b8e31c491"
+    }
+  ],
+  "encarts": [],
+  "ambiance": ""
+}

@@ -1,0 +1,563 @@
+{
+  "id": "c7c2df9c-9902-4497-a8c5-9d6ec86af0e9",
+  "but": "repérer la piste des souris ; les dons, les relances et l’opposition",
+  "titre": "Une forêt perturbée",
+  "statut": "brouillon",
+  "encarts": [
+    {
+      "id": "d8c5cbe5-25d5-4bbb-85b6-f48ca4215e15",
+      "styles": {},
+      "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+                  "label": "Forêt endormie",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": " doit son nom à ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "7735c5cb-2222-47e7-a928-f6886efe45c6",
+                  "label": "Séléné",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ", un esprit qui prend la forme d’une chouette immense au plumage de feuilles, portant deux grandes cornes de branches fleuries.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Séléné dort sans cesse, au son d’une berceuse. De ses rêves enchantés vient la vitalité de la forêt : c’est un esprit généreux et paisible, qui la rend accueillante et bienveillante.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Mais les années passent : les animaux s’agitent de plus en plus autour de la forêt et l’exploitent à outrance. La jolie berceuse devient peu à peu un chant grave et inquiétant.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "558c5bac-551c-482c-8c4a-14237b5ce209",
+      "styles": {},
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Dans ce scénario, les chatons s’opposent aux sbires de ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "f8f397c7-4507-4ded-a52b-8c75bb474452",
+                  "label": "Mickus",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ", une souris souricière, méchant récurrent de plusieurs scénarios et campagnes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "c4ae76cf-ed3a-46fe-bcf8-f834f4cbb171",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " vous mène vers la ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+                      "label": "Forêt endormie",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ". Vous passez devant d’anciens vestiges des ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "cd8c5986-c405-417b-a9ab-d42ae158679c",
+                      "label": "Gros-tout-nus",
+                      "nature": "mot",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "En approchant, vous remarquez que la forêt commence à être déboisée.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "d1430ed3-2dc4-4b23-8d0a-23d02dc1ac52",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Montrer la ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+                      "label": "Forêt endormie",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "a5154d6a-b79d-411f-adac-f0b2126b03ce",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Quand vous entrez dans la forêt, l’ambiance change du tout au tout : il fait sombre, la forêt est hostile.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "5f98d43d-5c8c-4631-8af1-88fd315427be",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " est surpris et inquiet. L’angoisse l’empêche d’être efficace : il reste en retrait.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "c90f1865-c490-4a59-84d5-29f81c45701c",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "2bfdff93-733b-488e-953a-6a3dca7bc2ad",
+                      "label": "Don",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "d7e71282-1829-4c7c-9bd9-ed21b8f83e24",
+                      "label": "Relances",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "1a9a13a4-9136-4eb1-93c6-8ca33aa7495a",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les chatons sont inquiets eux aussi, ils cherchent et observent les alentours pour comprendre.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "44fb4e5c-8e23-4e0b-9ae3-8448c06bc10d",
+          "champs": {
+            "sorte": "groupe",
+            "reussi": "#TracesDecouvertes",
+            "qualite": "malin",
+            "difficulte": "2"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": null
+        },
+        {
+          "id": "dd91aceb-5b68-4753-8dee-e1f4f6a8699d",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Sur un ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "f15d3c1d-6a17-4bfc-bcd0-8cc061565e21",
+                      "label": "Triple",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " les chatons remarquent que ce sont des traces de souries",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "3ed9efdc-0be1-42c6-b095-2155ec3cf56e",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons remarquent que des traces fraiches sont en direction du centre de la forêt, cela inquiète beaucoup ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " il faut les suivre au plus vite.  ",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "e7960e67-f570-497b-a9e6-f70e73fc933b",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Présentation de la règle de ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "85151d37-6714-40e3-adca-2e8919981449",
+                      "label": "Action en opposition",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "6270677c-8a89-4396-8bf0-7e0e59802073",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les chatons ont ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                      "label": "Avantage et Désavantage",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " => Avantage",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "816beaab-a23a-4ac9-946d-8e95d4cedd93",
+          "champs": {
+            "sorte": "course",
+            "qualite": "malin",
+            "difficulte": "2",
+            "pnjId": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Course égale\",\"label\":\"Course égale\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": null
+        }
+      ],
+      "condition": {
+        "si": true,
+        "fait": "Traces découvertes"
+      }
+    },
+    {
+      "id": "2d0bd241-4e31-491a-be3d-bfbd2c7cb662",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons sont un peu perdu, cela inquiète beaucoup ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " qui veut aller vers le centre de la forêt.  ",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "4dc13908-dbdc-490b-9e97-da78d55c1f1d",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Présentation de la règle de ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "85151d37-6714-40e3-adca-2e8919981449",
+                      "label": "Action en opposition",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "be36c392-c232-490f-9751-5b6f09d6de72",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les chatons ont ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                      "label": "Avantage et Désavantage",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " => Désavantage",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "28c9a2b2-7de9-48bf-ab94-e64680f8c2e3",
+          "champs": {
+            "sorte": "course",
+            "qualite": "malin",
+            "difficulte": "2",
+            "pnjId": "861775ee-dfd0-4359-adf8-f582176e5bb5",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Course égale\",\"label\":\"Course égale\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": null
+        }
+      ],
+      "condition": {
+        "si": false,
+        "fait": "Traces découvertes"
+      }
+    }
+  ],
+  "ambiance": "une forêt devenue sombre et hostile",
+  "lieuIds": [
+    "56c9ae0c-56bc-4eed-a97d-c332e8d4d156"
+  ]
+}

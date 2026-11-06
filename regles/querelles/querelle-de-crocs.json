@@ -1,0 +1,13 @@
+{
+  "id": "5b25f8ab-c9e0-41f7-b958-c985183d7797",
+  "titre": "Querelle de crocs",
+  "sousTitre": "Sans blesser",
+  "groupe": "Querelles",
+  "couleur": "#a8693a",
+  "icone": "patte",
+  "ordre": 11.6,
+  "texte": "Quand : intimider, argumenter, convaincre, sans chercher à blesser.\nQualités : Costaud ou Mignon, avec un talent adapté : Feuler et menacer, Séduire et charmer, Convaincre et baratiner…\nChaque succès : retire 1 Cœur à l’adversaire.\nÀ 0 Cœur : on abandonne et on n’agit plus de la scène. Le vainqueur ne va pas plus loin que l’objet de la dispute.\nCéder : un camp peut céder à tout moment ; il ne revient plus dans la querelle.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "C'est une dispute sans chercher à blesser : intimider, argumenter, convaincre. On utilise Costaud ou Mignon, avec un talent adapté.\nChaque succès retire 1 Cœur à l'adversaire. Celui qui tombe à 0 Cœur abandonne et n'agit plus de la scène. Le vainqueur obtient ce qui était en jeu, mais pas plus.\nUn camp peut céder à tout moment ; il ne revient plus dans la querelle.\nExemple : les chatons veulent que les Chiens de la Casse libèrent un compagnon de Victorin. Mistigri les menace (Costaud, Feuler et menacer), Plume les baratine (Mignon, Convaincre et baratiner).\nExemple : le chef des chiens tombe à 0 Cœur : il abandonne et libère le prisonnier. Il ne devient pas pour autant l'ami des chatons.\nContre-exemple : un chaton se met à griffer. Ce n'est plus une querelle de crocs : on passe en querelle de griffes, et cela coûte 1 Amitié."
+}

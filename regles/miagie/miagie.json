@@ -1,0 +1,13 @@
+{
+  "id": "af916201-07e2-4c52-8392-87efb1c37977",
+  "titre": "Miagie",
+  "sousTitre": "La magie des chats",
+  "groupe": "Miagie",
+  "couleur": "#4f8a6b",
+  "icone": "etoile",
+  "ordre": 11.95,
+  "texte": "Tous les chatons : apprennent quelques sorts pendant leur enfance.\nLancer : un test de la Qualité de la voie du sort ; il faut autant de succès que la difficulté du sort.\nLes voies : Costaud, Tours et Grand’salles ; Malin, Ateliers et Champs ; Mignon, Villes et Caravanes.\nRecharge : le sort revient le lendemain matin, ou tout de suite contre 1 Cœur.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "La miagie est la magie des chats. Chaque chaton a appris quelques sorts pendant son enfance.\nPour lancer un sort, on teste la Qualité de sa voie : Costaud pour Tours et Grand'salles, Malin pour Ateliers et Champs, Mignon pour Villes et Caravanes. Il faut autant de succès que la difficulté du sort.\nUn sort lancé revient le lendemain matin, ou tout de suite si le chaton paie 1 Cœur.\nExemple : Plume lance un sort de la voie des Ateliers, difficulté 2. Elle teste Malin et obtient 2 succès : le sort marche.\nExemple : elle veut le relancer dans la même scène : elle paie 1 Cœur, ou attend le lendemain matin.\nContre-exemple : lancer un sort des Ateliers avec Mignon parce que Plume est plus Mignonne. La Qualité est celle de la voie du sort."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8e0a1d0c-5c80-4a3d-8af2-37568ddfba62",
+  "ambiance": "Bruyant, joyeux, ça sent le beignet chaud",
+  "pnjIds": [
+    "a32457a8-0cf1-464f-8956-4c9aa108d470"
+  ],
+  "nom": "Le marché",
+  "description": "Au pied de l’Arbrachat, autour d’une fontaine. Des étals de beignets, de laine et de lait de chèvre ; Mère Brioche y vend ses beignets.",
+  "parentId": "532cba13-f874-4d6f-9332-c70f743aee18",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une place autour d’une fontaine, des étals de beignets, de laine et de lait de chèvre.",
+  "ambianceSonore": "c1dce468-9a08-43e4-8e35-ea7f89b3765c"
+}

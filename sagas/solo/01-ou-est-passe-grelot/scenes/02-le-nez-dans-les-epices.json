@@ -1,0 +1,383 @@
+{
+  "id": "d0b4f371-b723-41b5-a586-a7e747aed3c9",
+  "but": "suivre la piste de Grelot ; les talents, l’Avantage et le Désavantage, le trait de caractère et l’Amitié",
+  "titre": "Le nez dans les épices",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "2403ed30-77e2-4746-9a64-94d3db95b9a7",
+      "styles": {},
+      "typeId": "1059017c-17c4-4735-952a-be3f7326ae9f",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Grelot a filé derrière un papillon bleu. Le chaton le cherche dans l’",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                  "label": "Arbrachat",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "229db7d8-21fe-46d4-b18e-0847ab3e52ff",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La ruelle est couverte de toiles rouges et jaunes. Des sacs ouverts débordent de poivre, de cannelle et d’herbe à chat.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Derrière un étal, un vieux rat à lunettes compte ses pièces : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "bc1a52e9-7923-468c-a84e-d34115171961",
+                  "label": "Gaspard",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "271b1f02-c45b-45ed-9671-bb7df3a8c334",
+      "qui": "Gaspard",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Un petit roux qui sent le miel ? Il a renversé ma cannelle, ce garnement ! Je ne sais plus par où il est parti. Le nez, petit, sers-toi de ton nez. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe4dd34b-cd3d-4644-9708-bb1a2e40bd07",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Gaspard sait où est allé Grelot : vers ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "081e11a7-2312-4de5-a282-753fadc92695",
+                  "label": "L’école",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ". Il le dit à qui le fait rire, ou à qui ramasse sa cannelle.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ca960dd-9f00-415b-86c9-beb127970794",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Malin : suivre l’odeur de miel de Grelot au milieu des épices.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Difficulté Moyenne : 2 succès.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "a3502b97-150c-47c5-88ef-dc8b1defc9c9",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Avantage : un talent adapté, comme Observer et fouiller ou Trouver son chemin ; ou l’aide de Gaspard.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Désavantage : elle court le nez dans le poivre.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Les deux : ils s’annulent, 3D6.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "7b6f6f05-38b8-4d50-bd2d-5b29ca124b25",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
+                  "label": "Talents",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                  "label": "Avantage et Désavantage",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "1c1f63fb-0acf-4ace-89a9-8e87e53cac97",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Après le jet, s’il manque un succès : proposer de dépenser 1 Amitié pour 1 succès automatique.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e53c120f-0005-47e5-a11e-54bbc32a082b",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+                  "label": "Amitié",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ae8ff2c-5c41-4fd0-8468-b85c412c85a9",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Demander à la joueuse le trait de caractère de son chaton. Gourmand, curieux, têtu… Comment pourrait-il l’aider ici ?",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Il aide : une fois par séance, il donne l’Avantage.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bf63598f-89dd-4421-8d1b-586bbef789c4",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "fc4b430d-0020-4c63-acbf-39105300b5f5",
+                  "label": "Trait de caractère",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "73176f4e-003b-4e81-9ebb-0d8c74831f6f",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "L’odeur de miel mène au bout de la ruelle, jusqu’à un escalier de bois. Tout en haut, accrochée aux flancs du château : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "081e11a7-2312-4de5-a282-753fadc92695",
+                  "label": "L’école",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Le papillon bleu monte encore plus haut. Et sur une poutre de la façade, une petite queue rousse dépasse…",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "338261e7-6d7b-4566-9399-01ece78afebc",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le chaton arrive au pied de ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "081e11a7-2312-4de5-a282-753fadc92695",
+                  "label": "L’école",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "des couleurs partout, des odeurs qui piquent le nez"
+}

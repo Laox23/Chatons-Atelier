@@ -1,0 +1,183 @@
+{
+  "id": "c4c3b568-ec80-4e65-b054-f63de29a72a5",
+  "but": "expliquer le jeu, puis poser le monde",
+  "son": "",
+  "titre": "Autour de la table",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "8bf46e52-46d6-483d-abb1-f711cb6304c7",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Ce soir, on joue à un jeu de rôle. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Personne ne gagne, personne ne perd : on raconte une histoire ensemble. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Vous êtes là pour vous amuser ; ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "vos chatons, eux, vivent l'aventure pour de vrai. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Chacune fait parler son chaton, et moi, la conteuse, je fais réagir le monde. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Ce qui est dit est fait : on ne revient pas en arrière.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "269e68aa-f917-4daa-8075-f2124ab289e7",
+                  "label": "Jouer ensemble",
+                  "nature": "regle",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "59e58ec4-59f0-4dee-aaff-e6b95d0f588b",
+                  "label": "Incarner son chaton",
+                  "nature": "regle",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "aff9c097-359d-4931-9257-ae0de7bd85b2",
+                  "label": "Pas de retour en arrière",
+                  "nature": "regle",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph"
+          }
+        ]
+      }
+    },
+    {
+      "id": "422bdf12-3c0c-4bd9-9cb2-cefb1650ab79",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les humains ont presque disparu. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "La nature a repris les villes et les campagnes. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Certains animaux parlent, travaillent, fabriquent des outils, et font même de la Miagie. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "D'autres sont restés sauvages : ils donnent le lait, le cuir, ou servent de monture. ",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Une seule loi pour tous : un animal qui parle ne mange pas d'animal qui parle.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "3cd1e6ac-f1be-4b6e-a221-5f767ba6970e",
+                  "label": "La règle unique",
+                  "nature": "regle",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph"
+          }
+        ]
+      }
+    }
+  ],
+  "imageId": "ca1c96d0-916b-4008-9cc2-6b35dc086188",
+  "lieuIds": [
+    "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7"
+  ],
+  "ambiance": "calme, accueillant"
+}

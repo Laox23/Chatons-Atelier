@@ -1,0 +1,13 @@
+{
+  "id": "3cd1e6ac-f1be-4b6e-a221-5f767ba6970e",
+  "titre": "La règle unique",
+  "sousTitre": "La loi du monde",
+  "groupe": "Esprit du jeu",
+  "couleur": "#a0785a",
+  "icone": "tete",
+  "ordre": -1,
+  "texte": "! Un animal qui parle ne mange pas d’animal qui parle.\nLes animaux sauvages : ne parlent pas ; ils donnent nourriture, lait, cuir, ou servent de monture.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "C'est la loi du monde des chatons : un animal qui parle ne mange jamais un animal qui parle. Les animaux qui ne parlent pas sont des animaux sauvages : ils servent de nourriture, donnent du lait ou du cuir, ou servent de monture.\nExemple : Victorin le canard parle. Les chatons ne le mangent pas, même affamés.\nExemple : une souris qui ne parle pas est un animal sauvage. La chasser pour manger est normal dans ce monde.\nContre-exemple : la buse de « Avant l'orage » attaque les chatons. Elle ne parle pas : elle n'est pas tenue par la règle, c'est un prédateur."
+}

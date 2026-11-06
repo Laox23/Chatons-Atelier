@@ -1,0 +1,13 @@
+{
+  "id": "59e58ec4-59f0-4dee-aaff-e6b95d0f588b",
+  "titre": "Incarner son chaton",
+  "sousTitre": "Parler et agir à sa place",
+  "groupe": "Esprit du jeu",
+  "couleur": "#a0785a",
+  "icone": "patte",
+  "ordre": -3,
+  "texte": "Parler : à la première personne, avec la voix du chaton.\nRéagir : à ce qui arrive, aux autres chatons, au monde.\nLa conteuse : fait réagir le monde à ce que font les chatons.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "La joueuse parle à la place de son chaton, avec « je », comme une actrice. La conteuse fait parler et réagir tout le reste : les PNJ, les animaux, le temps qu'il fait.\nExemple : « Je m'approche de Victorin et je lui demande d'une petite voix s'il a mal à l'aile. » La conteuse répond avec la voix de Victorin.\nContre-exemple : « Mon chaton va sûrement lui demander quelque chose. » Inviter la joueuse à dire ce que dit son chaton, avec ses mots à lui."
+}

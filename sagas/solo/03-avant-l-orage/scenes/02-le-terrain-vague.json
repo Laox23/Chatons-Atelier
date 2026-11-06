@@ -1,0 +1,421 @@
+{
+  "id": "ebb06fd6-0b03-47d4-8875-8f4450e523dd",
+  "but": "trouver des planches ; la querelle de griffes et la fuite",
+  "titre": "Le terrain vague",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "83716f15-2143-4257-874a-984aca5c7c25",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Montrer l’",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                  "label": "Arbrachat",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": " et y chercher le terrain vague : hors des murs, près du petit port du château.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b66e80b9-daa3-4afb-a602-eec8c9c24bf5",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le terrain vague est un grand champ d’objets abandonnés : des roues, des planches, des boîtes rouillées.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Le ciel devient noir. Au loin, le tonnerre gronde.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "acdfe9fb-b48c-409f-8cf9-eb9ac5dad20f",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Trouver de bonnes planches et des clous : Malin, Moyenne, 2 succès. Avantage avec Observer et fouiller, ou avec l’aide de Charbon.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "champs": {
+        "sorte": "groupe",
+        "qualite": "malin",
+        "difficulte": "2"
+      }
+    },
+    {
+      "id": "255db7c6-85a2-4ab2-ae21-1c449b6e9da9",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                  "label": "Avantage et Désavantage",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff6af092-d442-43b3-ac52-654c72497660",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une ombre passe au-dessus de toi. Un cri perçant. Une grande buse plonge, les serres en avant : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "4c60dee4-3f6c-48c5-b9b3-a80793f2e803",
+                  "label": "La buse",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9a7206f5-b007-4df5-9e35-959d20ce4f2d",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La buse est une bête sauvage : elle ne parle pas. On ne discute pas avec elle.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Les prédateurs attaquent toujours.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "343e756b-9ea4-4bd8-8994-5b92512a8fcf",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "3cd1e6ac-f1be-4b6e-a221-5f767ba6970e",
+                  "label": "La règle unique",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "83d44ace-b8cb-48ce-bbc8-9ffc41d03701",
+      "styles": {},
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Querelle de griffes contre ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "4c60dee4-3f6c-48c5-b9b3-a80793f2e803",
+                  "label": "La buse",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "4c60dee4-3f6c-48c5-b9b3-a80793f2e803",
+                  "label": "La buse",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " : Costaud 3, Malin 2, Mignon 1, Cœur 3. Talent : Griffer.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Entrer dans la querelle coûte 1 Amitié. Sans Amitié, ou si la joueuse refuse : il faut fuir.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ee26059-1b71-4c46-96bb-240d23fd4808",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "7f746290-9388-4349-8f1f-d8e642df5b76",
+                  "label": "Querelle de griffes",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "54e10f02-b74e-4ba2-bcac-f8134d0fa843",
+                  "label": "Initiative",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "452d8c11-010e-42a2-ae57-2ff37d60de00",
+                  "label": "Actions de querelle",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "57de0a40-d832-4cc0-b4a4-885eab176208",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fuir : Malin, avec le talent Bouger son popotin. Une vieille caisse renversée est tout près, pour se cacher dessous.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "3a1c9a93-366c-4eb9-aaf6-874d7aa5c921",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Se battre : Costaud ou Malin, avec le talent Griffer. Une planche qui sert d’arme, si c’est un objet important du chaton, donne des relances.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d34f99dd-2748-42fb-a977-28cd3f75c409",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Noisette se cache sous la caisse. Charbon peut aider le chaton : l’aide d’un allié donne l’Avantage.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Un sort de miagie peut servir ici.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "À 0 Cœur dans une querelle de griffes : blessure grave, table des blessures du livre.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd518686-bce2-4855-903c-2125e9b15664",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Si la buse perd : elle remonte dans le ciel en criant et part chasser ailleurs.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Si le chaton fuit : il se glisse sous la caisse avec les autres. La buse tourne, tourne, puis s’en va quand la pluie commence.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5ac0a976-cff7-425e-bdb9-c33f070dced1",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les premières gouttes tombent. Le chaton et ses amis rapportent les planches à ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "ebe4beed-616e-42f7-aa53-9892dba38d2c",
+                  "label": "L’orphelinat",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "à découvert, sous un ciel noir"
+}

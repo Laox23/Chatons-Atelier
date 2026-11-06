@@ -1,0 +1,13 @@
+{
+  "id": "62e0b175-4789-43f7-bf09-ced2e727f3c1",
+  "infos": {
+    "Qualité": "Mignon",
+    "École": "Miagie des villes",
+    "Niveau": "3"
+  },
+  "owner": "nicolas.fonollosa@gmail.com",
+  "texte": "Pendant une pause, le Chaton dépense un point d’amitié et rend un point de cœur à chacun de ses camarades présents.",
+  "titre": "Soins",
+  "paquet": "Miagie",
+  "realmId": "nicolas.fonollosa@gmail.com"
+}

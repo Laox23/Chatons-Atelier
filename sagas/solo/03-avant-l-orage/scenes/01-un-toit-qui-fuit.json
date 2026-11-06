@@ -1,0 +1,289 @@
+{
+  "id": "09036c15-a94f-4c87-ab4d-dd3893ebec1b",
+  "but": "promettre de réparer le toit ; dépenser l’expérience pour apprendre un talent",
+  "titre": "Un toit qui fuit",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "83bf49af-5ca7-4d0e-9d08-a9234d3507d0",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Scénario bonus, fin de la campagne Solo.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Elle jouera plus tard la campagne Intro : ne rien dire de l’exil, ni de ce que fait vraiment le roi Walter.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "90fa0438-8fe2-4a2f-a037-a1a5338e936d",
+      "styles": {},
+      "typeId": "1059017c-17c4-4735-952a-be3f7326ae9f",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Noisette aide maintenant Mère Brioche tous les matins. Les petits de l’orphelinat ont des beignets.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d51ff9b5-1dfa-449e-9d15-5610dfac9555",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "cc9bd048-39e0-433d-81a2-3fc029afb185",
+                  "label": "Noisette",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " vient te chercher en courant : « Viens voir l’orphelinat ! »",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "C’est une vieille maison penchée : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "ebe4beed-616e-42f7-aa53-9892dba38d2c",
+                  "label": "L’orphelinat",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ". Dedans, il y a des seaux partout sous le toit, et une dizaine de petits qui jouent entre les gouttes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "05517638-1b60-4984-af18-78bc2e934938",
+      "qui": "Noisette",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Un gros orage arrive ce soir. Si on ne répare pas le toit, les petits vont dormir dans l’eau. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "606ed94f-06cd-4ece-a1cd-0bfdaa222042",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Assis sur le muret, quelqu’un ricane. C’est ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "b698778c-2eb2-409c-bfb2-d2e87c79e445",
+                  "label": "Charbon",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ". Mais cette fois, il ne cherche pas la bagarre.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c5074b99-3076-4faf-ac67-e22ebe501417",
+      "qui": "Charbon",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Un toit, ça se répare avec des planches et des clous. Il y en a plein au terrain vague. Et si tu veux, je t’apprends à bricoler. Mon père est charpentier. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d04eff05-6309-4dd6-a09f-4e82f1564209",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le chaton a gagné 4 points d’expérience dans les deux premiers scénarios. Il peut en dépenser 2 pour apprendre un talent auprès de Charbon : Bricoler des trucs et des machins.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "C’est son choix : il peut aussi garder ses points, ou les dépenser autrement.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6001440d-872a-4c44-9508-4dcae1bf5182",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9dd70904-bdc9-4aab-9ee3-26a6a0af7a68",
+                  "label": "Expérience",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
+                  "label": "Talents",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6644ad7a-b9c4-4e34-a188-e600dfcccd71",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Un talent s’apprend par l’expérience, ou auprès d’un professeur : ici, Charbon. À notre table, un talent coûte 2 points.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Le chaton note le talent sur sa fiche, et les points qu’il lui reste.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "79700aff-f012-4c38-b769-ad39b9029582",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le chaton, Noisette et Charbon partent vers ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "b39a232e-2b83-4314-be0c-b67965a9c0dd",
+                  "label": "Le terrain vague",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "une après-midi lourde, le ciel se couvre"
+}

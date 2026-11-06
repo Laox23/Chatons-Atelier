@@ -1,0 +1,13 @@
+{
+  "id": "ee0dff72-d5ef-4042-aaa4-3add235acbc7",
+  "titre": "Difficulté",
+  "sousTitre": "Succès à obtenir",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 8,
+  "texte": "Facile : 1 succès.\nMoyenne : 2 succès.\nDifficile : 3 succès.\nLégendaire : 4 succès.\nPour Légendaire : Avantage (4D6), ou une dépense d’Amitié après le jet.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "La Difficulté dit combien de succès il faut : 1 pour Facile, 2 pour Moyenne, 3 pour Difficile, 4 pour Légendaire.\nExemple : sauter un petit fossé, Facile, 1 succès. Grimper au toit sous la pluie, Difficile, 3 succès.\nExemple : une action Légendaire demande 4 succès. Avec 3 dés, c'est impossible sans aide : il faut l'Avantage (4 dés) ou dépenser de l'Amitié après le jet.\nContre-exemple : un test Facile ne demande pas 3 succès : 1 seul suffit."
+}

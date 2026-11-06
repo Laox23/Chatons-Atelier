@@ -1,0 +1,14 @@
+{
+  "id": "ebf5e408-18ac-488a-91d7-4c53feeb5370",
+  "ton": "chaleureux, merveilleux",
+  "majLe": 1793556901954,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "titre": "Bienvenue chez les chatons",
+  "resume": "Scénario d'introduction. Il présente le jeu de rôle, l'univers et le royaume des chats, jusqu'à la rencontre du roi Walter.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ordre": 4,
+  "saga": "Intro",
+  "lieuIds": [
+    "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7"
+  ]
+}

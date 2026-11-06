@@ -1,0 +1,13 @@
+{
+  "id": "85151d37-6714-40e3-adca-2e8919981449",
+  "titre": "Action en opposition",
+  "sousTitre": "Face à face",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 9.6,
+  "texte": "Chaque camp : lance ses dés contre sa propre Qualité.\nLe plus de succès : l’emporte.\nÉgalité : on relance, ou c’est match nul.\nParfois : en 2 ou 3 manches.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Quand deux camps s'affrontent directement, chacun lance ses dés contre sa propre Qualité. Celui qui a le plus de succès l'emporte. En cas d'égalité, on relance, ou c'est match nul. Parfois l'affrontement se joue en 2 ou 3 manches.\nExemple : Mistigri fait la course avec un Chien de la Casse. Mistigri lance avec son Costaud, la conteuse avec celui du chien. 2 succès contre 1 : Mistigri arrive premier.\nExemple : un bras de fer peut se jouer en 2 ou 3 manches plutôt qu'en un seul jet.\nContre-exemple : grimper un mur. Le mur ne se défend pas : c'est un test avec une Difficulté, pas une opposition."
+}

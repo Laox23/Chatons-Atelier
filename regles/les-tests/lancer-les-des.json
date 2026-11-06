@@ -1,0 +1,13 @@
+{
+  "id": "852db703-b775-4f99-8e71-6c8240a05ae0",
+  "titre": "Lancer les dés",
+  "sousTitre": "Trois dés à six faces",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 7,
+  "texte": "Qualités : de 1 à 5.\nBase : 3D6, trois dés à six faces.\nSuccès : chaque dé inférieur ou égal à la Qualité testée.\nAvantage : 4D6.\nDésavantage : 2D6.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "On lance 3 dés à six faces. Chaque dé qui fait un nombre inférieur ou égal à la Qualité testée est un succès. On compte les succès.\nExemple : Mistigri teste Costaud 3. Il fait 2, 5, 3 : le 2 et le 3 sont des succès, le 5 non. 2 succès.\nExemple : avec l'Avantage, il lance 4 dés ; avec le Désavantage, 2 dés.\nContre-exemple : additionner les dés (2 + 5 + 3 = 10). On ne fait jamais de total : on compte les dés réussis."
+}

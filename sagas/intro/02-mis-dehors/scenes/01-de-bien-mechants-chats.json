@@ -1,0 +1,326 @@
+{
+  "id": "efcd02f5-c75d-4ff5-b89f-3cb752e1a873",
+  "but": "sortir du royaume sans rien ; découvrir les Qualités, les tests et le Cœur",
+  "titre": "De bien méchants chats",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "4398c135-3024-41fd-b29b-23ee1be321dd",
+      "styles": {},
+      "typeId": "1059017c-17c4-4735-952a-be3f7326ae9f",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au petit matin, la garde est venue chercher les chatons pour les conduire à la cérémonie de l’exil.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "fce0d19f-86a1-4efd-a7ab-67e338e06c22",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une grande fête est organisée pour la cérémonie. Il y a de la musique et des décorations, mais le peuple reste morose.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vos familles et vos amis sont là, apeurés, tenus à l’écart par les gardes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "7a6ee4c6-1aa6-47d6-9834-cd21ee733e13",
+      "qui": "Roi Walter",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Chers et loyaux sujets, l’éducation des chatons m’est importante. C’est pourquoi j’en invite certains à se confronter au vaste monde et à nous rapporter le fruit de leurs aventures.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Bon vent et bonne route, mes petits. Ne revenez qu’avec un fabuleux trésor à offrir à notre non moins fabuleux roi, ou restez dehors à jamais ! »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "e7e92053-fa30-4415-a79a-ae7738b7292c",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les gardes poussent les chatons jusqu’aux portes de ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                      "label": "Arbrachat",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ". Certains, pour faire du zèle devant le roi, s’en prennent à eux.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "e8fbb3ee-aa56-483f-9e95-f0d6c5dbd788",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les chatons doivent s’en sortir seuls, la foule est tenue par la garde",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "e906171a-af97-4bd6-b897-29d776443b52",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "f28f9b6a-be90-44a9-bc27-5eacdfce7cf7",
+                      "label": "Costaud",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "beb4f1d1-8f40-459b-8e0a-9048d6e1f062",
+                      "label": "Malin",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "d680e977-d60e-451b-aecc-5e753c6543e5",
+                      "label": "Mignon",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "764ae957-0412-40f1-af01-8c209b54d5b0",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "852db703-b775-4f99-8e71-6c8240a05ae0",
+                      "label": "Lancer les dés",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "ee0dff72-d5ef-4042-aaa4-3add235acbc7",
+                      "label": "Difficulté",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e3afe11d-32b6-4fff-9756-efc3bf4a422d",
+                      "label": "Résultat",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "f15d3c1d-6a17-4bfc-bcd0-8cc061565e21",
+                      "label": "Triple",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "239a55ce-4399-437f-97ac-5c8f280a29b9",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Chaque chaton fait un test, avec la Qualité de son choix : comment échappe-t-il aux gardes ?",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "c33642cc-e3b4-403f-828a-3d8d4b36ce3d",
+          "champs": {
+            "rate": "perte un coeur",
+            "sorte": "qualite",
+            "reussi": "Compétence : Au choix",
+            "qualite": "costaud",
+            "difficulte": "1"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": null
+        },
+        {
+          "id": "2e7c6bd7-8c65-48b1-a620-c43f679d258d",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+                      "label": "Cœur",
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "parChaton": true
+    },
+    {
+      "id": "dcea2804-922d-4566-86b0-c8ad714bf7c1",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons se retrouvent seuls sur la route.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "lieuIds": [
+    "532cba13-f874-4d6f-9332-c70f743aee18"
+  ],
+  "ambiance": "une fête forcée et morose, puis la bousculade"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "f15d3c1d-6a17-4bfc-bcd0-8cc061565e21",
+  "titre": "Triple",
+  "sousTitre": "Critique narratif",
+  "groupe": "Avantages",
+  "couleur": "#8a62a8",
+  "icone": "etoile",
+  "ordre": 11,
+  "texte": "Au moins trois dés de même valeur.\nEffet : un avantage narratif, que le test soit réussi ou raté.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Quand au moins trois dés montrent la même valeur, il se passe quelque chose de plus dans l'histoire, en bien. Cela vaut que le test soit réussi ou raté.\nExemple : Mistigri cherche une piste, Malin 2, et fait 4, 4, 4. Aucun succès, il ne trouve pas la piste. Mais le triple lui fait découvrir autre chose d'utile : un passage caché.\nExemple : réussite avec 1, 1, 1 : la réussite est éclatante, la conteuse ajoute un petit bonus à raconter.\nContre-exemple : 3, 3, 5. Deux dés pareils ne suffisent pas : il en faut au moins trois."
+}

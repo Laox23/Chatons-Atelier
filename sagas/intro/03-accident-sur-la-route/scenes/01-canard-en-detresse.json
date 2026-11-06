@@ -1,0 +1,355 @@
+{
+  "id": "c90f8f16-c592-4831-8af0-65e311e9b02d",
+  "but": "rencontrer Victorin et la Compagnie de Toutes les Forêts ; décider de l’aider",
+  "titre": "Canard en détresse",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "c65b631e-470d-492b-a8c0-4078cd99c820",
+      "styles": {},
+      "typeId": "1059017c-17c4-4735-952a-be3f7326ae9f",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons ont passé la nuit dans un bosquet. Pendant la nuit, ils ont entendu des bruits de mécanique, des cris, des hurlements.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "a3a1cbc5-4c73-4ce1-87d2-65649a33320a",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au petit matin, un canard en uniforme vert arrive vers vous. Il a été malmené : ses plumes sont froissées, ses yeux pochés.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "C’est ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "360f0f59-b2ca-4818-b5ab-c12bafdceb04",
+          "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                      "label": "Victorin",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " explique qu’il est garde forestier de la "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2",
+                      "label": "Compagnie de Toutes les Forêts",
+                      "mentionSuggestionChar": "@",
+                      "nature": "faction"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ". En tournée, il a rencontré "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
+                      "label": "Léon",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " et "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
+                      "label": "Grinella",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " : ils ont sympathisé."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En pleine nuit, les "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
+                      "label": "Chiens de la Casse",
+                      "mentionSuggestionChar": "@",
+                      "nature": "faction"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " les ont enlevés tous les trois dans leur campement, pour les emmener de force travailler à la "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
+                      "label": "Casse-Auto",
+                      "mentionSuggestionChar": "@",
+                      "nature": "lieu"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lui a réussi à s’échapper quand leur véhicule est tombé en panne."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "028f44eb-7dd1-4cb8-adf3-1118c7a9676c",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " propose de retourner discrètement sur place, d’observer, puis d’imaginer un plan pour libérer ses compagnons.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "408c0dcb-8e3e-42c2-b895-3e62367b2dc3",
+          "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2",
+                      "label": "Compagnie de Toutes les Forêts",
+                      "mentionSuggestionChar": "@",
+                      "nature": "faction"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " : des animaux volontaires qui étudient la faune et la flore, et protègent toutes les forêts contre ceux qui reprennent les mauvaises habitudes des "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "cd8c5986-c405-417b-a9ab-d42ae158679c",
+                      "label": "Gros-tout-nus",
+                      "mentionSuggestionChar": "@",
+                      "nature": "mot"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Elle est dirigée par le "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "77ef64ae-5b00-4024-8f57-05aa7a079320",
+                      "label": "Grand Chêne",
+                      "mentionSuggestionChar": "@",
+                      "nature": "mot"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " : aujourd’hui, c’est "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "18ff6e19-412a-4f2f-b0c5-4d3ab19b9206",
+                      "label": "Batiste",
+                      "mentionSuggestionChar": "@",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ", l’ours. Son symbole : un chêne doré surmonté d’un arc-en-ciel. Sa devise : « À chaque arbre, son protecteur. »"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Chaque "
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "3e2a0bc2-1a8f-422d-8693-92c1e8201d30",
+                      "label": "Garde forestier",
+                      "mentionSuggestionChar": "@",
+                      "nature": "mot"
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " reçoit ses missions par pigeon voyageur. La compagnie entretient de petits chalets dans l"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "48be4d13-2898-4dd2-8ae3-48eb38157efd",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "La compagnie peut aider des chatons perdus : partout où la nature est présente, un garde forestier n’est pas loin. Un chaton pourrait même, un jour, vouloir en devenir membre."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "6356ac0e-1e1d-485f-a746-d4017a07d3b9",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons partent aider ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "un petit matin inquiet"
+}

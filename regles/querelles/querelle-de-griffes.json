@@ -1,0 +1,13 @@
+{
+  "id": "7f746290-9388-4349-8f1f-d8e642df5b76",
+  "titre": "Querelle de griffes",
+  "sousTitre": "Pour blesser",
+  "groupe": "Querelles",
+  "couleur": "#a8693a",
+  "icone": "patte",
+  "ordre": 11.7,
+  "texte": "Qualités : Costaud ou Malin, avec le talent Griffer.\nUne arme : un objet important donne des relances.\nEntrer : coûte 1 Amitié. Sans Amitié, ou si on refuse : il faut fuir.\nDes crocs aux griffes : un chaton dépense 1 Amitié. Un compagnon qui s’interpose perd 1 Amitié.\nFuir : Malin avec Bouger son popotin. Se rendre : Mignon avec Séduire et charmer.\n! À 0 Cœur : blessure grave, table des blessures du livre. Les prédateurs attaquent toujours.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "C'est un vrai combat, pour blesser. On utilise Costaud ou Malin, avec le talent Griffer.\nEntrer coûte 1 Amitié. Un chaton sans Amitié, ou qui refuse de payer, doit fuir.\nPasser des crocs aux griffes : un chaton dépense 1 Amitié. Un compagnon qui s'interpose perd 1 Amitié.\nPour en sortir : fuir avec Malin et Bouger son popotin, ou se rendre avec Mignon et Séduire et charmer.\nExemple : la buse fond sur Plume. Plume dépense 1 Amitié pour se battre, ou fuit si elle n'en a plus.\nExemple : à 0 Cœur en querelle de griffes, le chaton subit une blessure grave : consulter la table des blessures du livre.\nContre-exemple : face à un prédateur, espérer qu'il abandonne ou qu'il se laisse convaincre. Les prédateurs attaquent toujours."
+}

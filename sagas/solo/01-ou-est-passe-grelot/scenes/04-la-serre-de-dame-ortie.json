@@ -1,0 +1,469 @@
+{
+  "id": "b8c01675-7968-4baa-b9a0-17805b4fe140",
+  "but": "ramener Grelot ; la course et l’opposition ; finir l’aventure, l’Amitié et l’expérience",
+  "titre": "La serre de Dame Ortie",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "1eaaa3b4-b3fb-4f49-bdaf-35ddd16f7005",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au milieu de ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "48285b7e-0588-4839-911b-34a7a8c1a040",
+                  "label": "La serre",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ", ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e91445ba-b5f4-4108-b370-8da257681017",
+                  "label": "Grelot",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " est assis par terre, tout penaud, couvert de terre. À côté de lui, un grand pot est cassé en trois morceaux.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Devant lui, piquants dressés, une hérissonne en tablier : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "db72ecfe-470a-4cc1-a037-75d5f61ad6a9",
+                  "label": "Dame Ortie",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "778e446a-8c12-43c5-86ae-3a08f2b832e2",
+      "qui": "Dame Ortie",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Ce garnement a cassé mon plus beau pot de menthe à chat ! Il restera ici à rempoter mes plantes jusqu’à ce soir ! »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab756341-9038-474e-8064-8126fa9700cb",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Demander à la joueuse ce que fait son chaton. Toute bonne idée marche, par exemple :",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "095991e0-1a0d-481a-b70c-7b80e433be10",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Proposer de réparer le dégât : rempoter la menthe dans un autre pot. Malin, Moyenne, 2 succès. Avantage avec Herboriser.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bc51b885-59aa-43d8-b244-3306bcda5a24",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Faire rire ou attendrir Dame Ortie : Mignon, Moyenne, 2 succès. Avantage avec Séduire et charmer, ou en lui offrant son beignet au miel s’il l’a gardé.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "83f9cffa-7095-4d64-81bf-5de55547494b",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Si le test réussit : Dame Ortie range ses piquants. « Bon. Mais la prochaine fois, on frappe à la porte. » Elle donne même une feuille de menthe à chat à Grelot.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Sinon : le chaton et Grelot rempotent des plantes tout l’après-midi. À la fin, Dame Ortie sourit presque : « Pas si mal, pour des chatons. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "29af72f1-7fcd-4d0f-b604-e049fdc81d8e",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Quand vous sortez, le soleil se couche sur le ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7",
+                  "label": "Royaume des chats",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ". Tout est orange et doré. Grelot se serre contre toi, les yeux grands ouverts.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "3255f993-531e-475a-9904-77afaf6c99b0",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Admirer le coucher de soleil avec Grelot est un beau moment partagé : le chaton regagne 1 Amitié.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9a3b881a-1b26-405a-8d85-6aefd2b1afea",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+                  "label": "Amitié",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f53aaef3-1585-452f-8b94-a94529f9a78a",
+      "qui": "Grelot",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Le dernier en bas au marché est un œuf pourri ! »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "7b42e45a-cd53-4392-b4cd-7f7e601359dd",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La course jusqu’au marché : action en opposition. Le chaton et ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e91445ba-b5f4-4108-b370-8da257681017",
+                  "label": "Grelot",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " lancent chacun Costaud ; Grelot a Costaud 2. Le plus de succès l’emporte ; égalité, match nul.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Avantage avec Bouger son popotin.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "a510212a-d5d1-446f-b00e-2d1a1c1a545e",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "85151d37-6714-40e3-adca-2e8919981449",
+                  "label": "Action en opposition",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e94e6247-f016-4895-91e8-49e694b58f97",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "En bas, au marché, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "a32457a8-0cf1-464f-8956-4c9aa108d470",
+                  "label": "Mère Brioche",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " vous serre tous les deux très fort. Le gagnant a droit au dernier beignet.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Grelot s’endort dans ses bras, le nez plein de miel.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3144d89-e372-4b93-a945-5d7b245b1d72",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La nuit, le chaton dort chez lui : il regagne 1 Cœur.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e99abb3a-8e71-4df7-9dd4-ce4973c5368a",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+                  "label": "Cœur",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2039e80-594e-4ce2-9198-283de1bad8d2",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fin de la séance et aventure finie : le chaton gagne 2 points d’expérience.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "78ef91d3-d8f3-4258-8f73-c6aad0d06e48",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9dd70904-bdc9-4aab-9ee3-26a6a0af7a68",
+                  "label": "Expérience",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7d5b538-a745-4e22-b2d3-6769cf2c9bd0",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fin de l’aventure. Suite en solo : « Le voleur de beignets ».",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "chaude et colorée, puis la douceur du soir"
+}

@@ -1,0 +1,300 @@
+{
+  "id": "0d554214-216d-4a25-a799-ccfccf4d1cbf",
+  "but": "rencontrer Anatole et découvrir la campagne ; le test de groupe et l’Avantage",
+  "titre": "Un bien gentil monsieur",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "2ef04ffe-3149-49db-8dc8-f6d0f8aad028",
+      "styles": {},
+      "typeId": "1059017c-17c4-4735-952a-be3f7326ae9f",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Jetés sur la route par les gardes, les chatons ne peuvent pas revenir sans une offrande pour le roi.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "43100fa5-c468-452d-b687-99ce04215f14",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous marchez longtemps, très longtemps. Enfin, vous apercevez une charrette remplie de sacs de croquettes, qui roule doucement.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous la rattrapez. Elle est tirée par un vieil âne, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "996bfb46-017b-49b6-9307-3e5de7e8b1ee",
+                  "label": "Picotin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ", et conduite par un vieux matou, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+                  "label": "Anatole",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b92bb43b-b90a-4338-81af-f4a887239ccf",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+                  "label": "Anatole",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " arrête la charrette et écoute les chatons.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "4da935e9-a63a-4a0e-bc55-96d40f93e908",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+                      "label": "Anatole",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " se méfie à cause des attaques. Information importante pour la suite.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "9961dbd3-6c6e-4c78-931b-dd073a2051a0",
+          "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+                      "label": "Anatole",
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " connaît bien la campagne : il peut déposer les chatons à la limite du royaume.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Il leur parle des environs : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+                      "label": "Grand’Roue",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ", ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "5d1e348e-fa5a-430a-9ec4-975bbca51497",
+                      "label": "Tourne-Bouchon",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ", ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
+                      "label": "Casse-Auto",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " et ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "56c9ae0c-56bc-4eed-a97d-c332e8d4d156",
+                      "label": "Forêt endormie",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "d234cf6b-30a8-4de1-a93e-f9ec9635bf82",
+      "champs": {
+        "sorte": "groupe",
+        "qualite": "mignon",
+        "difficulte": "2",
+        "reussi": "Anatole les emmènent",
+        "rate": "Ils devront marcher : chaque chaton perd 1 Cœur."
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons ont l’Avantage : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "64c9b28d-be9f-42e3-834f-ef869a072114",
+                  "label": "Anatole",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " a un cœur d’or.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "97bbb3e6-4618-4ca7-a733-1ae9c20e9cde",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "ea80048e-a47f-444c-8b90-c95f20f74c60",
+                  "label": "Test de groupe",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                  "label": "Avantage et Désavantage",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "lieuIds": [
+    "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7"
+  ],
+  "ambiance": "une longue marche, puis une rencontre bienveillante"
+}

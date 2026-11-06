@@ -1,0 +1,665 @@
+{
+  "id": "ba6084cc-3fbc-447a-b22b-e0b7b0acedd8",
+  "but": "expliquer le jeu, faire vivre son chaton ; l’esprit du jeu, les Qualités et le premier test",
+  "titre": "Jour de marché",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "5e1d96c7-e091-4cf8-ac5e-700089b1cc5b",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Partie solo : une seule joueuse, un seul chaton.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Elle jouera plus tard la campagne Intro : ne rien dire de l’exil, ni de ce que fait vraiment le roi Walter.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "70a75981-13be-4148-a0f5-ff1867330ec6",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Aujourd’hui, on joue à un jeu de rôle.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Tu ne gagnes pas, tu ne perds pas : on raconte une histoire à deux.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Toi, tu joues un chaton : tu dis ce qu’il pense, ce qu’il dit, ce qu’il fait.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Moi, je suis la conteuse : je joue tout le reste du monde.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Et ce que ton chaton fait arrive vraiment : on ne revient pas en arrière.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d14c1650-1032-4f28-ba21-eb477e928c35",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "269e68aa-f917-4daa-8075-f2124ab289e7",
+                  "label": "Jouer ensemble",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "59e58ec4-59f0-4dee-aaff-e6b95d0f588b",
+                  "label": "Incarner son chaton",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "aff9c097-359d-4931-9257-ae0de7bd85b2",
+                  "label": "Pas de retour en arrière",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bc712e4d-ecfd-4ab4-b668-33ab82b242c0",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les humains ont presque disparu, et certains animaux se sont mis à parler.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Les chats ont bâti leur royaume autour d’un grand château : l’",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                  "label": "Arbrachat",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Une seule loi pour tous : un animal qui parle ne mange pas d’animal qui parle.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c8eef327-bc17-4d97-8933-851bf53ce600",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "3cd1e6ac-f1be-4b6e-a221-5f767ba6970e",
+                  "label": "La règle unique",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d091aea3-4cb2-4247-a105-05852d7db3cb",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Montrer l’",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                  "label": "Arbrachat",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ", puis ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "8e0a1d0c-5c80-4a3d-8af2-37568ddfba62",
+                  "label": "Le marché",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddd0c2cb-a61c-4522-add2-7e94b33dc5fc",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Présente ton chaton : son nom, où il habite dans l’Arbrachat, ce qu’il aime faire.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Relancer par une question concrète : « Tu préfères les beignets au miel ou à la confiture ? »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9faddbb0-11b9-4b3f-b3f5-04b5e763f5a0",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "C’est jour de marché. Ta tante, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "a32457a8-0cf1-464f-8956-4c9aa108d470",
+                  "label": "Mère Brioche",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": ", vend ses beignets près de la fontaine. Il y a la queue jusqu’à l’étal de laine.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "À côté d’elle, ton petit cousin ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e91445ba-b5f4-4108-b370-8da257681017",
+                  "label": "Grelot",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " saute sur place.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "43293b90-a275-4a79-b951-3386946aa9d7",
+      "qui": "Mère Brioche",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Mon trésor, tu veux bien garder un œil sur Grelot ? Juste le temps que je serve tout ce monde. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d76149c5-9166-4e21-9706-c1bb5ada7e12",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Mère Brioche donne deux beignets au miel tout chauds : un pour Grelot, un pour le chaton.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Grelot dévore le sien. Il a du miel plein les pattes et les moustaches.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff803797-7831-4f5d-8baf-0d34c0a538b5",
+      "styles": {},
+      "typeId": "23a4c9f5-fd77-4f6a-a3ac-d6312ffc0671",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le beignet au miel compte pour toute l’aventure : Grelot sent le miel, et l’odeur sert de piste en scène 2.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Noter si le chaton garde son beignet ou le mange : il peut l’offrir à Dame Ortie en scène 4.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "8c705706-9048-46aa-8522-cb59f8724f02",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Laisser jouer un moment avec Grelot. Il pose mille questions et veut tout toucher.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "97283758-4042-433d-8b15-80a450d9015a",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Un papillon bleu passe. Grelot lui crie : « Bonjour papillon ! Tu t’appelles comment ? » Le papillon ne répond pas : c’est une bête sauvage.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Grelot file derrière lui et disparaît dans la foule.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "50842d4a-c0b6-429a-a0c7-bf0ef7745a20",
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Retrouver la trace de Grelot dans la foule. La joueuse choisit sa Qualité et dit comment elle s’y prend :",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Mignon : demander gentiment aux marchands.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Malin : grimper sur la fontaine et regarder partout.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Costaud : se faufiler en courant entre les pattes.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Difficulté Facile : 1 succès.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dab1cf57-b322-4127-b5b2-c9ff35c64ad4",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "f28f9b6a-be90-44a9-bc27-5eacdfce7cf7",
+                  "label": "Costaud",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "beb4f1d1-8f40-459b-8e0a-9048d6e1f062",
+                  "label": "Malin",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "d680e977-d60e-451b-aecc-5e753c6543e5",
+                  "label": "Mignon",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "16bf62d1-4ec1-472f-91dd-2b6997259e26",
+      "styles": {},
+      "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "852db703-b775-4f99-8e71-6c8240a05ae0",
+                  "label": "Lancer les dés",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "ee0dff72-d5ef-4042-aaa4-3add235acbc7",
+                  "label": "Difficulté",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e3afe11d-32b6-4fff-9756-efc3bf4a422d",
+                  "label": "Résultat",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " · ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "f15d3c1d-6a17-4bfc-bcd0-8cc061565e21",
+                  "label": "Triple",
+                  "nature": "regle"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "094b0fc3-a43f-4983-8cc9-95c33de9b1b8",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Réussite : on lui montre la ruelle des épices, ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "dfcc40fb-3498-4fd4-81e6-707c8976deb6",
+                  "label": "Le marché des épices",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Sous le seuil, la joueuse choisit : un échec, elle tourne en rond et finit quand même par voir le papillon au loin ; ou une réussite avec une complication, elle renverse un panier de pommes et la marchande crie après elle.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Triple : le marchand de laine a tout vu. Il ajoute que le papillon montait vers le haut de l’Arbrachat.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "71b4d9f9-7eb6-409c-8209-0289c01b666e",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le chaton s’enfonce dans la ruelle des épices : ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "dfcc40fb-3498-4fd4-81e6-707c8976deb6",
+                  "label": "Le marché des épices",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "lieuIds": [
+    "8e0a1d0c-5c80-4a3d-8af2-37568ddfba62"
+  ],
+  "ambiance": "un matin joyeux et bruyant"
+}

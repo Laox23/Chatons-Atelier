@@ -1,0 +1,13 @@
+{
+  "id": "beb4f1d1-8f40-459b-8e0a-9048d6e1f062",
+  "titre": "Malin",
+  "sousTitre": "Esprit et astuce",
+  "groupe": "Qualités",
+  "couleur": "#6b7fb8",
+  "icone": "tete",
+  "ordre": 2,
+  "texte": "L’intelligence, l’astuce et la perception ; la vigilance, le raisonnement et l’inventivité.\nPour : comprendre, remarquer, ruser.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Malin sert dès qu'il faut la tête : comprendre, remarquer, ruser, inventer.\nExemple : repérer des traces de beignet sur un rebord, comprendre où mène le tunnel des égouts, trouver une ruse pour passer un garde.\nExemple : fuir une querelle de griffes se fait avec Malin et le talent Bouger son popotin.\nContre-exemple : sauter par-dessus un ruisseau demande de l'agilité : c'est Costaud, même si le chaton a eu une bonne idée avant de sauter."
+}

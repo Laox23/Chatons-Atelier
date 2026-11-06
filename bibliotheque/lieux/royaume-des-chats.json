@@ -1,0 +1,12 @@
+{
+  "nom": "Royaume des chats",
+  "description": "Le royaume des chats, autour de l’Arbrachat : des champs, des routes, la Casse-Auto et la Forêt endormie. Le roi Walter y règne par la peur.",
+  "ambiance": "Une campagne paisible en apparence, des routes peu sûres",
+  "pnjIds": [
+    "4b9d5949-6423-4883-98c9-6244255e2787"
+  ],
+  "id": "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une campagne verte de champs en patchwork et de routes, avec au loin un grand château aux toits rouges."
+}

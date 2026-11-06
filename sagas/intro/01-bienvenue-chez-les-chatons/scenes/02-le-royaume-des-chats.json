@@ -1,0 +1,182 @@
+{
+  "id": "d0c899ae-e102-43d8-8bea-86af14455201",
+  "but": "situer les chatons, présenter le roi",
+  "titre": "Le royaume des chats",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "4c0eebfc-425e-46bc-a4d2-95745dd76041",
+      "lieuId": "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Votre aventure commence ici, dans le royaume des chats.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "cf1db7a5-7ff1-4fcd-a02b-09b8bda49c3a",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Montrer la carte ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "d61e3286-be58-4a97-aa70-2a3f5d4b8fb7",
+                      "label": "Royaume des chats",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cf8e977d-9f8b-4ddd-9659-0062175b7108",
+      "lieuId": "532cba13-f874-4d6f-9332-c70f743aee18",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au centre il y a le château ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                  "label": "Arbrachat",
+                  "nature": "lieu",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": "  ",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "fa1cd369-658e-4501-b831-e402ef93f779",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Montrer la carte ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "532cba13-f874-4d6f-9332-c70f743aee18",
+                      "label": "Arbrachat",
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
+                    }
+                  },
+                  {
+                    "text": " ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "0c638a12-4d11-469c-97a8-127bc24d967b",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Tout en haut vie le ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "4b9d5949-6423-4883-98c9-6244255e2787",
+                  "label": "Roi Walter",
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
+                }
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e1e2ca55-48a0-45a7-bbd7-dc713cde133f",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fin de l'introduction ",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "lieuIds": [
+    "532cba13-f874-4d6f-9332-c70f743aee18"
+  ],
+  "ambiance": "émerveillé"
+}

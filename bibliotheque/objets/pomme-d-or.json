@@ -1,0 +1,13 @@
+{
+  "id": "aa8339ab-c6ff-41a3-8487-79906d9994ee",
+  "nom": "Pomme d’or",
+  "description": "Un fruit unique, qui brille de sa propre lumière. Il pousse sur le pommier de la Clairière de la Pomme d’or, au cœur de la Forêt endormie. ",
+  "pouvoir": "Il porte la force de la forêt. Si on le vole, Séléné s’affaiblit. Celui qui la garde peut lancer de nouveau un sort, sans dépenser de Cœur, une fois par jour.",
+  "detenteur": {
+    "nature": "lieu",
+    "id": "679b9ef0-b68d-4578-9c80-20f09d2b9fb9"
+  },
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une pomme en or qui brille de sa propre lumière, une petite feuille verte à la queue."
+}

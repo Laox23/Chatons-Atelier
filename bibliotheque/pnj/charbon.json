@@ -1,0 +1,14 @@
+{
+  "id": "b698778c-2eb2-409c-bfb2-d2e87c79e445",
+  "nom": "Charbon",
+  "role": "Jeune matou noir de suie, chef d’une petite bande du quartier de la suie",
+  "attitude": "Fanfaron ; au fond, il s’ennuie et ne demande qu’un ami",
+  "stats": "Talent : Feuler et menacer",
+  "costaud": 3,
+  "malin": 1,
+  "mignon": 2,
+  "coeur": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Un jeune matou noir, le pelage plein de suie, l’air fanfaron."
+}

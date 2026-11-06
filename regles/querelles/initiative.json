@@ -1,0 +1,13 @@
+{
+  "id": "54e10f02-b74e-4ba2-bcac-f8134d0fa843",
+  "titre": "Initiative",
+  "sousTitre": "Qui agit quand",
+  "groupe": "Querelles",
+  "couleur": "#a8693a",
+  "icone": "patte",
+  "ordre": 11.8,
+  "texte": "Début : un chaton agit en premier, sauf si le groupe est surpris.\nAprès une action offensive : la main passe à la conteuse.\nAprès une action non offensive : la joueuse passe la main à une autre joueuse.\nLes adversaires : la conteuse suit la même règle.\nFin du tour : quand tout le monde a agi.",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "explication": "Au début, un chaton agit en premier, sauf si le groupe est surpris.\nAprès une action offensive, la main passe à la conteuse. Après une action non offensive, la joueuse passe la main à une autre joueuse. La conteuse suit la même règle pour ses adversaires. Le tour se termine quand tout le monde a agi.\nExemple : Mistigri griffe un rat, action offensive : la conteuse fait agir un rat.\nExemple : Plume aide Mistigri, action non offensive : la joueuse de Plume choisit qui joue ensuite parmi les autres joueuses.\nContre-exemple : les chatons tombent dans une embuscade. Le groupe est surpris : ce n'est pas un chaton qui commence."
+}

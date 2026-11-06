@@ -1,0 +1,13 @@
+{
+  "id": "086189d5-42be-40e8-83e9-cd432b60074b",
+  "infos": {
+    "Qualité": "Malin",
+    "École": "Miagie des ateliers",
+    "Niveau": "2"
+  },
+  "owner": "nicolas.fonollosa@gmail.com",
+  "texte": "Le Chaton répare un petit objet cassé (de la taille d’une chaise). Chaque succès supplémentaire permet de réparer un objet plus gros (armoire puis chariot).",
+  "titre": "Réparations rapides",
+  "paquet": "Miagie",
+  "realmId": "nicolas.fonollosa@gmail.com"
+}

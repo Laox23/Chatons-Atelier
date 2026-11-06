@@ -1,0 +1,350 @@
+{
+  "id": "31fdb67e-b167-4551-884a-3298745c9916",
+  "but": "révéler Mickus, dire au revoir à Victorin, finir la campagne",
+  "titre": "Séléné, l’esprit de la forêt",
+  "statut": "brouillon",
+  "encarts": [
+    {
+      "id": "f33ac054-04b2-4aa9-b611-c9fe9b1e0bbf",
+      "bloc": "Si les chatons ont la Pomme d’or",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Mettre une musique douce.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "2955502b-d680-471c-9c79-1fd75f96a15e",
+      "bloc": "Si les chatons ont la Pomme d’or",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous tombez dans un rêve éveillé. ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "7735c5cb-2222-47e7-a928-f6886efe45c6",
+                  "label": "Séléné",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " vous apparaît : la grande chouette dort, et elle sourit.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Soudain, la vision se trouble. Vous voyez une horrible souris, vêtue d’une grande cape sombre aux allures d’ailes de chauve-souris. Elle fait d’étranges expériences dans un laboratoire sombre et lugubre. Soudain, elle se retourne vers vous !",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "52ac57dd-969d-4e7f-8669-22ea8735ad90",
+      "bloc": "Si les chatons ont la Pomme d’or",
+      "styles": {},
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Cette souris, c’est ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "f8f397c7-4507-4ded-a52b-8c75bb474452",
+                  "label": "Mickus",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " le souricier.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "57e1e899-e0b1-4ec7-8d94-24c5a96da9e6",
+      "qui": "Mickus",
+      "bloc": "Si les chatons ont la Pomme d’or",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Qui que vous soyez, vous ne m’arrêterez pas ! Vous me faites juste perdre un temps précieux. Moi, Mickus, le Souricier, je régnerai un jour sur tous les animaux. »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ac26beac-e2ec-4149-bd93-c11d6f2caeb6",
+      "bloc": "Si les chatons n’ont pas la Pomme d’or",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Mettre une musique grave, pleine de fausses notes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "897a8dd4-7d50-4f9a-8dbc-25374d6a93a5",
+      "bloc": "Si les chatons n’ont pas la Pomme d’or",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous tombez dans un rêve éveillé. ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "7735c5cb-2222-47e7-a928-f6886efe45c6",
+                  "label": "Séléné",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " vous apparaît, mais elle gigote et pousse de petits cris alarmés.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Soudain, la vision se trouble. Vous voyez une horrible souris, vêtue d’une grande cape sombre aux allures d’ailes de chauve-souris. Elle fait d’étranges expériences dans un laboratoire sombre et lugubre. Soudain, elle se retourne vers vous !",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f34dacb8-dc56-4347-9aab-baf4c6fc3cd5",
+      "qui": "Mickus",
+      "bloc": "Si les chatons n’ont pas la Pomme d’or",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "« Qui que vous soyez, vous n’avez aucune chance. Moi, Mickus, le Souricier, grâce à l’énergie de cette pomme, je régnerai bientôt sur tous les animaux ! »",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f85e13e7-9018-4b27-9d1e-929f93006d53",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Tout redevient normal. ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
+                  "label": "Victorin",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " sort de son apathie : « Je dois me rendre auprès de la ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2",
+                  "label": "Compagnie de Toutes les Forêts",
+                  "nature": "faction"
+                }
+              },
+              {
+                "text": " pour faire mon rapport. »",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Il vous guide jusqu’à la sortie de la forêt et vous confie une carte, qui montre l’emplacement de la ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+                  "label": "Grand’Roue",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": ". Il vous remercie chaleureusement et vous dit au revoir.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6b6df061-c0d3-4ab4-bba1-fbaf8959ade6",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Chaque chaton gagne 4 points d’",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "9dd70904-bdc9-4aab-9ee3-26a6a0af7a68",
+                  "label": "Expérience",
+                  "nature": "regle"
+                }
+              },
+              {
+                "text": " : de quoi monter d’un point sa qualité la plus faible.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d3ff713d-9bd7-4a52-9422-36677f117c4c",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Si les chatons ont la ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "aa8339ab-c6ff-41a3-8487-79906d9994ee",
+                  "label": "Pomme d’or",
+                  "nature": "objet"
+                }
+              },
+              {
+                "text": " : celui qui la garde peut lancer de nouveau un sort, sans dépenser de Cœur, une fois par jour.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "34a33e09-a7ee-4f58-b7cd-1b98d598c596",
+      "styles": {},
+      "typeId": "0f601108-ce80-4f5f-b790-368ddc11ee29",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons ont terminé cette campagne.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "ambiance": "un rêve éveillé, puis une menace"
+}

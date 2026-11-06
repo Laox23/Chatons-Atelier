@@ -1,0 +1,54 @@
+{
+  "id": "5ec73bc3-28ac-4ac0-936f-9df2939d06c1",
+  "nom": "Tino",
+  "coeur": 0,
+  "malin": 2,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "amitie": 0,
+  "mignon": 2,
+  "objets": [
+    "flute"
+  ],
+  "costaud": 4,
+  "couleur": "#3de150",
+  "joueuse": "",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "sortIds": [
+    "00a44b5f-5779-48dd-aa41-68253b4e614a",
+    "1d7eb9bb-bf72-4d3b-b8b7-4b87d966a097"
+  ],
+  "caractere": "Nerveux",
+  "enfanceId": "41aed59e-85e4-4290-abce-6bb2db2139f6",
+  "talentIds": [
+    "39980917-d63b-4fb2-9f4b-203cfe2fc95f",
+    "65fd7ac6-3d29-4d70-8330-1e8e36659a88"
+  ],
+  "vecu": [
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/ba1fda22-c6f8-4a29-855c-8673c42a6ba5",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/2ad1a2ab-d8ca-43ec-ae42-365803544e74",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/92489667-866b-4e16-bc59-0efa4ae9a4b4",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/c0336c6b-7057-4104-b361-928921dd83c4",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/2ee59d33-7645-4531-840b-ba2c041ceb5b",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/919dee2c-924c-4e75-b9ab-8c6c98c041ae",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/9f8a61bd-ee77-4445-a792-97d7d821aa60",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/f740ada1-a176-4a31-9b2b-f1c171fb44b8",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/08cd7d96-e953-46d9-9d3f-640e278615c5",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/e91826fb-f2d5-4243-b1e0-6a715e8c4e71",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/2ef04ffe-3149-49db-8dc8-f6d0f8aad028",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/43100fa5-c468-452d-b687-99ce04215f14",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/b92bb43b-b90a-4338-81af-f4a887239ccf",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/e8a0a1af-fc4c-4d9b-aaec-a87cfd0dbc09",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/d3538844-1073-4409-adfc-fc9097de9d2e",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/d234cf6b-30a8-4de1-a93e-f9ec9635bf82",
+    "5b21d6fc-b07b-4d9a-a743-c4d41c6aee42/97bbb3e6-4618-4ca7-a733-1ae9c20e9cde",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/8bf46e52-46d6-483d-abb1-f711cb6304c7",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/422bdf12-3c0c-4bd9-9cb2-cefb1650ab79",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/e1e2ca55-48a0-45a7-bbd7-dc713cde133f",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/0c638a12-4d11-469c-97a8-127bc24d967b",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/cf8e977d-9f8b-4ddd-9659-0062175b7108",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/4c0eebfc-425e-46bc-a4d2-95745dd76041",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/d8a4a269-18fe-496d-a3e4-f98c0c916b50",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/675d59ce-1097-4ede-8f99-e01b00b8e0a5",
+    "ebf5e408-18ac-488a-91d7-4c53feeb5370/6af9881c-e861-489a-b885-7c55390b3b22"
+  ]
+}

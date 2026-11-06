@@ -1,0 +1,14 @@
+{
+  "id": "4c60dee4-3f6c-48c5-b9b3-a80793f2e803",
+  "nom": "La buse",
+  "role": "Bête sauvage du terrain vague : un grand oiseau de proie aux serres crochues. Elle ne parle pas.",
+  "attitude": "Affamée ; elle chasse tout ce qui bouge",
+  "stats": "Talent : Griffer",
+  "costaud": 3,
+  "malin": 2,
+  "mignon": 1,
+  "coeur": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "descriptionImage": "Une grande buse brune aux serres crochues, ailes déployées, en plein piqué."
+}
