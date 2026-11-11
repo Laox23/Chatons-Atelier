@@ -25,16 +25,28 @@ Tiré des scénarios et des fiches existants. Ce qui est marqué **À compléter
 
 ## Le monde
 
-- **Un monde post-apocalyptique.** **Les Gros-tout-nus** (les humains) ne sont pas partis : ils ont disparu. Les animaux vivent dans ce qu'ils ont laissé : voitures, fête foraine, port.
+Le détail du monde du livre, lieux, figurants avec leurs qualités et pistes d'aventures, est dans `livre/monde.md`. Le lire avant d'inventer un lieu ou un PNJ : le livre en a souvent déjà un.
+
+- **Un monde post-apocalyptique.** **Les Gros-tout-nus** (les humains) ont disparu, sans qu'on sache pourquoi, et les animaux ont reçu la parole. Ceux qui l'ont refusée sont des bêtes. Les animaux vivent dans ce que les humains ont laissé : voitures, ruines des villes, fête foraine, port. Il reste quelques gros-tout-nus, amnésiques et inoffensifs ; presque personne n'en a vu.
 - **Revenu au médiéval fantastique.** Sur ces ruines, le monde a retrouvé des royaumes, des rois, des châteaux, des gardes, des marchés et la miagie.
-- **Le royaume des chats**, autour de l'**Arbrachat**, un château-arbre : marchés, quartiers et ateliers sur ses flancs, la chambre du **roi Walter** tout en haut. Walter règne par la peur, la ruse et la triche.
-- Autour : champs, routes, la **Casse-Auto** (les **Chiens de la Casse**, qui attendent le retour de leurs maîtres), la **Forêt endormie** née des rêves de **Séléné**, qu'on déboise et qui devient hostile.
-- Plus loin : **Tourne-Bouchon**, grand port, capitale des ports et des porcs ; la **Grand'Roue**, fête foraine des artistes.
+- **Le royaume des chats**, autour de l'**Arbrachat**, un château-arbre : marchés, quartiers et ateliers sur ses flancs, la chambre du **roi Walter** tout en haut. Walter règne par la peur, la ruse et la triche ; il exile les Chatons par une loi inepte, pille la grande pyramide du sud et complote en secret avec Brutus, le chef des Chiens de la Casse.
+- Autour : l'école de miagie de **Château-Haut** (l'archimiage Miléna), le **village de caravanes** (Mama), le **marais des Chats-teignes**, le port troglodyte d'**Embrasse** et sa bière salée, la **Casse-Auto** (les **Chiens de la Casse**, qui attendent le retour de leurs maîtres ; chef : **Brutus**), la **Forêt endormie** née des rêves de **Séléné**, qu'on déboise et qui devient hostile, et ses **Criqueurs**, chats et chiens libres montés sur des criquets géants.
+- Plus loin : la **Ville** des humains et, dessous, le **Royaume des Rats** ; le domaine de **Suzanne**, la vipère voyante ; **Tourne-Bouchon**, la ville aux mille tavernes, capitale des ports et des porcs (la famille **Rince-Cochon**, le **Baron Ereib**) ; **Grand'Roue**, ancien parc d'attractions restauré par les **Facteurs d'Arc-en-Ciel** (chef : **Fremper**), lieu des artistes ; le **Val aux Brumes** de **Sombre** et ses Cornes noires ; l'île de métal du Docteur Mojo.
 - **La Compagnie de Toutes les Forêts** (CTF) protège les forêts ; son chef porte le titre de **Grand Chêne** (Batiste, un ours) ; ses gardes forestiers reçoivent leurs missions par pigeon voyageur.
 - **Mickus**, le Souricier, est le méchant récurrent, avec ses souris maléfiques.
 - La magie s'appelle la **miagie** : six écoles, deux par Qualité (`cartes/miagie/`).
 
 Les fiches de `bibliotheque/` font foi pour chaque lieu et chaque PNJ ; ce résumé ne les remplace pas.
+
+## Écarts avec le livre
+
+Notre table garde sa version ; le livre ne la remplace pas.
+
+- **Séléné** : le livre écrit Sélénée.
+- **Victorin** est un canard, garde forestier de la CTF ; le livre cite un Victorin lapin, en route vers Suzanne.
+- **Gaspard** est un vieux rat épicier de l'Arbrachat ; le livre a un autre Gaspard, renard savant, ami de Poil de Charbon, mort avant le jeu.
+- **Charbon**, le jeune matou du quartier de la suie, n'a rien à voir avec Poil de Charbon, devenu Sombre.
+- Absents du chapitre « monde » du livre : la Compagnie de Toutes les Forêts, Batiste, Mickus et ses souris, la Pomme d'or, l'orphelinat, Mère Brioche et Grelot, Anatole et Picotin, Léon le paon. Les pages sur l'Arbrachat (p. 93 à 105) n'ont pas encore été lues.
 
 ## Les sagas
 

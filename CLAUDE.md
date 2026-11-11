@@ -9,7 +9,7 @@ Chatons est l'outil d'un MJ débutant pour le jeu de rôle *Donjons et Chatons* 
 Dans cet ordre, à chaque session :
 
 1. `chatons/format.md` : le format des fichiers et ce que l'agent peut faire dans ce dossier (§ Le dossier de création). Il fait foi.
-2. `lore.md` : le monde, le ton, les joueuses, ce qui est interdit.
+2. `lore.md` : le monde, le ton, les joueuses, ce qui est interdit ; puis `livre/monde.md`, le monde du livre : lieux, figurants et leurs qualités, pistes d'aventures. Un figurant du livre repris dans un scénario devient une fiche de `bibliotheque/` tirée de ce résumé.
 3. `regles/` et `cartes/` : les règles du jeu et les cartes (enfance, miagie, talents). Un test, une querelle ou un sort suit ces règles, sans en inventer.
 4. `bibliotheque/` : les PNJ, lieux, factions, objets et le lexique existants.
 5. Les scénarios précédents de la même saga (`sagas/<saga>/`, dans l'ordre de `ordre`) et, s'il y en a, `campagnes/` : ce qui s'est vraiment joué. `campagnes/` se lit seulement.

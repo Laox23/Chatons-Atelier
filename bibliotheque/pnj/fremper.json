@@ -1,0 +1,15 @@
+{
+  "id": "pnj-fremper",
+  "nom": "Fremper",
+  "role": "Raton-laveur, chef de la troupe des Facteurs d’Arc-en-Ciel et maître de Grand’Roue, porteur de la cornemuse Chante-Rêve. Il a acheté au Baron Ereib les ruines du parc d’attractions et remis en marche la grande roue : c’est sa plus grande fierté.",
+  "attitude": "Toujours guilleret, chantant et blagueur, malgré sa goutte ; il s’émerveille d’un rien",
+  "stats": "Talents : Bouger son popotin, Faire de la musique, Connaître les pays et les peuples, Dessiner et peindre, Séduire et charmer. Sorts : Son et lumière (1), Chat de gouttière (2), Voir au loin (2), Voix enchanteresse (2). Objet : Chante-Rêve, cornemuse miagique qui donne de beaux rêves et apaise les angoisses ; il en joue pour qui le demande.",
+  "factionIds": [
+    "faction-facteurs-arc-en-ciel"
+  ],
+  "costaud": 2,
+  "malin": 5,
+  "mignon": 5,
+  "coeur": 7,
+  "descriptionImage": "Un vieux raton-laveur en tenue de clown, d’immenses chaussures rouges, une fleur à la boutonnière, un haut-de-forme surmonté d’une paire de pattes qui applaudissent, une étrange cornemuse sous le bras."
+}
