@@ -1,0 +1,11 @@
+{
+  "id": "regle-blessures",
+  "titre": "Blessures",
+  "sousTitre": "À 0 Cœur en querelle de griffes",
+  "groupe": "Querelles",
+  "couleur": "#a8693a",
+  "icone": "patte",
+  "ordre": 11.92,
+  "texte": "Quand : un chaton tombe à 0 Cœur en querelle de griffes. On lance 1D6.\n1, meurtrissures : quelques estafilades et quelques poils en moins.\n2, blessure légère : Désavantage à tous ses jets jusqu’à la fin du prochain repos.\n3, blessure grave : Désavantage à tous ses jets jusqu’à la fin de l’aventure.\n4, blessure très grave : il ne peut plus agir pendant plusieurs jours, et perd pour toujours 1 point de Qualité ou 1 Cœur.\n5, blessure critique : il ne peut plus agir pendant plusieurs jours, doit être soigné pour ne pas mourir, et perd pour toujours 1 point de Qualité et 1 Cœur.\n6, mort : le chaton meurt.",
+  "explication": "En querelle de griffes, tomber à 0 Cœur a de vraies conséquences. Un chaton lance 1 dé sur la table des blessures ; un figurant, lui, est gravement blessé ou tué.\n1 : meurtrissures, rien de grave. 2 : Désavantage jusqu'à la fin du prochain repos. 3 : Désavantage jusqu'à la fin de l'aventure. 4 : plusieurs jours sans agir, et 1 point de Qualité ou 1 Cœur perdu pour toujours. 5 : plusieurs jours sans agir, des soins obligatoires pour survivre, 1 point de Qualité et 1 Cœur perdus pour toujours. 6 : la mort.\nExemple : Mistigri tombe à 0 Cœur sous les serres de la buse et fait 2 : blessure légère, il a le Désavantage jusqu'à son prochain repos.\nContre-exemple : tirer une blessure à 0 Cœur en querelle de crocs. En querelle de crocs, on abandonne, sans blessure.\n! C'est la seule façon pour un chaton de mourir : la querelle de griffes est un vrai danger."
+}

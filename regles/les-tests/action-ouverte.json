@@ -1,0 +1,11 @@
+{
+  "id": "regle-action-ouverte",
+  "titre": "Action ouverte",
+  "sousTitre": "Faire de son mieux",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "icone": "de",
+  "ordre": 9.8,
+  "texte": "Quand : l’action n’a pas de Difficulté fixée d’avance.\nOn lance : la Qualité qui convient, pour faire le plus de succès possible.\nLa conteuse : juge la réussite selon le nombre de succès et les circonstances.",
+  "explication": "Certaines actions n'ont pas de Difficulté : le chaton fait de son mieux, et advienne que pourra. La joueuse lance la Qualité qui convient et compte ses succès ; la conteuse dit ensuite à quel point c'est réussi.\nExemple : Plume joue du luth pour remercier ses hôtes, Mignon avec Faire de la musique. Deux succès : elle joue plutôt bien, avec quelques trous de mémoire, et tout le monde passe une bonne soirée.\nContre-exemple : sauter par-dessus un ruisseau. Il y a un seuil clair, réussi ou raté : c'est un test avec une Difficulté."
+}

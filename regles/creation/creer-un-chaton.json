@@ -1,0 +1,11 @@
+{
+  "id": "regle-creer-un-chaton",
+  "titre": "Créer un chaton",
+  "sousTitre": "La fiche de départ",
+  "groupe": "Création",
+  "couleur": "#b5655e",
+  "icone": "tete",
+  "ordre": 0.5,
+  "texte": "Enfance : une parmi les dix-huit ; elle donne le don et les objets du sac.\nQualités : 8 points entre Costaud, Malin et Mignon, de 1 à 5 chacune.\nTalents : deux.\nSorts : deux, de n’importe quelle voie et de n’importe quel niveau.\nCœur : Costaud + Malin. Amitié : Mignon.\nTrait de caractère : un.\nLe sac : couverture, couteau, cuillère, caquelon, gourde, briquet, chandelles, savon, brosse, croquettes, et les cinq objets importants de l’enfance.",
+  "explication": "La joueuse choisit l'enfance de son chaton, parmi les dix-huit : elle donne son don et les objets importants de son sac. Elle répartit ensuite 8 points entre Costaud, Malin et Mignon, au moins 1 et au plus 5 dans chacune. Elle choisit deux talents et deux sorts, de n'importe quelle voie et de n'importe quel niveau. Elle calcule le Cœur (Costaud + Malin) et l'Amitié (Mignon), puis choisit un trait de caractère.\nAvant, les joueuses et la conteuse s'accordent sur l'ambiance : des chatons du Royaume, c'est le plus simple ; les Bizarres sont plus étranges, pas plus d'un par groupe ; un seul animal qui n'est pas un chaton autour de la table.\nExemple : Mistigri, Chaton de la campagne : Costaud 3, Malin 2, Mignon 3. Cœur 5, Amitié 3.\nContre-exemple : Costaud 5, Malin 3, Mignon 1. Cela fait 9 points : il en faut 8."
+}
