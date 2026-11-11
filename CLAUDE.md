@@ -22,6 +22,8 @@ Dans cet ordre, à chaque session :
 - **Rester fidèle aux fiches.** Un PNJ garde son rôle, son attitude, ses qualités et sa voix. Changer une fiche existante est une décision du MJ : la proposer, ne pas l'écrire.
 - **Continuité.** Un scénario part de là où la saga s'est arrêtée : faits posés (#faits), PNJ rencontrés, lieux visités.
 - **Ne pas toucher aux `id`** d'un élément modifié.
+- **Figurants.** Un PNJ ou une créature neufs suivent la règle `regles/figurants/figurants.json` : choisir sa force (faible, moyen, fort, très fort) et en tirer qualités, talents, sorts et objets importants, notés dans `stats`.
+- **Genre.** Les désignations génériques sont au féminin pour la table (les joueuses, la conteuse), au masculin pour le monde (les chatons, les figurants). Un chaton nommé garde son genre.
 - Le ton, les limites et le public sont dans `lore.md` ; en cas de doute, le plus doux et le plus clair, sans trop simplifier : il faut garder de l'intérêt. Réglage à ajuster après les premières parties.
 
 ## Avant de dire « fini »
