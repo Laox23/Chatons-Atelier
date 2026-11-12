@@ -1,0 +1,14 @@
+{
+  "id": "pnj-gontran",
+  "nom": "Gontran",
+  "role": "Canard, directeur du cirque de la Lune à Grand’Roue ; grand ami de Gaston",
+  "coeur": 5,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Canard en frac bleu nuit semé d’étoiles // Costaud 2 / Malin 3 / Mignon 3 // Cœur 5 // Faire de la musique, Bouger son popotin // Son et lumière (1) // monocycle, porte-voix en carton",
+  "mignon": 3,
+  "costaud": 2,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Bout-en-train, il finit les phrases de Gaston",
+  "descriptionImage": "Un canard en frac bleu nuit semé d’étoiles, un porte-voix en carton à la main."
+}

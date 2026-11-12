@@ -1,0 +1,92 @@
+{
+  "id": "sc-salle-3",
+  "but": "Ouvrir la porte, assembler une trousse à outils.",
+  "piece": true,
+  "titre": "Salle 3 · Le grand atelier",
+  "donjon": "Le donjon de la faille",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "b3-porte-atelier",
+      "champs": {
+        "rate": "La porte ne bouge pas. Il faudra revenir avec une autre idée.",
+        "sorte": "groupe",
+        "reussi": "Dans un grincement terrible, la porte s’ouvre.",
+        "qualite": "malin",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "La porte de métal est rouillée et bloquée. La bricoler pour l’ouvrir.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "La porte rouillée"
+    },
+    {
+      "id": "b3-atelier",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une salle pleine d’outils : des pinces grandes comme vous, des marteaux que vous ne pourriez pas soulever, des établis hauts comme des tours. Tout est rouillé, tordu, cassé.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Le grand atelier",
+      "parties": [
+        {
+          "id": "b3-atelier-2",
+          "champs": {
+            "rate": "Tout est trop grand, trop rouillé ou trop cassé.",
+            "sorte": "groupe",
+            "reussi": "{\"type\": \"doc\", \"content\": [{\"type\": \"paragraph\", \"content\": [{\"type\": \"text\", \"text\": \"Les chatons assemblent \"}, {\"type\": \"mention\", \"attrs\": {\"nature\": \"objet\", \"id\": \"objet-trousse-a-outils\", \"label\": \"une trousse à outils\"}}, {\"type\": \"text\", \"text\": \" à leur taille.\"}]}]}",
+            "qualite": "malin",
+            "difficulte": "2"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Trouver les outils encore bons, à leur taille, et en faire une trousse.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "condition": {
+        "si": true,
+        "fait": "issue:b3-porte-atelier:reussi"
+      }
+    }
+  ],
+  "lieuIds": [
+    "lieu-souterrains-grand-roue"
+  ],
+  "ambiance": "rouille et établis géants"
+}

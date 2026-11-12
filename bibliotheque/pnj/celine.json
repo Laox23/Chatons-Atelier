@@ -1,0 +1,20 @@
+{
+  "id": "pnj-celine",
+  "nom": "Céline",
+  "role": "Paonne, patronne et cantatrice de l’As vert, cabaret de Grand’Roue",
+  "coeur": 5,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Paonne majestueuse en robe de plumes, voix de cristal // Costaud 2 / Malin 3 / Mignon 5 // Cœur 5 // Faire de la musique, Séduire et charmer, Bouger son popotin // Voix enchanteresse (2), Son et lumière (1) // éventail de plumes, robe de scène, flacon d’eau pétillante à la fraise",
+  "mignon": 5,
+  "costaud": 2,
+  "famille": [
+    {
+      "type": "conjoint",
+      "pnjId": "pnj-rene"
+    }
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Grande dame théâtrale, capricieuse avec sa voix, tendre avec ceux qui l’aident",
+  "descriptionImage": "Une paonne en robe de scène scintillante, la roue déployée, un éventail de plumes à la main."
+}

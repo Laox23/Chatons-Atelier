@@ -1,0 +1,208 @@
+{
+  "id": "sc-salle-2",
+  "but": "Les machines de la grande roue ; amadouer Markus ou se quereller avec lui.",
+  "piece": true,
+  "titre": "Salle 2 · Les générateurs",
+  "donjon": "Le donjon de la faille",
+  "statut": "prete",
+  "suites": [
+    {
+      "vers": "sc-couloir",
+      "libelle": "Porte a, la porte rouillée du fond"
+    }
+  ],
+  "encarts": [
+    {
+      "id": "b3-generateurs",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une salle immense. Des boîtes de métal grandes comme des maisons, couvertes de boutons, d’aiguilles et de petites fenêtres éteintes. Des serpents noirs partent de partout et montent vers le plafond. Une armoire de métal, haute comme un arbre, garde ses portes fermées.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au fond, une porte rouillée est entrouverte. Il en sort de la poussière, et une odeur âcre qui pique le nez.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Les générateurs",
+      "parties": [
+        {
+          "id": "b3-generateurs-2",
+          "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Ce sont les générateurs qui faisaient tourner la grande roue, avec leurs tableaux électriques et leurs armoires de commande.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3-markus",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Entre deux machines, quelque chose bouge. Des dizaines de pattes cliquettent sur le métal. Un mille-pattes géant, tout bleuté, déroule son long corps et lève la tête vers vous.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Rencontre",
+      "parties": [
+        {
+          "id": "b3-markus-2",
+          "qui": "Markus",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Qui… qui fait tout ce vacarme ? Cent ans que je dors ici, cent ans ! Et on vient me secouer comme un tapis !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b3-markus-3",
+          "champs": {
+            "rate": "Markus cliquette de colère : il veut les chasser de chez lui.",
+            "sorte": "groupe",
+            "reussi": "Markus se calme, s’enroule et bâille. Il les laisse passer, et répond même à quelques questions. #markus-amadoue",
+            "qualite": "mignon",
+            "difficulte": "3"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "L’amadouer.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3-markus-querelle",
+      "champs": {
+        "perd": "Markus les repousse jusqu’à la coursive. Pour passer, il faudra revenir l’amadouer, ou ruser. #markus-a-chasse-les-chatons",
+        "enjeu": "le droit de passer dans la salle",
+        "gagne": "Markus se réfugie derrière l’armoire et refuse de leur adresser la parole. #markus-vaincu",
+        "sorte": "crocs",
+        "adversaires": "pnj-markus"
+      },
+      "styles": {},
+      "typeId": "2cc8d320-2a0a-46c7-9a07-7c92a94f2157",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Markus veut chasser les chatons de son domaine.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b3-markus-querelle-2",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "5b25f8ab-c9e0-41f7-b958-c985183d7797",
+                      "label": "Querelle de crocs",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "condition": {
+        "si": true,
+        "fait": "issue:b3-markus-3:rate"
+      }
+    },
+    {
+      "id": "b3-markus-memo",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Markus vit ici depuis toujours : il connaît chaque salle. Amadoué, il peut répondre aux questions.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "lieuIds": [
+    "lieu-souterrains-grand-roue"
+  ],
+  "ambiance": "immense, métallique, odeur âcre"
+}

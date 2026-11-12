@@ -1,0 +1,13 @@
+{
+  "id": "lieu-souterrains-grand-roue",
+  "nom": "Les souterrains de Grand’Roue",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-markus"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Noir profond, poussière, gouttes d’eau, métal rouillé",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Sous la grande roue, des locaux techniques de l’ancien temps : tunnels et salles de maintenance des anciennes attractions, creusés dans la roche et la terre, coulés dans le béton. Tout est vieux, rouillé, en ruine ; des câbles pendent du plafond et traînent au sol, l’eau goutte, le mobilier est à taille de gros-tout-nus.",
+  "descriptionImage": "Un tunnel de béton fissuré sous terre, des câbles qui pendent, de vieilles machines rouillées dans le noir."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pnj-belletoile",
+  "nom": "Bellétoile",
+  "role": "Lapereau, fils d’astronomes en visite à Grand’Roue",
+  "coeur": 3,
+  "malin": 2,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Petit lapereau au pelage gris semé de taches claires, comme des étoiles // Costaud 1 / Malin 2 / Mignon 3 // Cœur 3 // Se cacher dans les ombres // mouchoir brodé d’étoiles",
+  "mignon": 3,
+  "costaud": 1,
+  "famille": [
+    {
+      "type": "parent",
+      "pnjId": "pnj-parents-belletoile"
+    }
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Apeuré ; il ne suit personne tant qu’on ne l’a pas rassuré",
+  "descriptionImage": "Un tout petit lapereau gris aux taches claires comme des étoiles, serrant un mouchoir brodé."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lieu-cirque-de-l-ete",
+  "nom": "Le cirque de l’Été",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-gaston"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Ensoleillé, bruyant",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Un chapiteau jaune soleil rayé d’orange, face au cirque de la Lune. Gaston y présente des numéros incroyables.",
+  "descriptionImage": "Un chapiteau jaune soleil rayé d’orange, face à un chapiteau bleu nuit."
+}

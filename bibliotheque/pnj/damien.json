@@ -1,0 +1,14 @@
+{
+  "id": "pnj-damien",
+  "nom": "Damien",
+  "role": "Lion malin, propriétaire des Balades enchantées de Grand’Roue ; il soigne ses six poneys",
+  "coeur": 6,
+  "malin": 4,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Lion élégant tout de noir vêtu, comme un Monsieur Loyal d’autrefois // Costaud 2 / Malin 4 / Mignon 2 // Cœur 6 // S’occuper des bêtes, Convaincre et baratiner // Soin des bêtes (1) // haut-de-forme noir, sifflet d’argent",
+  "mignon": 2,
+  "costaud": 2,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Courtois et théâtral, toujours pressé ; il paie bien qui lui donne un coup de patte",
+  "descriptionImage": "Un lion à la crinière soignée, en redingote et haut-de-forme noirs, comme un Monsieur Loyal de cirque."
+}

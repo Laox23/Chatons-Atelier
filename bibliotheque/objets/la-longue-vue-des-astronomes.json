@@ -1,0 +1,13 @@
+{
+  "id": "objet-longue-vue",
+  "nom": "La longue-vue des astronomes",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pouvoir": "Voir très loin : le chemin à suivre, ce qui approche, les étoiles.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "detenteur": {
+    "id": "pnj-parents-belletoile",
+    "nature": "pnj"
+  },
+  "description": "Une longue-vue de cuivre, gravée d’étoiles, aux parents de Bellétoile.",
+  "descriptionImage": "Une longue-vue de cuivre gravée de petites étoiles."
+}

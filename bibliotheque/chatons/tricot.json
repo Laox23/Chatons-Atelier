@@ -27,8 +27,7 @@
     "ebf5e408-18ac-488a-91d7-4c53feeb5370/08cd7d96-e953-46d9-9d3f-640e278615c5",
     "ebf5e408-18ac-488a-91d7-4c53feeb5370/e91826fb-f2d5-4243-b1e0-6a715e8c4e71"
   ],
-  "enfanceId": "775d0fa6-8089-4570-8752-37d85b9b2745",
-  "costaud": 5,
+  "costaud": 4,
   "malin": 1,
   "mignon": 3,
   "caractere": "Nerveux",
@@ -36,5 +35,13 @@
   "talentIds": [
     "c5fc381c-fcb3-4889-8ef0-00551d31f1aa",
     "3d0c1223-129c-4bd9-8dfc-bb420ba0e10e"
+  ],
+  "enfanceId": "e1c39bbe-fd93-4bfc-b60f-681a70a2f38c",
+  "objets": [
+    "Une longue cape sombre",
+    "Des lunettes de soleil",
+    "Une grande flûte en os",
+    "Un paquet de cartes de tarot",
+    "Un petit miroir incassable"
   ]
 }

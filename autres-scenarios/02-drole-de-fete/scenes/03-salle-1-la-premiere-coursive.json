@@ -1,0 +1,329 @@
+{
+  "id": "sc-salle-1",
+  "but": "Descendre dans la faille et découvrir un monde inconnu ; une pierre qui tombe, une lampe à trouver.",
+  "piece": true,
+  "titre": "Salle 1 · La première coursive",
+  "donjon": "Le donjon de la faille",
+  "statut": "prete",
+  "suites": [
+    {
+      "vers": "sc-salle-2",
+      "libelle": "Aller au nord"
+    }
+  ],
+  "encarts": [
+    {
+      "id": "b3-depart",
+      "lieuId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au bord de la faille, Fremper vous attend avec un sac. Dedans : des cordes, des crochets, des gants, et des petites lanternes de verre où dort une luciole.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Au bord de la faille",
+      "parties": [
+        {
+          "id": "b3-depart-2",
+          "qui": "Fremper",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Ça a l’air profond, hein ? Mais vous avez vu pire, j’en suis sûr. Tenez : de quoi grimper, et de quoi y voir. Et revenez-moi avec toutes vos moustaches !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b3-depart-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Le matériel d’escalade donne l’Avantage pour la descente. Fremper prête aussi ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "objet-lanternes-a-luciole",
+                      "label": "les lanternes à luciole",
+                      "nature": "objet"
+                    }
+                  },
+                  {
+                    "text": ", en plus du sac à dos.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b3-depart-4",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                      "label": "Avantage et Désavantage",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3-descente",
+      "lieuId": "lieu-souterrains-grand-roue",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Malgré les apparences, la faille n’est pas profonde. Après quelques mètres de corde, vos pattes touchent un sol dur et plat. Pas de la terre : une pierre grise, lisse et fendue, comme coulée d’un seul bloc.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous voyez dans la nuit, mais ici le noir est plus profond que tout ce que vous connaissez. Les lucioles s’éveillent dans leurs lanternes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b3-lore",
+      "styles": {},
+      "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les souterrains sont les locaux techniques de l’ancien temps : les tunnels et salles de maintenance des attractions, sous la grande roue. Rien de magique ici : tout est fait par les gros-tout-nus, et tout est étrange pour les chatons.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b3-lore-2",
+          "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Surprendre les joueuses : un monde qui ne ressemble à rien de connu. Décrire les choses comme les voit un chaton : des serpents noirs qui pendent du plafond (des câbles), une boîte de métal grande comme une maison (un générateur), une affiche avec un gros-tout-nu souriant en chapeau jaune, des lettres inconnues, des flèches peintes au sol.",
+                    "type": "text"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "text": "Tout est à taille de gros-tout-nus : une chaise est une montagne, une poignée de porte est hors de portée.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3-coursive",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une coursive large, l’air plein de poussière. Les murs de pierre grise sont fissurés ; l’eau goutte quelque part. Au sud, le passage est bouché par un éboulis. La seule sortie est au nord.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "La première coursive"
+    },
+    {
+      "id": "b3-pierre",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "À peine arrivés en bas : un craquement au-dessus de vous. Une pierre se détache du plafond !",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Danger",
+      "parties": [
+        {
+          "id": "b3-pierre-2",
+          "champs": {
+            "rate": "La pierre le frôle : il perd 1 Cœur.",
+            "sorte": "qualite",
+            "reussi": "Le chaton bondit de côté ; la pierre éclate à côté de lui.",
+            "qualite": "costaud",
+            "difficulte": "2"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Échapper à la pierre qui tombe : un jet par chaton.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b3-pierre-3",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "63e0815a-642e-49cc-a858-2f86240b2e3a",
+                      "label": "Cœur",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3-fouiller",
+      "champs": {
+        "rate": "Rien que de la poussière, des cailloux et un vieux gant énorme.",
+        "sorte": "qualite",
+        "reussi": "{\"type\": \"doc\", \"content\": [{\"type\": \"paragraph\", \"content\": [{\"type\": \"text\", \"text\": \"Ils trouvent \"}, {\"type\": \"mention\", \"attrs\": {\"nature\": \"objet\", \"id\": \"objet-lampe-torche\", \"label\": \"une vieille lampe torche\"}}, {\"type\": \"text\", \"text\": \" : un bouton, et il fait jour ! Elle éclaire bien mieux que les lanternes.\"}]}]}",
+        "qualite": "malin",
+        "difficulte": "3"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Si les chatons fouillent la coursive : sous les gravats, dans un coin, quelque chose brille.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Trouvaille",
+      "parties": [
+        {
+          "id": "b3-fouiller-2",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "18437f0c-ea6a-499b-819f-37f1c8f82367",
+                      "label": "Objet important",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "lieuIds": [
+    "lieu-souterrains-grand-roue"
+  ],
+  "ambiance": "noir profond, poussière"
+}

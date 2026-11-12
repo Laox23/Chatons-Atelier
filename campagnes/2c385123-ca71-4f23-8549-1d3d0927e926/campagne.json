@@ -1,12 +1,154 @@
 {
   "id": "2c385123-ca71-4f23-8549-1d3d0927e926",
   "nom": "Test Nico",
-  "table": [],
+  "table": [
+    {
+      "chatonId": "8bf7cc97-d3bd-46f7-84e2-d0385c93a2e5"
+    },
+    {
+      "chatonId": "42b6879c-00f3-45e7-bf6d-fabda7cd7ac5"
+    }
+  ],
   "notes": "",
   "creeeLe": 1793610049788,
   "owner": "nicolas.fonollosa@gmail.com",
   "realmId": "nicolas.fonollosa@gmail.com",
   "saga": "Intro",
-  "etape": "ebf5e408-18ac-488a-91d7-4c53feeb5370",
-  "chatons": []
+  "etape": "scenario-drole-de-fete",
+  "chatons": [
+    {
+      "id": "8bf7cc97-d3bd-46f7-84e2-d0385c93a2e5",
+      "nom": "Tricot",
+      "vecu": [
+        "sc-demonstration/sd1-apres-tunnel",
+        "sc-demonstration/sd1-intro",
+        "sc-demonstration/sd1-saut",
+        "sc-demonstration/sd1-rive",
+        "sc-demonstration/sd1-dispute",
+        "sc-demonstration/sd1-tunnel",
+        "scenario-drole-de-fete/b-pourquoi",
+        "scenario-drole-de-fete/b-portail",
+        "scenario-drole-de-fete/b-fremper",
+        "scenario-drole-de-fete/b-carte-du-parc",
+        "scenario-drole-de-fete/b-memo-scene",
+        "scenario-drole-de-fete/b-lech-memo",
+        "scenario-drole-de-fete/b-lech-barnabe",
+        "scenario-drole-de-fete/b-lech-fin"
+      ],
+      "coeur": 6,
+      "malin": 1,
+      "owner": "nicolas.fonollosa@gmail.com",
+      "amitie": 3,
+      "mignon": 3,
+      "costaud": 5,
+      "couleur": "#9a973c",
+      "joueuse": "",
+      "realmId": "nicolas.fonollosa@gmail.com",
+      "xpAvant": 0,
+      "caractere": "Nerveux",
+      "enfanceId": "775d0fa6-8089-4570-8752-37d85b9b2745",
+      "prefaitId": "087b29ec-4bff-476f-9c24-d50bda8c5923",
+      "talentIds": [
+        "c5fc381c-fcb3-4889-8ef0-00551d31f1aa",
+        "3d0c1223-129c-4bd9-8dfc-bb420ba0e10e"
+      ],
+      "sortsLances": []
+    },
+    {
+      "id": "42b6879c-00f3-45e7-bf6d-fabda7cd7ac5",
+      "nom": "Carmelia bellefleur",
+      "vecu": [
+        "sc-demonstration/sd1-apres-tunnel",
+        "sc-demonstration/sd1-intro",
+        "sc-demonstration/sd1-saut",
+        "sc-demonstration/sd1-rive",
+        "sc-demonstration/sd1-dispute",
+        "sc-demonstration/sd1-tunnel",
+        "scenario-drole-de-fete/b-pourquoi",
+        "scenario-drole-de-fete/b-portail",
+        "scenario-drole-de-fete/b-fremper",
+        "scenario-drole-de-fete/b-carte-du-parc",
+        "scenario-drole-de-fete/b-memo-scene",
+        "scenario-drole-de-fete/b-lech-memo",
+        "scenario-drole-de-fete/b-lech-barnabe",
+        "scenario-drole-de-fete/b-lech-fin"
+      ],
+      "coeur": 3,
+      "malin": 2,
+      "owner": "nicolas.fonollosa@gmail.com",
+      "amitie": 5,
+      "mignon": 5,
+      "objets": [
+        "Vêtements chics",
+        "Du parfum",
+        "Beau peigne pour pelage",
+        "Masque de bal et de carnaval",
+        "Une rose de cristal magnifiquement ouvragée"
+      ],
+      "costaud": 1,
+      "couleur": "#6da7f3",
+      "joueuse": "",
+      "realmId": "nicolas.fonollosa@gmail.com",
+      "sortIds": [
+        "c6311f5d-27d9-4370-9368-b3848a1b18ae",
+        "98f25681-edeb-458e-b028-bb4bde9098d5"
+      ],
+      "xpAvant": 0,
+      "caractere": "Têtue",
+      "enfanceId": "68a0d62a-652e-4e27-98c4-3b43f52bfc1f",
+      "prefaitId": "97f5082d-9c76-4c3f-9c45-ed8902d63342",
+      "talentIds": [
+        "324ee245-c33b-4f42-bdec-d370e0573529",
+        "58493d72-9601-4484-ac84-81fe7c05b6f9"
+      ],
+      "sortsLances": []
+    }
+  ],
+  "scenarioIds": [
+    "sc-demonstration",
+    "scenario-drole-de-fete"
+  ],
+  "memoire": [
+    "issue:sd1-saut:reussi",
+    "voie:sd1-tunnel",
+    "issue:b-lech-barnabe-4:gagne",
+    "ami de Lechesabot",
+    "Barnabé a avoué"
+  ],
+  "accesJoueurs": {
+    "code": "UTAEZJ",
+    "secret": "1b5bc30c-3a02-4a28-96c0-d2c3de90d79d"
+  },
+  "chatonsProposes": [
+    {
+      "etat": "accepte",
+      "chaton": {
+        "id": "21cc6288-7ebc-4687-be78-fce2fe8d7f0f",
+        "nom": "Nico",
+        "malin": 3,
+        "mignon": 1,
+        "objets": [
+          "Une clef de 75",
+          "Une loupe grossissante d’orfèvre",
+          "Un tablier en cuir",
+          "Une burette d’huile",
+          "Du savon noir"
+        ],
+        "costaud": 4,
+        "sortIds": [
+          "d7ec8443-64c7-4dcc-bb1c-afb9691a107f",
+          "086189d5-42be-40e8-83e9-cd432b60074b"
+        ],
+        "histoire": "Il a travaillé dans la mine",
+        "physique": "Petit chat bricoleur, pellage roux, petites pattes mais des mains de travailleur.",
+        "caractere": "Colérique",
+        "enfanceId": "e1c39bbe-fd93-4bfc-b60f-681a70a2f38c",
+        "proposeLe": 1794477588656,
+        "talentIds": [
+          "506a4bcd-5616-4ef0-a983-2c7a4c8eb910",
+          "ae9ce166-add6-4dee-a2c6-2c38f6023963"
+        ]
+      }
+    }
+  ]
 }

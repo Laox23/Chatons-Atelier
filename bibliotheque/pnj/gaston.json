@@ -1,0 +1,14 @@
+{
+  "id": "pnj-gaston",
+  "nom": "Gaston",
+  "role": "Furet, directeur du cirque de l’Été à Grand’Roue ; grand ami de Gontran",
+  "coeur": 5,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Furet vif en gilet jaune soleil // Costaud 2 / Malin 3 / Mignon 3 // Cœur 5 // Bouger son popotin, Faire les poches // Dissimulation d’objets (2) // jeu de cartes truqué, foulards sans fin",
+  "mignon": 3,
+  "costaud": 2,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Bout-en-train, il commence les phrases que Gontran finit",
+  "descriptionImage": "Un furet souple en gilet jaune soleil, des foulards de toutes les couleurs qui sortent de ses manches."
+}

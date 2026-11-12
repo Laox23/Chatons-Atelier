@@ -1,0 +1,14 @@
+{
+  "id": "lieu-balades-enchantees",
+  "nom": "Les Balades enchantées",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-damien",
+    "pnj-poneys-chenapans"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Clochettes, foin et éclats de rire",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Le manège de Damien : six poneys enrubannés promènent les visiteurs dans tout le parc, dans de petites calèches dorées. Une écurie peinte de fleurs, des seaux, des brosses et des rubans.",
+  "descriptionImage": "Une écurie peinte de fleurs, de petites calèches dorées et des poneys enrubannés."
+}

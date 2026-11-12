@@ -1,0 +1,13 @@
+{
+  "id": "objet-grimoire-farceur",
+  "nom": "Le grimoire farceur",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pouvoir": "Il vole, ricane, et détraque tout objet miagique qu’il voit. Enfermé dans le noir (un sac, un coffre), il se calme et s’endort.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "detenteur": {
+    "id": "pnj-henri",
+    "nature": "pnj"
+  },
+  "description": "Un vieux grimoire relié de cuir râpé, qu’Henri vient d’acheter. Il s’ennuyait sur une étagère depuis des années : il a décidé de s’amuser.",
+  "descriptionImage": "Un vieux grimoire de cuir râpé qui vole en battant de la couverture, l’air ricaneur."
+}

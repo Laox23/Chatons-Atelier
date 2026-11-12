@@ -1,11 +1,13 @@
 {
   "id": "regle-figurants",
-  "titre": "Figurants",
-  "sousTitre": "Les PNJ et les créatures",
-  "groupe": "Création",
-  "couleur": "#b5655e",
   "icone": "tete",
   "ordre": 13,
+  "owner": "nicolas.fonollosa@gmail.com",
   "texte": "Mêmes règles : les dés, l’Avantage et le Désavantage, les relances, comme un chaton.\nSa fiche : nom, une ligne de description (physique et caractère), qualités, Cœur, talents, sorts, objets importants.\nSa description : lui donne une relance quand elle s’applique à l’action.\nEn plus : parfois l’équivalent d’un don, ou une capacité spéciale.\nFaible : 6 points de qualités, 1 talent, 0 sort, 1 objet important.\nMoyen : 8 points, 2 talents, 1 ou 2 sorts, 2 ou 3 objets importants.\nFort : 10 points, 3 talents, 2 ou 3 sorts, 3 ou 4 objets importants.\nTrès fort : 12 points, 4 talents, 3 sorts ou plus, 4 ou 5 objets importants.\n! Un guide pour créer un figurant, pas une obligation.",
+  "titre": "Figurants",
+  "groupe": "Création",
+  "couleur": "#b5655e",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "sousTitre": "Les PNJ et les créatures",
   "explication": "Un figurant, c'est un PNJ, un monstre ou une créature : tout ce qui vit dans le monde sans être un chaton. Il se construit comme un chaton, en plus simple, et suit les mêmes règles : il lance ses dés sur une qualité, peut avoir l'Avantage ou le Désavantage et des relances. Sa ligne de description lui donne une relance quand elle s'applique à l'action. Certains ont l'équivalent d'un don, ou une capacité spéciale.\nPour le créer, la conteuse choisit sa force et répartit les points entre Costaud, Malin et Mignon, puis lui donne talents, sorts et objets importants selon le tableau.\nExemple, tiré du livre : Tiramisu. Grand chat tigré, patron du Relais du Carrefour de la Croquette, intimidant et généreux // Costaud 5 / Malin 3 / Mignon 4 // Cœur 8 // Connaître les pays et les peuples, Cuisiner, Feuler et menacer, Trouver une information // Conservation des ressources (1), Propre et rangé (1), Tranche et pique (1) // Grand couteau de boucher, tablier solide, boîte à épices.\nExemple : Tiramisu veut faire reculer un client bagarreur. « Intimidant » s'applique : une relance.\nContre-exemple : Tiramisu réussit d'office parce qu'il est très fort. Non : il lance ses dés comme un chaton.\n! Pour écrire les règles, la table est au féminin (les joueuses, la conteuse) et le monde au masculin (les chatons, les figurants). Un chaton nommé garde son genre : Plume est une petite femelle."
 }

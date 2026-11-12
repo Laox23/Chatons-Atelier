@@ -222,11 +222,11 @@
     {
       "id": "d234cf6b-30a8-4de1-a93e-f9ec9635bf82",
       "champs": {
+        "rate": "Ils devront marcher : chaque chaton perd 1 Cœur.",
         "sorte": "groupe",
-        "qualite": "mignon",
-        "difficulte": "2",
         "reussi": "Anatole les emmènent",
-        "rate": "Ils devront marcher : chaque chaton perd 1 Cœur."
+        "qualite": "mignon",
+        "difficulte": "2"
       },
       "styles": {},
       "typeId": "1cd6999c-83e4-41da-86af-51037488b239",

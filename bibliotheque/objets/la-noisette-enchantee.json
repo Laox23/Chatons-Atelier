@@ -1,0 +1,13 @@
+{
+  "id": "objet-noisette-enchantee",
+  "nom": "La noisette enchantée",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pouvoir": "Sur demande, elle chante des mélodies d’une grande beauté.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "detenteur": {
+    "id": "pnj-famille-pommedepin",
+    "nature": "pnj"
+  },
+  "description": "Un trésor de la famille Pommedepin : une noisette dorée, tiède dans la patte.",
+  "descriptionImage": "Une noisette dorée qui brille doucement, entourée de petites notes de musique."
+}

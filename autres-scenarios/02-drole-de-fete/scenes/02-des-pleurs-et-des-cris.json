@@ -1,0 +1,805 @@
+{
+  "id": "sc-des-pleurs-et-des-cris",
+  "but": "Faire vivre la catastrophe et quatre sauvetages imposés, puis découvrir l’explosion et recevoir la mission de Fremper.",
+  "titre": "Des pleurs et des cris",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "b2-repos",
+      "lieuId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le soir tombe sur Grand’Roue. Les lampions s’allument un à un, la grande roue scintille. Fremper vous mène à une petite tente rayée, rien que pour vous. Dedans : des coussins, des croquettes et un grand bol de lait chaud au miel.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Une tente rien que pour eux",
+      "parties": [
+        {
+          "id": "b2-repos-2",
+          "qui": "Fremper",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Pour mes petits héros du jour ! Mangez, buvez, dormez. Demain, on rira encore.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-repos-3",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Avant de dormir, de quoi parlent vos chatons ? Qu’ont-ils préféré aujourd’hui ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-repos-4",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Si un chaton le demande, Fremper joue un air de Chante-Rêve : de beaux rêves pour tout le monde.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-boum",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "En pleine nuit, un bruit énorme. On dirait une montagne qui s’écroule. Le sol tremble, les coussins sautent, le bol se renverse.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Dehors, des cris d’alerte et de peur. Vous sortez : un nuage de poussière couvre le parc. Au-dessus, la grande roue penche. Ses pieds craquent, et l’un d’eux est tout tordu. Partout, des boutiques, des chapiteaux et des manèges sont à moitié effondrés.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b2-boum-2",
+          "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Comme à la scène 1, des voies écartables, mais cette fois imposées, dans l’ordre : les chatons ne choisissent pas, ils subissent. On peut en écarter une, mais c’est risqué : chacune est une vraie urgence.",
+                    "type": "text"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "text": "Du rire aux larmes : jouer la nuit, la poussière, les cris, sans s’attarder sur la peur.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-nen",
+      "bloc": "Les Nénuphar sous les décombres",
+      "lieuId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Un petit chapiteau s’est effondré. Sous la toile et les mâts, deux petites voix : « À l’aide ! Par ici ! » Ce sont deux vieilles grenouilles, coincées sous une poutre. Au-dessus d’elles, le reste du chapiteau grince.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Péripétie 1",
+      "parties": [
+        {
+          "id": "b2-nen-2",
+          "qui": "Monsieur et Madame Nénuphar",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Ne t’inquiète pas, ma Rosette, quelqu’un va venir… — Je ne m’inquiète pas, c’est toi qui m’écrases !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-nen-3",
+          "champs": {
+            "rate": "La poutre ne bouge pas. D’autres animaux accourent et, tous ensemble, ils sortent le couple. #nenuphar-croises",
+            "sorte": "groupe",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Le couple est sauvé, juste avant que le chapiteau ne s’effondre tout à fait. Ils offrent aux chatons \"},{\"type\":\"mention\",\"attrs\":{\"nature\":\"objet\",\"id\":\"objet-filet-a-papillons\",\"label\":\"leur filet à papillons\"}},{\"type\":\"text\",\"text\":\".\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"fait\",\"attrs\":{\"id\":\"nenuphar-sauves-par-les-chatons\",\"label\":\"nenuphar-sauves-par-les-chatons\"}}]}]}",
+            "qualite": "costaud",
+            "difficulte": "2"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Soulever la poutre et sortir le couple avant que le reste ne s’écroule.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-nen-4",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "ea80048e-a47f-444c-8b90-c95f20f74c60",
+                      "label": "Test de groupe",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "text": " · ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "18437f0c-ea6a-499b-819f-37f1c8f82367",
+                      "label": "Objet important",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-bel",
+      "bloc": "Bellétoile perdu",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au milieu d’une allée, un tout petit lapereau tremble, son mouchoir serré contre lui. Il appelle ses parents. Dès qu’on s’approche, il recule.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Péripétie 2",
+      "parties": [
+        {
+          "id": "b2-bel-2",
+          "qui": "Bellétoile",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Allez-vous-en ! Je veux ma maman ! Je ne vous connais pas !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-bel-calmer",
+      "bloc": "Bellétoile perdu",
+      "champs": {
+        "rate": "Bellétoile prend peur et se sauve dans la poussière. On le retrouvera bien plus tard, en état de choc. #belletoile-perdu",
+        "sorte": "groupe",
+        "reussi": "Bellétoile se calme, renifle, et prend la patte d’un chaton.",
+        "qualite": "mignon",
+        "difficulte": "3"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "L’approcher et le rassurer.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2-bel-chemin",
+      "bloc": "Bellétoile perdu",
+      "champs": {
+        "rate": "Pas de parents en vue. Bellétoile ne lâche plus les chatons : ils doivent s’occuper de lui, avec Désavantage à leurs tests tant qu’il est avec eux. #belletoile-avec-les-chatons",
+        "sorte": "groupe",
+        "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Deux lapins affolés au pied de la grande roue : ses parents ! Ils serrent leur petit, puis offrent aux chatons \"},{\"type\":\"mention\",\"attrs\":{\"nature\":\"objet\",\"id\":\"objet-longue-vue\",\"label\":\"leur longue-vue\"}},{\"type\":\"text\",\"text\":\".\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"fait\",\"attrs\":{\"id\":\"belletoile-ramene\",\"label\":\"belletoile-ramene\"}}]}]}",
+        "qualite": "malin",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Trouver le chemin et repérer ses parents dans la cohue. Avantage avec Trouver son chemin ou Observer et fouiller.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b2-bel-chemin-2",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "99a53e2f-6035-4ebd-b65d-b92f9966b87a",
+                      "label": "Avantage et Désavantage",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "condition": {
+        "si": true,
+        "fait": "issue:b2-bel-calmer:reussi"
+      }
+    },
+    {
+      "id": "b2-grp",
+      "bloc": "Les visiteurs affolés",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fremper accourt, sans chapeau, la fleur de travers. Derrière lui, une douzaine de visiteurs paniqués : des souris, une famille de taupes, deux vieux boucs. Ils courent dans tous les sens.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Péripétie 3",
+      "parties": [
+        {
+          "id": "b2-grp-2",
+          "qui": "Fremper",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Mes petits, j’ai besoin de vous ! Avec ce bruit, ils vont s’enfuir et se blesser. Rassemblez-les, mettez-les à l’abri, et gardez-les au calme. Moi, je cours au reste !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-grp-rassembler",
+      "bloc": "Les visiteurs affolés",
+      "champs": {
+        "rate": "Les visiteurs s’éparpillent dans le parc. Fremper et les Facteurs d’Arc-en-Ciel mettront la nuit à les retrouver.",
+        "sorte": "groupe",
+        "reussi": "Les visiteurs se rassemblent autour des chatons.",
+        "qualite": "mignon",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Rassembler les visiteurs affolés.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2-grp-abri",
+      "bloc": "Les visiteurs affolés",
+      "champs": {
+        "rate": "Les chatons hésitent trop : les visiteurs s’éparpillent dans le parc.",
+        "sorte": "groupe",
+        "reussi": "Un abri sûr est trouvé.",
+        "qualite": "malin",
+        "difficulte": "3"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Trouver un lieu sûr, loin des bâtiments qui menacent de tomber. Par exemple : la place du grand portail.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "issue:b2-grp-rassembler:reussi"
+      }
+    },
+    {
+      "id": "b2-grp-garder",
+      "bloc": "Les visiteurs affolés",
+      "champs": {
+        "rate": "Un nouveau craquement, et les visiteurs s’enfuient dans tous les sens.",
+        "sorte": "groupe",
+        "reussi": "Tout le monde est à l’abri, serré et rassuré.",
+        "qualite": "costaud",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Se faire suivre jusqu’à l’abri, et y garder tout le monde au calme.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "issue:b2-grp-abri:reussi"
+      }
+    },
+    {
+      "id": "b2-grp-bravo",
+      "qui": "Fremper",
+      "bloc": "Les visiteurs affolés",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Bravo, mes petits ! Vous avez sauvé plus de monde que vous ne croyez.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b2-grp-bravo-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Chaque chaton regagne 1 point d’",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "dc49788b-13c3-4e2c-b960-7db9591e4519",
+                      "label": "Amitié",
+                      "nature": "regle"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "condition": {
+        "si": true,
+        "fait": "issue:b2-grp-garder:reussi"
+      }
+    },
+    {
+      "id": "b2-crev",
+      "bloc": "La crevasse",
+      "lieuId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Sous la grande roue, la terre s’ouvre en une crevasse qui s’agrandit. Une baraque y glisse et disparaît. Tout au bord, une famille d’écureuils se compte et se recompte, sans voir le danger.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Péripétie 4",
+      "parties": [
+        {
+          "id": "b2-crev-2",
+          "qui": "La famille Pommedepin",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "… sept, huit… Où est Pignon ? Ah, le voilà ! Un, deux…",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-crev-3",
+          "champs": {
+            "rate": "Trop lents : Fremper arrive à temps et écarte la famille du danger. Chaque chaton perd 1 point d’Amitié. #pommedepin-croises",
+            "sorte": "groupe",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Les chatons écartent la famille du bord juste à temps. Pour les remercier, les Pommedepin leur offrent leur trésor : \"},{\"type\":\"mention\",\"attrs\":{\"nature\":\"objet\",\"id\":\"objet-noisette-enchantee\",\"label\":\"la noisette enchantée\"}},{\"type\":\"text\",\"text\":\".\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"fait\",\"attrs\":{\"id\":\"pommedepin-sauves-par-les-chatons\",\"label\":\"pommedepin-sauves-par-les-chatons\"}}]}]}",
+            "qualite": "costaud",
+            "difficulte": "3"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Traverser au plus vite les embûches jusqu’à la famille : planches, gravats, fils tombés. Costaud pour foncer, ou Malin pour trouver le passage.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-calme",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Peu à peu, tout s’apaise. Le pied tordu de la grande roue ne s’enfonce plus ; la roue penche, mais elle tient. La poussière retombe. Fremper reprend les choses en main : les Facteurs d’Arc-en-Ciel distribuent des couvertures, éteignent les lampions tombés, comptent tout le monde.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Le calme revient",
+      "parties": [
+        {
+          "id": "b2-calme-2",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Mais que s’est-il passé ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-enquete",
+      "champs": {
+        "rate": "Les chatons ne trouvent rien. C’est Fremper qui découvre, au pied de la roue, un trou noirci qui sent la poudre : une explosion.",
+        "sorte": "groupe",
+        "reussi": "Au pied de la grande roue, un trou noirci et une odeur de poudre : ce n’était pas un tremblement de terre, mais une explosion, sous la grande roue.",
+        "qualite": "malin",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Inspecter les lieux. Avantage avec Observer et fouiller.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b2-enquete-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "explosion sous la grande roue",
+                      "label": "explosion sous la grande roue"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2-mission",
+      "qui": "Fremper",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une explosion… sous ma grande roue. Il faut savoir qui, et pourquoi, avant que ça recommence. Moi, je dois rester ici : le parc a besoin de moi. Mais vous, vous êtes débrouillards, malins, et vous savez vous sortir d’affaire. Voulez-vous enquêter pour moi ?",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "La demande de Fremper",
+      "parties": [
+        {
+          "id": "b2-mission-2",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Acceptez-vous ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-mission-3",
+          "qui": "Fremper",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Merci. Quoi qu’il arrive, Grand’Roue est votre maison : écoute, conseil, gîte et couvert, autant que vous voudrez. Mais je sais bien que je n’avais pas besoin de vous le promettre pour que vous m’aidiez.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b2-mission-4",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "S’ils acceptent : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "enquête pour Fremper",
+                      "label": "enquête pour Fremper"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "lieuIds": [
+    "e6a3b437-d644-450f-8f27-1d1bc987262d"
+  ],
+  "ambiance": "La nuit, la poussière, les cris ; du rire aux larmes"
+}

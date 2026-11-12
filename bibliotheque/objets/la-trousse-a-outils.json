@@ -1,0 +1,9 @@
+{
+  "id": "objet-trousse-a-outils",
+  "nom": "La trousse à outils",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pouvoir": "Bricoler, réparer, démonter, ouvrir.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "description": "Une trousse assemblée par les chatons dans le grand atelier des souterrains, avec les rares outils encore bons, à leur taille.",
+  "descriptionImage": "Une trousse de toile pleine de petits outils rouillés mais solides."
+}

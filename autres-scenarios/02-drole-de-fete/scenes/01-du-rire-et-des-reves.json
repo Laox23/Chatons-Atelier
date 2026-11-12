@@ -1,0 +1,2023 @@
+{
+  "id": "sc-du-rire-et-des-reves",
+  "but": "Découvrir Grand’Roue et ses habitants, en rendant service à qui veut parmi six attractions ; se faire des amis dans le parc.",
+  "titre": "Du rire et des rêves",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "b-pourquoi",
+      "styles": {},
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les chatons viennent à ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+                  "label": "Grand’Roue",
+                  "nature": "lieu"
+                }
+              },
+              {
+                "text": " parce qu’on leur a dit qu’il y avait des trésors par ici, ou des gens qui savent où en trouver. Ils arrivent à la suite d’un autre scénario, ou librement.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-pourquoi-2",
+          "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Grand’Roue est un ancien parc d’attractions en ruine, acheté par ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "pnj-fremper",
+                      "label": "Fremper",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "text": " et restauré par les ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "faction-facteurs-arc-en-ciel",
+                      "label": "Facteurs d’Arc-en-Ciel",
+                      "nature": "faction"
+                    }
+                  },
+                  {
+                    "text": ". Une enclave libre, dédiée au rire, à l’abri des Hérauts de l’Orage. Le parc reste presque désert : les routes font peur.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-portail",
+      "lieuId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Au bout de la route, une grande roue tourne lentement au-dessus des arbres. Devant vous, un portail magnifique, peint de toutes les couleurs. Une pancarte : « Entrée libre. Rire obligatoire. »",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Derrière, des guirlandes, des lampions, de la musique. Des manèges, des boutiques, des chapiteaux rayés. Encore peu de visiteurs, mais partout des artistes qui répètent : un jongleur en costume d’Arlequin, une acrobate sur un fil, un orchestre de grenouilles.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-fremper",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Un raton-laveur arrive vers vous en sautillant et en chantant. Costume de clown, immenses chaussures rouges, une fleur à la boutonnière, un haut-de-forme sur la tête. Il se penche vers vous… et pschitt ! La fleur vous arrose.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-fremper-2",
+          "qui": "Fremper",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Bienvenue, bienvenue, petits voyageurs ! Vous connaissez la différence entre un chaton et une tarte à la crème ? Non ? Alors je ne vous enverrai jamais chercher le dessert ! Hahaha !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-fremper-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "pnj-fremper",
+                      "label": "Fremper",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "text": " les serre dans ses bras, un gros câlin tout mouillé. Puis il les emmène à une table et leur sert de la limonade à la mûre. Il prend le temps de les écouter.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-fremper-4",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Que racontez-vous à Fremper ? D’où venez-vous, que cherchez-vous ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-fremper-5",
+          "qui": "Fremper",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Des trésors ? Ici, le plus beau trésor, c’est un éclat de rire ! Mais des gens qui en savent long, il y en a plein le parc. Promenez-vous, donnez un coup de patte à qui en a besoin… et vous verrez bien qui vous parle de trésors.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-carte-du-parc",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Fremper sort de sa poche un plan du parc, qu’il a peint lui-même. Il y a des petits dessins partout : un palais de sucre, des poneys, deux chapiteaux, un as de trèfle vert, un cerf qui fait de la miagie, un grand aquarium.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-carte-du-parc-2",
+          "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Où allez-vous ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-memo-scene",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Scène à la carte : six voies, toutes facultatives, dans l’ordre que veut la table. La conteuse peut aussi choisir, ou lancer 1d6. On passe à la suite quand la table en a assez.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Fremper : guilleret, il chante, sautille, une blague à chaque phrase. Il boite un peu (sa goutte) sans jamais s’en plaindre.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Autres rencontres à improviser : un lapin marchand de barbe à papa, une vieille marmotte qui graisse la grande roue, un hérisson acrobate, des Facteurs d’Arc-en-Ciel qui jonglent.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-lech-arrivee",
+      "bloc": "La boutique Lechesabot",
+      "lieuId": "lieu-boutique-lechesabot",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Un petit palais de sucre : colonnes de sucre d’orge, toit de meringue, vitrines pleines de bonbons, de gâteaux et de crèmes. Ici, on régale le palais !",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Mais au comptoir, un gros taureau en toque pleure dans son tablier.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Le miel volé",
+      "parties": [
+        {
+          "id": "b-lech-arrivee-2",
+          "qui": "Monsieur Lechesabot",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Une catastrophe ! Mon miel ! Tout mon stock de miel a disparu ! Sans miel, pas de nougat, pas de pain d’épices… pas de bonheur !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-lech-piste",
+      "bloc": "La boutique Lechesabot",
+      "champs": {
+        "rate": "Les traces mènent à une vieille tente défraîchie, mais on les a entendus venir : le voleur a eu le temps de cacher les pots.",
+        "sorte": "groupe",
+        "reussi": "Les traces mènent droit à une vieille tente défraîchie, derrière les manèges. On entend quelqu’un se lécher les babines.",
+        "qualite": "malin",
+        "difficulte": "1"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Suivre la piste : gouttes de miel, empreintes collantes, un pot renversé. Avantage avec Observer et fouiller.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-lech-barnabe",
+      "bloc": "La boutique Lechesabot",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Devant la tente, un vieil ours mal léché, assis sur une caisse. Ses babines sont couvertes de miel et de sucre. Il garde les pattes cachées dans le dos.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Barnabé",
+      "parties": [
+        {
+          "id": "b-lech-barnabe-2",
+          "qui": "Barnabé",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Quoi ? Du miel ? Connais pas. Jamais vu. C’est quoi, du miel ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-lech-barnabe-3",
+          "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "pnj-barnabe",
+                      "label": "Barnabé",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "text": " est un ancien ours danseur, trop vieux pour la scène. Il ne gagne plus rien et il avait faim. Il n’est pas méchant : il a honte, et ment comme un enfant pris en faute.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-lech-barnabe-4",
+          "champs": {
+            "perd": "Barnabé ne lâche rien et rentre bouder dans sa tente. Il ressortira plus tard, quand il aura moins honte.",
+            "enjeu": "l’aveu, et le miel",
+            "gagne": "Barnabé sort les pattes de son dos : un pot vide. Il avoue tout, l’air penaud, et rend ce qui reste du miel.",
+            "sorte": "crocs",
+            "adversaires": "pnj-barnabe"
+          },
+          "typeId": "2cc8d320-2a0a-46c7-9a07-7c92a94f2157",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Le faire avouer.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-lech-barnabe-5",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "5b25f8ab-c9e0-41f7-b958-c985183d7797",
+                      "label": "Querelle de crocs",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-lech-memo",
+      "bloc": "La boutique Lechesabot",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Pas besoin de querelle : le consoler, lui offrir à manger ou le faire rire marche aussi.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Une idée à souffler : Monsieur Lechesabot pourrait engager Barnabé comme goûteur officiel.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-lech-fin",
+      "bloc": "La boutique Lechesabot",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Monsieur Lechesabot, fou de joie, remplit les poches des chatons de bonbons au miel. Ils ont un ami au palais de sucre : ",
+                "type": "text"
+              },
+              {
+                "type": "fait",
+                "attrs": {
+                  "id": "ami de Lechesabot",
+                  "label": "ami de Lechesabot"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Récompense",
+      "parties": [
+        {
+          "id": "b-lech-fin-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Barnabé a avoué : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Barnabé a avoué",
+                      "label": "Barnabé a avoué"
+                    }
+                  },
+                  {
+                    "text": ". Sinon : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Barnabé croisé",
+                      "label": "Barnabé croisé"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "text": "Miel pas retrouvé, ou voie abandonnée : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Lechesabot croisé",
+                      "label": "Lechesabot croisé"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-bal-arrivee",
+      "bloc": "Les Balades enchantées",
+      "lieuId": "lieu-balades-enchantees",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Des clochettes, une odeur de foin, de petites calèches dorées. Six poneys enrubannés attendent dans une écurie peinte de fleurs. Un lion tout de noir vêtu, comme un Monsieur Loyal d’autrefois, court de l’un à l’autre.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Six chenapans",
+      "parties": [
+        {
+          "id": "b-bal-arrivee-2",
+          "qui": "Damien",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Mes amis, vous tombez à pic ! Mes palefreniers sont en pause, et mes poneys doivent être lavés, brossés et enrubannés avant la prochaine balade. Un coup de patte ? Je paie en tours de calèche !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-bal-tache",
+      "bloc": "Les Balades enchantées",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Préparer les six poneys : une tâche longue, 6 succès, un jet par poney, Malin ou Mignon. Avantage avec S’occuper des bêtes. Chaque jet raté : une bêtise (1d6, ci-contre).",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-bal-tache-2",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "regle-tache-longue",
+                      "label": "Tâche longue",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-bal-betises",
+      "bloc": "Les Balades enchantées",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les bêtises (1d6) :",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "1. Pompon renverse le seau d’eau sur un chaton.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "2. Caramel mange les rubans.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "3. Biscotte file vers la sortie (la course, ci-dessous).",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "4. Praline se roule dans la boue, juste après son bain.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "5. Réglisse vole un chapeau et ne le rend plus.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "6. Guimauve hennit de rire, et les cinq autres avec lui.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Les poneys sont des bêtes : ils ne parlent pas. Le sort ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "Parler aux bêtes",
+                  "label": "Parler aux bêtes",
+                  "nature": "carte"
+                }
+              },
+              {
+                "text": " aide beaucoup.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-bal-course",
+      "bloc": "Les Balades enchantées",
+      "champs": {
+        "rate": "Biscotte fait le tour du parc… et revient tout seul, fier de lui, une guirlande autour du cou.",
+        "pnjId": "pnj-poneys-chenapans",
+        "sorte": "course",
+        "reussi": "Biscotte est rattrapé juste avant le portail, tout content qu’on ait joué avec lui.",
+        "qualite": "costaud"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Rattraper Biscotte avant le portail.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-bal-fin",
+      "qui": "Damien",
+      "bloc": "Les Balades enchantées",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Bravo ! Vous avez la patte. Les Balades enchantées vous sont ouvertes quand vous voulez.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Récompense",
+      "parties": [
+        {
+          "id": "b-bal-fin-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Damien leur offre un tour de calèche dans tout le parc : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "ami de Damien",
+                      "label": "ami de Damien"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-bal-fin-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Poneys pas prêts, ou voie abandonnée : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Damien croisé",
+                      "label": "Damien croisé"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-cir-arrivee",
+      "bloc": "Les cirques de la Lune et de l’Été",
+      "lieuId": "lieu-cirque-de-la-lune",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Deux chapiteaux se font face : l’un bleu nuit semé d’étoiles, l’autre jaune soleil rayé d’orange. Le public s’impatiente. Un canard et un furet arrivent en courant.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Plus de clowns !",
+      "parties": [
+        {
+          "id": "b-cir-arrivee-2",
+          "qui": "Gontran",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Catastrophe ! Nos clowns ont fait un concours de tartes à la crème…",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-cir-arrivee-3",
+          "qui": "Gaston",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "… et ils les ont toutes mangées ! Ils sont couchés, le ventre comme des ballons.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-cir-arrivee-4",
+          "qui": "Gontran",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les acrobates ne sont pas prêts, et le public attend ! Vous savez faire rire, vous ?",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-cir-numero",
+      "bloc": "Les cirques de la Lune et de l’Été",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Chacun son tour : quel numéro fait ton chaton pour faire patienter la foule ? Une blague, une chanson, une acrobatie, une grimace, un tour de miagie…",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-cir-numero-2",
+          "champs": {
+            "rate": "Le numéro rate… mais le chaton se prend les pattes dans le rideau, et le public croit que c’est fait exprès.",
+            "sorte": "qualite",
+            "reussi": "Le public rit et applaudit à tout rompre.",
+            "qualite": "mignon",
+            "difficulte": "2"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Le numéro, un jet par chaton : Mignon pour une chanson ou une grimace ; Costaud pour une acrobatie ; Malin pour un tour. Avantage avec le bon talent.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-cir-fin",
+      "qui": "Gaston",
+      "bloc": "Les cirques de la Lune et de l’Été",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Quel spectacle ! On vous engage…",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Récompense",
+      "parties": [
+        {
+          "id": "b-cir-fin-2",
+          "qui": "Gontran",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "… quand vous voulez !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-cir-fin-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les acrobates entrent en piste. Gontran et Gaston offrent un nez rouge à chaque chaton : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "amis des cirques",
+                      "label": "amis des cirques"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-cir-fin-4",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Foule déçue, ou voie abandonnée : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "cirques croisés",
+                      "label": "cirques croisés"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-cir-fin-5",
+          "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Gontran et Gaston finissent les phrases l’un de l’autre.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-as-arrivee",
+      "bloc": "L’As vert",
+      "lieuId": "lieu-as-vert",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Sous un immense as de trèfle vert illuminé, un cabaret de velours et de paillettes. Un paon affolé, carnet sous l’aile, vous attrape au passage.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Course contre la montre",
+      "parties": [
+        {
+          "id": "b-as-arrivee-2",
+          "qui": "René",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Vous ! Oui, vous, les petites pattes ! Céline n’a plus d’eau pétillante à la fraise, et elle chante dans cinq minutes ! Sans elle, sa voix… pfuit ! Courez chez Lechesabot, vite !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-as-arrivee-3",
+          "qui": "Céline",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "René… mon chéri… je n’ai plus de voix… ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "coâ",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "…",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-as-course",
+      "bloc": "L’As vert",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "L’aller-retour jusqu’à la boutique Lechesabot : une tâche longue, 6 succès pour le groupe, qui additionne ses succès. Un jet par minute ; Céline chante dans 5 minutes.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Chaque chaton choisit : Costaud pour courir, Malin pour un raccourci, Mignon pour se faufiler ou demander le chemin.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Chaque jet raté : un incident (1d6, ci-contre).",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-as-course-2",
+          "typeId": "08744da8-f883-4424-aeb1-0f8554a83833",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "regle-tache-longue",
+                      "label": "Tâche longue",
+                      "nature": "regle"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-as-incidents",
+      "bloc": "L’As vert",
+      "styles": {},
+      "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Les incidents (1d6) :",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "1. La foule devant les cirques.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "2. Un poney de Damien échappé bloque l’allée.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "3. Une baguette folle de la boutique d’Henri tire des bulles de couleur.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "4. Une flaque géante coule de l’aquarium.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "5. Barnabé renifle la bouteille et la veut.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "6. Fremper veut absolument raconter une blague.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Une voie déjà jouée ? Prendre l’incident suivant, ou en inventer un.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "Chez Lechesabot : si son miel n’est pas retrouvé, il faut d’abord le consoler (Mignon, Facile) pour qu’il pense à l’eau pétillante.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-as-fin",
+      "bloc": "L’As vert",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "À temps : Céline boit, se racle la gorge… et sa voix monte jusqu’au haut de la grande roue. La salle croule sous les bravos.",
+                "type": "text"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "text": "En retard : René fait patienter la salle en faisant la roue. Céline chante un peu tard, mais elle pardonne tout.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Récompense",
+      "parties": [
+        {
+          "id": "b-as-fin-2",
+          "qui": "Céline",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Mes sauveurs ! Ce soir, vous êtes au premier rang.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-as-fin-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "amis de Céline et René",
+                      "label": "amis de Céline et René"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-as-fin-4",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Bouteille jamais rapportée, ou voie abandonnée : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Céline et René croisés",
+                      "label": "Céline et René croisés"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-hen-arrivee",
+      "bloc": "La boutique de miagie d’Henri",
+      "lieuId": "lieu-boutique-d-henri",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une boutique pour les miages : grimoires, baguettes, lampes qui flottent. D’habitude, chaque achat y finit en petit spectacle. Aujourd’hui, c’est la panique : des baguettes volent partout et bombardent les visiteurs de jets colorés. Certains se tordent de rire sans pouvoir s’arrêter. Au milieu, un grand cerf agite les bras.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Les baguettes folles",
+      "parties": [
+        {
+          "id": "b-hen-arrivee-2",
+          "qui": "Henri",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Ne restez pas là ! Ou plutôt si, restez, j’ai besoin d’aide ! Mes baguettes sont devenues folles !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-hen-esquive",
+      "bloc": "La boutique de miagie d’Henri",
+      "champs": {
+        "rate": "Touché ! Pelage rose à pois pour la journée, ou fou rire : Désavantage au prochain jet.",
+        "sorte": "qualite",
+        "reussi": "Le chaton passe entre les jets sans une tache.",
+        "qualite": "costaud",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Esquiver les jets des baguettes : un jet par chaton.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-hen-source",
+      "bloc": "La boutique de miagie d’Henri",
+      "champs": {
+        "rate": "Le grimoire se trahit tout seul : il éclate de rire et s’envole.",
+        "sorte": "groupe",
+        "reussi": "Sur le comptoir, un vieux grimoire s’ouvre et se referme en ricanant : c’est lui !",
+        "qualite": "malin",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Trouver d’où vient le désordre. Avantage avec Observer et fouiller.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-hen-source-2",
+          "typeId": "176be3ce-dc02-4178-8e16-4969f7c8b86b",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "objet-grimoire-farceur",
+                      "label": "Le grimoire farceur",
+                      "nature": "objet"
+                    }
+                  },
+                  {
+                    "text": ", qu’Henri vient d’acheter, s’ennuyait depuis des années. Il a décidé de s’amuser : il détraque tout objet miagique qu’il voit. Enfermé dans le noir (un sac, un coffre, une boîte à chapeau), il se calme et s’endort.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-hen-grimoire",
+      "bloc": "La boutique de miagie d’Henri",
+      "champs": {
+        "rate": "Le grimoire s’échappe par la fenêtre, puis revient se poser sur l’étagère, épuisé. Henri l’enferme lui-même, en soupirant.",
+        "sorte": "groupe",
+        "reussi": "Clac ! Le grimoire est enfermé. Les baguettes retombent, toutes sages.",
+        "qualite": "malin",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Attraper le grimoire qui vole, et l’enfermer. Avantage avec une bonne idée : un appât, un piège, un sac tendu.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-hen-fin",
+      "qui": "Henri",
+      "bloc": "La boutique de miagie d’Henri",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Merci, merci ! Revenez quand vous voulez : pour vous, la boutique est toujours ouverte.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Récompense",
+      "parties": [
+        {
+          "id": "b-hen-fin-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Henri offre à chaque chaton une baguette à bulles de savon parfumées, sans danger : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "ami d’Henri",
+                      "label": "ami d’Henri"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-hen-fin-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Grimoire pas enfermé par les chatons, ou voie abandonnée : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Henri croisé",
+                      "label": "Henri croisé"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-aqu-arrivee",
+      "bloc": "Les Ballets aquatiques",
+      "lieuId": "lieu-ballets-aquatiques",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Un immense aquarium entouré de gradins. Sous l’eau, des poissons dansent en ballet, et la lumière fait des vagues sur le public. Au premier rang, deux poissons en combinaison pleine d’eau, un hublot sur le visage, se tiennent par la nageoire.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Crac. Une fissure court sur le verre. Un jet d’eau jaillit sur les gradins. L’eau baisse.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "La fuite",
+      "parties": [
+        {
+          "id": "b-aqu-arrivee-2",
+          "qui": "Ariel",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Eric ! L’eau s’en va !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-aqu-arrivee-3",
+          "qui": "Eric",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Je ne te lâche pas, mon cœur. Vous, là ! Aidez-nous !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-aqu-idees",
+      "bloc": "Les Ballets aquatiques",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Comment boucher la fuite ? Toutes les idées sont bonnes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b-aqu-idees-2",
+          "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Des idées, si la table sèche : boucher avec de la guimauve de chez Lechesabot ; ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "Réparations rapides",
+                      "label": "Réparations rapides",
+                      "nature": "carte"
+                    }
+                  },
+                  {
+                    "text": " ; ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "Objets vivants",
+                      "label": "Objets vivants",
+                      "nature": "carte"
+                    }
+                  },
+                  {
+                    "text": " ; aller chercher ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "pnj-mac",
+                      "label": "Mac",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "text": ", le pivert artisan ; demander à ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "mention",
+                    "attrs": {
+                      "id": "pnj-henri",
+                      "label": "Henri",
+                      "nature": "pnj"
+                    }
+                  },
+                  {
+                    "text": " ; faire patienter le public pendant que le corps de ballet continue de danser.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b-aqu-idees-3",
+          "champs": {
+            "rate": "La fuite ralentit, mais il faut un vrai bricoleur : Mac arrive et finit le travail.",
+            "sorte": "groupe",
+            "reussi": "La fuite est bouchée. Le ballet reprend sous les bravos.",
+            "qualite": "malin",
+            "difficulte": "2"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Colmater la fuite. Avantage avec Bricoler des trucs et des machins, avec l’aide de Mac, ou avec une très bonne idée.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-aqu-mac",
+      "qui": "Mac",
+      "bloc": "Les Ballets aquatiques",
+      "styles": {},
+      "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Toc toc toc ! Une fuite ? J’ai ce qu’il faut. J’ai toujours ce qu’il faut.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Si on va chercher Mac",
+      "parties": [
+        {
+          "id": "b-aqu-mac-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Mac arrive avec sa caisse de bric-à-brac : planches, résine, ficelle. Il tape du bec en parlant. ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Mac croisé",
+                      "label": "Mac croisé"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b-aqu-henri",
+      "bloc": "Les Ballets aquatiques",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Henri accourt, reconnaissant, son grimoire de réparations sous le bras : il lance ",
+                "type": "text"
+              },
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "Réparations rapides",
+                  "label": "Réparations rapides",
+                  "nature": "carte"
+                }
+              },
+              {
+                "text": " avec les chatons.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Si on va chercher Henri",
+      "parties": [
+        {
+          "id": "b-aqu-henri-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Sinon, Henri est encore occupé avec ses baguettes folles : il ne peut pas venir.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "conditionPartie": {
+        "si": true,
+        "fait": "issue:b-hen-grimoire:reussi"
+      }
+    },
+    {
+      "id": "b-aqu-fin",
+      "bloc": "Les Ballets aquatiques",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Ariel et Eric saluent le public, puis les chatons, en les faisant monter sur la scène : ",
+                "type": "text"
+              },
+              {
+                "type": "fait",
+                "attrs": {
+                  "id": "amis d’Ariel et Eric",
+                  "label": "amis d’Ariel et Eric"
+                }
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Récompense",
+      "parties": [
+        {
+          "id": "b-aqu-fin-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Fuite pas bouchée par les chatons, ou voie abandonnée : ",
+                    "type": "text"
+                  },
+                  {
+                    "type": "fait",
+                    "attrs": {
+                      "id": "Ariel et Eric croisés",
+                      "label": "Ariel et Eric croisés"
+                    }
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "lieuIds": [
+    "e6a3b437-d644-450f-8f27-1d1bc987262d"
+  ],
+  "ambiance": "Une fête foraine colorée et musicale, encore presque vide"
+}

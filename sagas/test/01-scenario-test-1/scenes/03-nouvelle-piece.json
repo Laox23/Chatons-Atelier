@@ -5,11 +5,11 @@
   "titre": "Nouvelle pièce",
   "donjon": "Nouveau donjon",
   "statut": "brouillon",
-  "encarts": [],
-  "ambiance": "",
   "suites": [
     {
       "vers": "c6f23127-3247-4665-808d-8aee397b223d"
     }
-  ]
+  ],
+  "encarts": [],
+  "ambiance": ""
 }

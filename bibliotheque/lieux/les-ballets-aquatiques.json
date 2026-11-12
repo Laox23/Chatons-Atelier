@@ -1,0 +1,14 @@
+{
+  "id": "lieu-ballets-aquatiques",
+  "nom": "Les Ballets aquatiques",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-ariel",
+    "pnj-eric"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Bleu, silencieux, féerique",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Un immense aquarium de verre entouré de gradins, où le corps de ballet d’Ariel et Eric danse sous l’eau. Le spectacle est magnifique.",
+  "descriptionImage": "Un immense aquarium de verre entouré de gradins, des poissons qui dansent en ballet."
+}

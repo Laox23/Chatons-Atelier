@@ -1,15 +1,13 @@
 {
   "id": "sd-corriger",
-  "titre": "Ce qui reste à corriger",
-  "ambiance": "un coin de grenier mal éclairé",
-  "statut": "brouillon",
   "but": "Montrer « À corriger » : la puce sur la carte du scénario, la liste en tête de sa page, celle de la scène, et celle de Simuler.",
+  "titre": "Ce qui reste à corriger",
+  "statut": "brouillon",
   "encarts": [
     {
       "id": "sd3-intro",
-      "typeId": "23a4c9f5-fd77-4f6a-a3ac-d6312ffc0671",
       "styles": {},
-      "libelle": "Exprès",
+      "typeId": "23a4c9f5-fd77-4f6a-a3ac-d6312ffc0671",
       "contenu": {
         "type": "doc",
         "content": [
@@ -17,22 +15,19 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Cette scène porte deux avertissements laissés exprès. Le scénario s'importe et se joue quand même ; ces deux conditions ne mènent nulle part."
+                "text": "Cette scène porte deux avertissements laissés exprès. Le scénario s'importe et se joue quand même ; ces deux conditions ne mènent nulle part.",
+                "type": "text"
               }
             ]
           }
         ]
-      }
+      },
+      "libelle": "Exprès"
     },
     {
       "id": "sd3-tresor",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "tresor-cache"
-      },
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
         "content": [
@@ -40,22 +35,22 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Sous une latte, un trésor !"
+                "text": "Sous une latte, un trésor !",
+                "type": "text"
               }
             ]
           }
         ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "tresor-cache"
       }
     },
     {
       "id": "sd3-fantome",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "issue:sd3-test-disparu:reussi"
-      },
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
         "content": [
@@ -63,13 +58,18 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Un écho répond à un test qui n'existe plus."
+                "text": "Un écho répond à un test qui n'existe plus.",
+                "type": "text"
               }
             ]
           }
         ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "issue:sd3-test-disparu:reussi"
       }
     }
-  ]
+  ],
+  "ambiance": "un coin de grenier mal éclairé"
 }

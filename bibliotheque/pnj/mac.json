@@ -1,0 +1,14 @@
+{
+  "id": "pnj-mac",
+  "nom": "Mac",
+  "role": "Pivert, artisan bricoleur de Grand’Roue ; il a toujours ce qu’il faut",
+  "coeur": 6,
+  "malin": 4,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Pivert à la ceinture d’outils, toujours en train de taper quelque part // Costaud 2 / Malin 4 / Mignon 2 // Cœur 6 // Bricoler des trucs et des machins, Observer et fouiller // Réparations rapides (2), Tranche et pique (1) // ceinture à outils, caisse de bric-à-brac",
+  "mignon": 2,
+  "costaud": 2,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Bourru et serviable ; il parle en tapant du bec",
+  "descriptionImage": "Un pivert à crête rouge, une ceinture d’outils autour du ventre, perché sur une caisse de bric-à-brac."
+}

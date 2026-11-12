@@ -1,0 +1,14 @@
+{
+  "id": "lieu-as-vert",
+  "nom": "L’As vert",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-celine",
+    "pnj-rene"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Velours, paillettes et trac",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Cabaret prestigieux et grandiose, sous l’enseigne d’un immense as de trèfle vert. Céline y chante plusieurs fois par jour, au cœur d’une revue fantastique de danseurs et de danseuses.",
+  "descriptionImage": "La façade d’un cabaret, rideaux de velours, sous une enseigne en as de trèfle vert illuminé."
+}

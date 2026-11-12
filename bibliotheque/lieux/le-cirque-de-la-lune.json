@@ -1,0 +1,13 @@
+{
+  "id": "lieu-cirque-de-la-lune",
+  "nom": "Le cirque de la Lune",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-gontran"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Étoilé, rêveur",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Un chapiteau bleu nuit semé d’étoiles, face au cirque de l’Été. Gontran y présente des numéros incroyables.",
+  "descriptionImage": "Un chapiteau bleu nuit brodé d’étoiles et de croissants de lune."
+}

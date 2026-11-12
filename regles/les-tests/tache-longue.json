@@ -1,11 +1,13 @@
 {
   "id": "regle-tache-longue",
-  "titre": "Tâche longue",
-  "sousTitre": "Accumuler les succès",
-  "groupe": "Les tests",
-  "couleur": "#5f7488",
   "icone": "de",
   "ordre": 9.85,
+  "owner": "nicolas.fonollosa@gmail.com",
   "texte": "Succès à réunir : 4 pour une tâche assez rapide, jusqu’à 16 ou 20 pour une tâche longue et éreintante.\nUn jet : par minute, par heure ou par demi-journée, selon la tâche.\nLe temps : la conteuse peut fixer un temps maximum, ou ce qui arrive pendant qu’il passe.\nÀ plusieurs : les chatons additionnent leurs succès, ou se relaient quand un seul peut travailler.",
+  "titre": "Tâche longue",
+  "groupe": "Les tests",
+  "couleur": "#5f7488",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "sousTitre": "Accumuler les succès",
   "explication": "Une tâche longue se fait en plusieurs jets : on additionne les succès jusqu'au total fixé par la conteuse. Elle dit aussi combien de temps prend chaque jet, et parfois combien de temps on a, ou ce qui arrive pendant que le temps passe.\nExemple : construire un radeau, Malin avec Bricoler des trucs et des machins, 12 succès, un jet par heure pour chaque chaton. Chaque heure, les surmulots qui les traquent se rapprochent.\nExemple : dégager un ami sous des gravats, 6 succès, un jet par minute ; l'ami perd 1 Cœur à chaque minute.\nContre-exemple : réussir en un seul jet ce qui demande 12 succès. Une tâche longue se fait en plusieurs jets."
 }

@@ -1,317 +1,8 @@
 {
   "id": "sd-issues",
-  "titre": "Le ruisseau des issues",
-  "ambiance": "un matin clair, l'eau qui chante",
-  "statut": "prete",
-  "lieuIds": [
-    "56c9ae0c-56bc-4eed-a97d-c332e8d4d156"
-  ],
   "but": "Montrer les conditions sur une issue : un test, une querelle, une voie. Aucun nom de fait à inventer.",
-  "encarts": [
-    {
-      "id": "sd1-intro",
-      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
-      "styles": {},
-      "libelle": "Pour le MJ",
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Ici, aucun fait n'est nommé. Les blocs suivants attendent "
-              },
-              {
-                "type": "text",
-                "text": "l'issue",
-                "marks": [
-                  {
-                    "type": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": " d'un test, d'une querelle ou d'une voie. En jeu, le bilan du jet la retient tout seul ; « Réussi · Raté » la corrige."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-saut",
-      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
-      "styles": {},
-      "libelle": "Le saut",
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sauter par-dessus le ruisseau."
-              }
-            ]
-          }
-        ]
-      },
-      "champs": {
-        "sorte": "qualite",
-        "qualite": "costaud",
-        "difficulte": "2",
-        "reussi": "Ils passent d'un bond.",
-        "rate": "Plouf, pattes mouillées."
-      }
-    },
-    {
-      "id": "sd1-rive",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "issue:sd1-saut:reussi"
-      },
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Sur l'autre rive, l'herbe est sèche et tiède. Vous secouez vos moustaches, fiers."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-mouille",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "issue:sd1-saut:rate"
-      },
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Vous ressortez de l'eau en éternuant. Brrr. Il va falloir sécher au soleil."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-dispute",
-      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
-      "styles": {},
-      "libelle": "La sardine",
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "mention",
-                "attrs": {
-                  "nature": "pnj",
-                  "id": "f8f397c7-4507-4ded-a52b-8c75bb474452",
-                  "label": "Mickus"
-                }
-              },
-              {
-                "type": "text",
-                "text": " surgit des roseaux : il veut la sardine que les chatons ont trouvée."
-              }
-            ]
-          }
-        ]
-      },
-      "parties": [
-        {
-          "id": "sd1-querelle",
-          "typeId": "99a01fbe-7bae-474a-b648-7fdaa7c6c221",
-          "contenu": null,
-          "champs": {
-            "sorte": "crocs",
-            "adversaires": "f8f397c7-4507-4ded-a52b-8c75bb474452",
-            "enjeu": "la dernière sardine",
-            "gagne": "Mickus file, vexé.",
-            "perd": "Mickus part avec la sardine."
-          }
-        },
-        {
-          "id": "sd1-mickus-gagne",
-          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
-          "qui": "Mickus",
-          "condition": {
-            "si": true,
-            "fait": "issue:sd1-querelle:perd"
-          },
-          "contenu": {
-            "type": "doc",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "Merci pour le goûter, les petits !"
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "id": "sd1-mickus-perd",
-          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
-          "qui": "Mickus",
-          "condition": {
-            "si": true,
-            "fait": "issue:sd1-querelle:gagne"
-          },
-          "contenu": {
-            "type": "doc",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "Pfff. Gardez-la, votre sardine. Elle sent la vase."
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "sd1-tunnel",
-      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
-      "styles": {},
-      "choix": "Par où rentrer ?",
-      "bloc": "Le tunnel",
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Vous vous glissez dans le tunnel des taupes."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-toit",
-      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
-      "styles": {},
-      "choix": "Par où rentrer ?",
-      "bloc": "Les toits",
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Vous grimpez sur le muret, puis sur les toits."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-toit-2",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
-      "styles": {},
-      "choix": "Par où rentrer ?",
-      "bloc": "Les toits",
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Le vent vous ébouriffe. De là-haut, on voit toute la forêt."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-apres-tunnel",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "voie:sd1-tunnel"
-      },
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Vous ressortez couverts de terre, mais personne ne vous a vus."
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "sd1-apres-toit",
-      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "voie:sd1-toit"
-      },
-      "contenu": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Une pie vous a repérés. Elle jacasse déjà dans tout le quartier."
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ],
+  "titre": "Le ruisseau des issues",
+  "statut": "prete",
   "suites": [
     {
       "vers": "sd-faits",
@@ -329,5 +20,314 @@
         "fait": "voie:sd1-toit"
       }
     }
-  ]
+  ],
+  "encarts": [
+    {
+      "id": "sd1-intro",
+      "styles": {},
+      "typeId": "53857dd5-4db0-4e8e-983b-d55b52cfecfc",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Ici, aucun fait n'est nommé. Les blocs suivants attendent ",
+                "type": "text"
+              },
+              {
+                "text": "l'issue",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "text": " d'un test, d'une querelle ou d'une voie. En jeu, le bilan du jet la retient tout seul ; « Réussi · Raté » la corrige.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Pour le MJ"
+    },
+    {
+      "id": "sd1-saut",
+      "champs": {
+        "rate": "Plouf, pattes mouillées.",
+        "sorte": "qualite",
+        "reussi": "Ils passent d'un bond.",
+        "qualite": "costaud",
+        "difficulte": "2"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Sauter par-dessus le ruisseau.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Le saut"
+    },
+    {
+      "id": "sd1-rive",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Sur l'autre rive, l'herbe est sèche et tiède. Vous secouez vos moustaches, fiers.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "issue:sd1-saut:reussi"
+      }
+    },
+    {
+      "id": "sd1-mouille",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous ressortez de l'eau en éternuant. Brrr. Il va falloir sécher au soleil.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "issue:sd1-saut:rate"
+      }
+    },
+    {
+      "id": "sd1-dispute",
+      "styles": {},
+      "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "mention",
+                "attrs": {
+                  "id": "f8f397c7-4507-4ded-a52b-8c75bb474452",
+                  "label": "Mickus",
+                  "nature": "pnj"
+                }
+              },
+              {
+                "text": " surgit des roseaux : il veut la sardine que les chatons ont trouvée.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "La sardine",
+      "parties": [
+        {
+          "id": "sd1-querelle",
+          "champs": {
+            "perd": "Mickus part avec la sardine.",
+            "enjeu": "la dernière sardine",
+            "gagne": "Mickus file, vexé.",
+            "sorte": "crocs",
+            "adversaires": "f8f397c7-4507-4ded-a52b-8c75bb474452"
+          },
+          "typeId": "2cc8d320-2a0a-46c7-9a07-7c92a94f2157",
+          "contenu": null
+        },
+        {
+          "id": "sd1-mickus-gagne",
+          "qui": "Mickus",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Merci pour le goûter, les petits !",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "condition": {
+            "si": true,
+            "fait": "issue:sd1-querelle:perd"
+          }
+        },
+        {
+          "id": "sd1-mickus-perd",
+          "qui": "Mickus",
+          "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Pfff. Gardez-la, votre sardine. Elle sent la vase.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "condition": {
+            "si": true,
+            "fait": "issue:sd1-querelle:gagne"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sd1-tunnel",
+      "bloc": "Le tunnel",
+      "choix": "Par où rentrer ?",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous vous glissez dans le tunnel des taupes.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sd1-toit",
+      "bloc": "Les toits",
+      "choix": "Par où rentrer ?",
+      "styles": {},
+      "typeId": "28e4864d-d053-433c-8491-5110a3f1785c",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous grimpez sur le muret, puis sur les toits.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sd1-toit-2",
+      "bloc": "Les toits",
+      "choix": "Par où rentrer ?",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Le vent vous ébouriffe. De là-haut, on voit toute la forêt.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sd1-apres-tunnel",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Vous ressortez couverts de terre, mais personne ne vous a vus.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "voie:sd1-tunnel"
+      }
+    },
+    {
+      "id": "sd1-apres-toit",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une pie vous a repérés. Elle jacasse déjà dans tout le quartier.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "condition": {
+        "si": true,
+        "fait": "voie:sd1-toit"
+      }
+    }
+  ],
+  "lieuIds": [
+    "56c9ae0c-56bc-4eed-a97d-c332e8d4d156"
+  ],
+  "ambiance": "un matin clair, l'eau qui chante"
 }

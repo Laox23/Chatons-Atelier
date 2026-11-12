@@ -1,11 +1,13 @@
 {
   "id": "regle-accident-miagique",
-  "titre": "Accident miagique",
-  "sousTitre": "Quand on force un sort",
-  "groupe": "Miagie",
-  "couleur": "#4f8a6b",
   "icone": "etoile",
   "ordre": 11.96,
+  "owner": "nicolas.fonollosa@gmail.com",
   "texte": "Quand : un sort raté que le chaton veut faire marcher quand même. On lance 1D6.\n1 : le sort marche, comme réussi.\n2 : il ne marche pas, mais on peut le relancer sans payer de Cœur.\n3 : sa durée est au hasard, bien plus longue ou quelques instants, au choix de la conteuse.\n4 : le chaton perd 1 Cœur et le sort marche.\n5 : il touche une autre cible, au hasard ou au choix de la conteuse.\n6 : il ne marche pas du tout.",
+  "titre": "Accident miagique",
+  "groupe": "Miagie",
+  "couleur": "#4f8a6b",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "sousTitre": "Quand on force un sort",
   "explication": "Quand un sort est raté, le chaton peut accepter qu'il ne marche pas, ou vouloir qu'il marche quand même : il lance alors 1 dé sur la table des accidents miagiques, qui ajoute des effets bizarres.\n1 : le sort marche normalement. 2 : il ne marche pas, mais le chaton peut le relancer sans payer de Cœur. 3 : sa durée est au hasard, au choix de la conteuse. 4 : le chaton perd 1 Cœur et le sort marche. 5 : il touche une autre cible. 6 : il ne marche pas du tout.\nExemple : Plume rate Couleur des herbes et force le sort. Elle fait 5 : c'est le garde qui prend la couleur du mur.\nContre-exemple : tirer un accident après un sort réussi. L'accident ne vient que d'un sort raté que l'on force."
 }

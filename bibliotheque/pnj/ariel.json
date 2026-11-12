@@ -1,0 +1,20 @@
+{
+  "id": "pnj-ariel",
+  "nom": "Ariel",
+  "role": "Poisson, danseuse étoile et fondatrice des Ballets aquatiques de Grand’Roue, avec Eric",
+  "coeur": 5,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Poisson aux nageoires de voile, en combinaison pleine d’eau à hublot pour sortir du bassin // Costaud 2 / Malin 3 / Mignon 3 // Cœur 5 // Bouger son popotin, Dessiner et peindre // Son et lumière (1) // combinaison à paillettes",
+  "mignon": 3,
+  "costaud": 2,
+  "famille": [
+    {
+      "type": "conjoint",
+      "pnjId": "pnj-eric"
+    }
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Rêveuse et gracieuse ; elle ne quitte jamais Eric",
+  "descriptionImage": "Un poisson aux longues nageoires de voile, dans une combinaison à paillettes remplie d’eau, un hublot à la place du visage."
+}

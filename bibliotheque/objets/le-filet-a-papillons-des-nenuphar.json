@@ -1,0 +1,13 @@
+{
+  "id": "objet-filet-a-papillons",
+  "nom": "Le filet à papillons des Nénuphar",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pouvoir": "Attraper ce qui vole ou ce qui file : un papillon, un insecte, un petit objet emporté par le vent.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "detenteur": {
+    "id": "pnj-nenuphar",
+    "nature": "pnj"
+  },
+  "description": "Un vieux filet à papillons au manche verni, qui a servi des années à Monsieur Nénuphar.",
+  "descriptionImage": "Un vieux filet à papillons au manche de bois verni."
+}

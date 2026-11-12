@@ -1,0 +1,20 @@
+{
+  "id": "pnj-parents-belletoile",
+  "nom": "Les parents de Bellétoile",
+  "role": "Couple de lapins astronomes, en visite à Grand’Roue pour regarder le ciel du haut de la grande roue",
+  "coeur": 4,
+  "malin": 2,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Deux lapins rêveurs, le nez toujours en l’air // Costaud 2 / Malin 2 / Mignon 2 // Cœur 4 // Lire le ciel et les étoiles // longue-vue",
+  "mignon": 2,
+  "costaud": 2,
+  "famille": [
+    {
+      "type": "enfant",
+      "pnjId": "pnj-belletoile"
+    }
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Affolés tant que leur petit est perdu ; infiniment reconnaissants ensuite",
+  "descriptionImage": "Deux lapins en manteau de voyage, une longue-vue de cuivre à la patte."
+}

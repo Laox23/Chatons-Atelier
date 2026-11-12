@@ -94,8 +94,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Les chatons peuvent garder ces objets"
+                    "text": "Les chatons peuvent garder ces objets",
+                    "type": "text"
                   }
                 ]
               }
@@ -112,8 +112,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Les perlent peuvent se troquer"
+                    "text": "Les perlent peuvent se troquer",
+                    "type": "text"
                   }
                 ]
               }
@@ -134,8 +134,8 @@
                     "attrs": {
                       "id": "18437f0c-ea6a-499b-819f-37f1c8f82367",
                       "label": "Objet important",
-                      "mentionSuggestionChar": "@",
-                      "nature": "regle"
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
                     }
                   }
                 ]
@@ -160,26 +160,26 @@
                 "attrs": {
                   "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
                   "label": "Grinella",
-                  "mentionSuggestionChar": "@",
-                  "nature": "pnj"
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
                 }
               },
               {
-                "type": "text",
-                "text": " et "
+                "text": " et ",
+                "type": "text"
               },
               {
                 "type": "mention",
                 "attrs": {
                   "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
                   "label": "Léon",
-                  "mentionSuggestionChar": "@",
-                  "nature": "pnj"
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
                 }
               },
               {
-                "type": "text",
-                "text": " partent de leur côté."
+                "text": " partent de leur côté.",
+                "type": "text"
               }
             ]
           }
@@ -279,8 +279,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Proposez ce que fait votre chaton pour aider à l’installation."
+                    "text": "Proposez ce que fait votre chaton pour aider à l’installation.",
+                    "type": "text"
                   }
                 ]
               }
@@ -297,8 +297,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "La nuit rend 1 Cœur à chaque chaton."
+                    "text": "La nuit rend 1 Cœur à chaque chaton.",
+                    "type": "text"
                   }
                 ]
               },
@@ -306,8 +306,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Si l’ambiance est conviviale entre tous : +1 Amitié pour chacun."
+                    "text": "Si l’ambiance est conviviale entre tous : +1 Amitié pour chacun.",
+                    "type": "text"
                   }
                 ]
               }
@@ -388,21 +388,21 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Chaque chatons peut dépenser ces deux points pour gagner un nouveau "
+                    "text": "Chaque chatons peut dépenser ces deux points pour gagner un nouveau ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
                       "label": "Talents",
-                      "mentionSuggestionChar": "@",
-                      "nature": "regle"
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " "
+                    "text": " ",
+                    "type": "text"
                   }
                 ]
               }

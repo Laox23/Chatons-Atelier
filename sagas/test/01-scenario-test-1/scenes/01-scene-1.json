@@ -7,6 +7,7 @@
   "encarts": [
     {
       "id": "380059fd-ef62-4496-91ad-d43269c1fc58",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -15,17 +16,17 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "bloc simple"
+                "text": "bloc simple",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {}
+      }
     },
     {
       "id": "1146d00f-55e1-43a2-9408-2507fe6e9c76",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -34,18 +35,18 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "pour chaque"
+                "text": "pour chaque",
+                "type": "text"
               }
             ]
           }
         ]
       },
-      "styles": {},
       "parChaton": true
     },
     {
       "id": "b992d81e-58de-47b7-ab46-cee080bef61c",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -54,14 +55,13 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "condition"
+                "text": "condition",
+                "type": "text"
               }
             ]
           }
         ]
       },
-      "styles": {},
       "condition": {
         "si": true,
         "fait": "Nouveau fait"
@@ -69,6 +69,8 @@
     },
     {
       "id": "ae973168-97d6-4c13-8a43-ba93673e9735",
+      "bloc": "Voie A",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -77,18 +79,18 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Voie A mais à la main"
+                "text": "Voie A mais à la main",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {},
-      "bloc": "Voie A"
+      }
     },
     {
       "id": "d55699f7-be0c-41bb-be7d-126b2b99be2a",
+      "bloc": "Voie B",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -97,18 +99,19 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Voie B"
+                "text": "Voie B",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {},
-      "bloc": "Voie B"
+      }
     },
     {
       "id": "7f312fac-5dfc-4d8e-820b-d82c80218829",
+      "bloc": "Vers le haut",
+      "choix": "Escalié",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -117,19 +120,19 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "haut"
+                "text": "haut",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {},
-      "choix": "Escalié",
-      "bloc": "Vers le haut"
+      }
     },
     {
       "id": "d898810c-39df-487d-9c3c-033f3e7d5d08",
+      "bloc": "Vers le bas",
+      "choix": "Escalié",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -138,16 +141,13 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "bas"
+                "text": "bas",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {},
-      "choix": "Escalié",
-      "bloc": "Vers le bas"
+      }
     }
   ],
   "ambiance": ""

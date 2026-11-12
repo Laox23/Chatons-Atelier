@@ -77,52 +77,52 @@
                     "attrs": {
                       "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
                       "label": "Victorin",
-                      "mentionSuggestionChar": "@",
-                      "nature": "pnj"
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " explique qu’il est garde forestier de la "
+                    "text": " explique qu’il est garde forestier de la ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2",
                       "label": "Compagnie de Toutes les Forêts",
-                      "mentionSuggestionChar": "@",
-                      "nature": "faction"
+                      "nature": "faction",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": ". En tournée, il a rencontré "
+                    "text": ". En tournée, il a rencontré ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
                       "label": "Léon",
-                      "mentionSuggestionChar": "@",
-                      "nature": "pnj"
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " et "
+                    "text": " et ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
                       "label": "Grinella",
-                      "mentionSuggestionChar": "@",
-                      "nature": "pnj"
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " : ils ont sympathisé."
+                    "text": " : ils ont sympathisé.",
+                    "type": "text"
                   }
                 ]
               },
@@ -130,34 +130,34 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "En pleine nuit, les "
+                    "text": "En pleine nuit, les ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
                       "label": "Chiens de la Casse",
-                      "mentionSuggestionChar": "@",
-                      "nature": "faction"
+                      "nature": "faction",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " les ont enlevés tous les trois dans leur campement, pour les emmener de force travailler à la "
+                    "text": " les ont enlevés tous les trois dans leur campement, pour les emmener de force travailler à la ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
                       "label": "Casse-Auto",
-                      "mentionSuggestionChar": "@",
-                      "nature": "lieu"
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": "."
+                    "text": ".",
+                    "type": "text"
                   }
                 ]
               },
@@ -165,8 +165,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Lui a réussi à s’échapper quand leur véhicule est tombé en panne."
+                    "text": "Lui a réussi à s’échapper quand leur véhicule est tombé en panne.",
+                    "type": "text"
                   }
                 ]
               }
@@ -216,26 +216,26 @@
                     "attrs": {
                       "id": "f246ecb5-d6b6-42f9-9f48-79f6abfab7a2",
                       "label": "Compagnie de Toutes les Forêts",
-                      "mentionSuggestionChar": "@",
-                      "nature": "faction"
+                      "nature": "faction",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " : des animaux volontaires qui étudient la faune et la flore, et protègent toutes les forêts contre ceux qui reprennent les mauvaises habitudes des "
+                    "text": " : des animaux volontaires qui étudient la faune et la flore, et protègent toutes les forêts contre ceux qui reprennent les mauvaises habitudes des ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "cd8c5986-c405-417b-a9ab-d42ae158679c",
                       "label": "Gros-tout-nus",
-                      "mentionSuggestionChar": "@",
-                      "nature": "mot"
+                      "nature": "mot",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": "."
+                    "text": ".",
+                    "type": "text"
                   }
                 ]
               },
@@ -243,34 +243,34 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Elle est dirigée par le "
+                    "text": "Elle est dirigée par le ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "77ef64ae-5b00-4024-8f57-05aa7a079320",
                       "label": "Grand Chêne",
-                      "mentionSuggestionChar": "@",
-                      "nature": "mot"
+                      "nature": "mot",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " : aujourd’hui, c’est "
+                    "text": " : aujourd’hui, c’est ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "18ff6e19-412a-4f2f-b0c5-4d3ab19b9206",
                       "label": "Batiste",
-                      "mentionSuggestionChar": "@",
-                      "nature": "pnj"
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": ", l’ours. Son symbole : un chêne doré surmonté d’un arc-en-ciel. Sa devise : « À chaque arbre, son protecteur. »"
+                    "text": ", l’ours. Son symbole : un chêne doré surmonté d’un arc-en-ciel. Sa devise : « À chaque arbre, son protecteur. »",
+                    "type": "text"
                   }
                 ]
               },
@@ -278,21 +278,21 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Chaque "
+                    "text": "Chaque ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "3e2a0bc2-1a8f-422d-8693-92c1e8201d30",
                       "label": "Garde forestier",
-                      "mentionSuggestionChar": "@",
-                      "nature": "mot"
+                      "nature": "mot",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " reçoit ses missions par pigeon voyageur. La compagnie entretient de petits chalets dans l"
+                    "text": " reçoit ses missions par pigeon voyageur. La compagnie entretient de petits chalets dans l",
+                    "type": "text"
                   }
                 ]
               }
@@ -309,8 +309,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "La compagnie peut aider des chatons perdus : partout où la nature est présente, un garde forestier n’est pas loin. Un chaton pourrait même, un jour, vouloir en devenir membre."
+                    "text": "La compagnie peut aider des chatons perdus : partout où la nature est présente, un garde forestier n’est pas loin. Un chaton pourrait même, un jour, vouloir en devenir membre.",
+                    "type": "text"
                   }
                 ]
               }

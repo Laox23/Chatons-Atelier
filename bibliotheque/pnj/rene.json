@@ -1,0 +1,20 @@
+{
+  "id": "pnj-rene",
+  "nom": "René",
+  "role": "Paon, mari et manageur de Céline, à l’As vert",
+  "coeur": 6,
+  "malin": 4,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Paon nerveux, carnet sous l’aile, montre à la patte // Costaud 2 / Malin 4 / Mignon 2 // Cœur 6 // Lire, écrire et compter, Convaincre et baratiner // Mille yeux (1) // carnet de rendez-vous, montre à gousset",
+  "mignon": 2,
+  "costaud": 2,
+  "famille": [
+    {
+      "type": "conjoint",
+      "pnjId": "pnj-celine"
+    }
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Affairé et inquiet ; il attrape au vol qui peut l’aider",
+  "descriptionImage": "Un paon en gilet, un carnet sous l’aile, qui regarde sa montre à gousset d’un air affolé."
+}

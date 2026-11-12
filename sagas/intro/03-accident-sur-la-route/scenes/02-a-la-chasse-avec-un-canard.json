@@ -75,21 +75,21 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Ce sont des "
+                    "text": "Ce sont des ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
                       "label": "Chiens de la Casse",
-                      "mentionSuggestionChar": "@",
-                      "nature": "faction"
+                      "nature": "faction",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " : leurs armes sont à l’arrière du véhicule, pas sur eux."
+                    "text": " : leurs armes sont à l’arrière du véhicule, pas sur eux.",
+                    "type": "text"
                   }
                 ]
               }
@@ -110,13 +110,13 @@
                     "attrs": {
                       "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
                       "label": "Victorin",
-                      "mentionSuggestionChar": "@",
-                      "nature": "pnj"
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " observe la situation et propose trois plans :"
+                    "text": " observe la situation et propose trois plans :",
+                    "type": "text"
                   }
                 ]
               }
@@ -125,6 +125,7 @@
         },
         {
           "id": "aad8c875-2f42-4018-8c75-d3d6faafa4f9",
+          "qui": "Victorin",
           "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
           "contenu": {
             "type": "doc",
@@ -133,8 +134,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "1. Détacher discrètement les prisonniers et s’enfuir."
+                    "text": "1. Détacher discrètement les prisonniers et s’enfuir.",
+                    "type": "text"
                   }
                 ]
               },
@@ -142,8 +143,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "2. Prendre discrètement les armes, puis intimider les chiens : plus risqué, mais plus d’informations et de prestige."
+                    "text": "2. Prendre discrètement les armes, puis intimider les chiens : plus risqué, mais plus d’informations et de prestige.",
+                    "type": "text"
                   }
                 ]
               },
@@ -151,14 +152,13 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "3. Ou un meilleur plan, s’il vient des joueuses."
+                    "text": "3. Ou un meilleur plan, s’il vient des joueuses.",
+                    "type": "text"
                   }
                 ]
               }
             ]
-          },
-          "qui": "Victorin"
+          }
         },
         {
           "id": "dc08cd6c-1d00-4ae2-a306-c5b6d9d00648",
@@ -174,34 +174,34 @@
                     "attrs": {
                       "id": "ee0dff72-d5ef-4042-aaa4-3add235acbc7",
                       "label": "Difficulté",
-                      "mentionSuggestionChar": "@",
-                      "nature": "regle"
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " · "
+                    "text": " · ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "68467360-fb0f-4309-841e-9c601a35ebbb",
                       "label": "Talents",
-                      "mentionSuggestionChar": "@",
-                      "nature": "regle"
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " · "
+                    "text": " · ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "fc4b430d-0020-4c63-acbf-39105300b5f5",
                       "label": "Trait de caractère",
-                      "mentionSuggestionChar": "@",
-                      "nature": "regle"
+                      "nature": "regle",
+                      "mentionSuggestionChar": "@"
                     }
                   }
                 ]
@@ -219,8 +219,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Si  "
+                    "text": "Si  ",
+                    "type": "text"
                   },
                   {
                     "type": "fait",
@@ -231,8 +231,8 @@
                     }
                   },
                   {
-                    "type": "text",
-                    "text": "  ou  "
+                    "text": "  ou  ",
+                    "type": "text"
                   },
                   {
                     "type": "fait",
@@ -243,8 +243,8 @@
                     }
                   },
                   {
-                    "type": "text",
-                    "text": "  ou "
+                    "text": "  ou ",
+                    "type": "text"
                   },
                   {
                     "type": "fait",
@@ -255,8 +255,8 @@
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " "
+                    "text": " ",
+                    "type": "text"
                   }
                 ]
               }
@@ -267,6 +267,7 @@
     },
     {
       "id": "b81f87a7-740f-4d1d-a1cc-8566a814dc53",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -275,34 +276,30 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Les "
+                "text": "Les ",
+                "type": "text"
               },
               {
                 "type": "mention",
                 "attrs": {
                   "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
                   "label": "Chiens de la Casse",
-                  "mentionSuggestionChar": "@",
-                  "nature": "faction"
+                  "nature": "faction",
+                  "mentionSuggestionChar": "@"
                 }
               },
               {
-                "type": "text",
-                "text": " partent à la poursuite des chatons"
+                "text": " partent à la poursuite des chatons",
+                "type": "text"
               }
             ]
           }
         ]
       },
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "Prisionniers libérés"
-      },
       "parties": [
         {
           "id": "050d7c8f-dced-45d5-b121-1a2364d71b7c",
+          "qui": "Un des chiens",
           "typeId": "ae6fa8bf-a5b6-4184-8d17-ddaa75e89898",
           "contenu": {
             "type": "doc",
@@ -311,19 +308,23 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": " Les gars, ça sert à rien. Avec toutes les souris qui traînent, faut qu’on répare le véhicule avant qu’elles s’en prennent à nous"
+                    "text": " Les gars, ça sert à rien. Avec toutes les souris qui traînent, faut qu’on répare le véhicule avant qu’elles s’en prennent à nous",
+                    "type": "text"
                   }
                 ]
               }
             ]
-          },
-          "qui": "Un des chiens"
+          }
         }
-      ]
+      ],
+      "condition": {
+        "si": true,
+        "fait": "Prisionniers libérés"
+      }
     },
     {
       "id": "c703b98d-a8db-4ba9-a544-3d71c415969e",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -332,56 +333,51 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": "Les chatons font prisonnier les "
+                "text": "Les chatons font prisonnier les ",
+                "type": "text"
               },
               {
                 "type": "mention",
                 "attrs": {
                   "id": "a64a21e9-9040-4cf3-97e7-ebf73aa3b1b5",
                   "label": "Chiens de la Casse",
-                  "mentionSuggestionChar": "@",
-                  "nature": "faction"
+                  "nature": "faction",
+                  "mentionSuggestionChar": "@"
                 }
               },
               {
-                "type": "text",
-                "text": " et libèrent "
+                "text": " et libèrent ",
+                "type": "text"
               },
               {
                 "type": "mention",
                 "attrs": {
                   "id": "841a6550-ed40-4c7f-ba26-53ac5a2304a4",
                   "label": "Léon",
-                  "mentionSuggestionChar": "@",
-                  "nature": "pnj"
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
                 }
               },
               {
-                "type": "text",
-                "text": " et "
+                "text": " et ",
+                "type": "text"
               },
               {
                 "type": "mention",
                 "attrs": {
                   "id": "9938e084-e155-4fd3-baef-8d1d5002c2b9",
                   "label": "Grinella",
-                  "mentionSuggestionChar": "@",
-                  "nature": "pnj"
+                  "nature": "pnj",
+                  "mentionSuggestionChar": "@"
                 }
               },
               {
-                "type": "text",
-                "text": " "
+                "text": " ",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "Armes prisent"
       },
       "parties": [
         {
@@ -394,21 +390,21 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Ils apprennent le lore de "
+                    "text": "Ils apprennent le lore de ",
+                    "type": "text"
                   },
                   {
                     "type": "mention",
                     "attrs": {
                       "id": "c7e176f0-0657-42d4-95e7-b1db54bdafb6",
                       "label": "Casse-Auto",
-                      "mentionSuggestionChar": "@",
-                      "nature": "lieu"
+                      "nature": "lieu",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " ici, récompense leurs courages "
+                    "text": " ici, récompense leurs courages ",
+                    "type": "text"
                   }
                 ]
               }
@@ -425,18 +421,23 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Les chatons peuvent récupérer des vivres, des rations, des armes "
+                    "text": "Les chatons peuvent récupérer des vivres, des rations, des armes ",
+                    "type": "text"
                   }
                 ]
               }
             ]
           }
         }
-      ]
+      ],
+      "condition": {
+        "si": true,
+        "fait": "Armes prisent"
+      }
     },
     {
       "id": "93497e94-43ff-4cb8-8c8c-d1054426fd2d",
+      "styles": {},
       "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
       "contenu": {
         "type": "doc",
@@ -445,17 +446,12 @@
             "type": "paragraph",
             "content": [
               {
-                "type": "text",
-                "text": " les chatons sont faits prisonniers. Les chiens réparent le véhicule, mais il marche moins bien et ne peut pas emmener tout le monde : ils laissent les prisonniers au bord du chemin."
+                "text": " les chatons sont faits prisonniers. Les chiens réparent le véhicule, mais il marche moins bien et ne peut pas emmener tout le monde : ils laissent les prisonniers au bord du chemin.",
+                "type": "text"
               }
             ]
           }
         ]
-      },
-      "styles": {},
-      "condition": {
-        "si": true,
-        "fait": "Echec"
       },
       "parties": [
         {
@@ -472,13 +468,13 @@
                     "attrs": {
                       "id": "e4b0a745-321c-4de8-b0c6-a40d96ab1f96",
                       "label": "Victorin",
-                      "mentionSuggestionChar": "@",
-                      "nature": "pnj"
+                      "nature": "pnj",
+                      "mentionSuggestionChar": "@"
                     }
                   },
                   {
-                    "type": "text",
-                    "text": " se libère avec une pierre tranchante et délivre tout le monde. "
+                    "text": " se libère avec une pierre tranchante et délivre tout le monde. ",
+                    "type": "text"
                   }
                 ]
               }
@@ -495,15 +491,19 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "type": "text",
-                    "text": "Chaque chaton perd 1 Cœur."
+                    "text": "Chaque chaton perd 1 Cœur.",
+                    "type": "text"
                   }
                 ]
               }
             ]
           }
         }
-      ]
+      ],
+      "condition": {
+        "si": true,
+        "fait": "Echec"
+      }
     },
     {
       "id": "aa65a699-59a7-44ff-aab7-d7c1ad5e09cb",

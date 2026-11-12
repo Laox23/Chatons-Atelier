@@ -3,7 +3,19 @@
   "description": "Ancien parc d’attractions en ruine, à l’est de Tourne-Bouchon, acheté au Baron Ereib par Fremper et restauré par la troupe des Facteurs d’Arc-en-Ciel. Au centre, la grande roue remise en marche par Fremper, qui en tire sa plus grande fierté.\nUne enclave libre, dédiée au rire et au divertissement, à l’abri des Hérauts de l’Orage. De vieux artistes, des artisans et des marchands y vivent ; des troupes de passage y donnent des spectacles. Le parc reste presque désert : les routes font peur.",
   "ambiance": "Coloré et musical, plein d’artistes",
   "pnjIds": [
-    "pnj-fremper"
+    "pnj-fremper",
+    "pnj-lechesabot",
+    "pnj-barnabe",
+    "pnj-damien",
+    "pnj-poneys-chenapans",
+    "pnj-gontran",
+    "pnj-gaston",
+    "pnj-celine",
+    "pnj-rene",
+    "pnj-henri",
+    "pnj-ariel",
+    "pnj-eric",
+    "pnj-mac"
   ],
   "id": "e6a3b437-d644-450f-8f27-1d1bc987262d",
   "owner": "nicolas.fonollosa@gmail.com",

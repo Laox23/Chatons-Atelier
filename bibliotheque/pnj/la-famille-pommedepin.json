@@ -1,0 +1,14 @@
+{
+  "id": "pnj-famille-pommedepin",
+  "nom": "La famille Pommedepin",
+  "role": "Famille d’écureuils en voyage, de passage à Grand’Roue pour voir la grande roue",
+  "coeur": 4,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Une ribambelle d’écureuils roux, parents et petits, toujours en train de compter // Costaud 1 / Malin 3 / Mignon 2 // Cœur 4 // Bouger son popotin // noisette enchantée",
+  "mignon": 2,
+  "costaud": 1,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Joyeuse et étourdie ; elle ne voit pas le danger venir",
+  "descriptionImage": "Une famille d’écureuils roux serrés les uns contre les autres, les queues en panache."
+}

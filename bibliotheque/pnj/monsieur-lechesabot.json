@@ -1,0 +1,14 @@
+{
+  "id": "pnj-lechesabot",
+  "nom": "Monsieur Lechesabot",
+  "role": "Taureau gourmet, propriétaire de la boutique de friandises Lechesabot, à Grand’Roue",
+  "coeur": 6,
+  "malin": 2,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Gros taureau gourmand, toque de travers et tablier brodé de bonbons // Costaud 4 / Malin 2 / Mignon 2 // Cœur 6 // Cuisiner, Convaincre et baratiner // Conservation des ressources (1) // louche d’argent, livre de recettes",
+  "mignon": 2,
+  "costaud": 4,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Généreux et sensible ; une gourmandise ratée le met au bord des larmes",
+  "descriptionImage": "Un gros taureau souriant en toque de pâtissier et tablier brodé de bonbons, une louche d’argent à la main."
+}

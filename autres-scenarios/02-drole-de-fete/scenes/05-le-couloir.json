@@ -1,0 +1,77 @@
+{
+  "id": "sc-couloir",
+  "but": "Relier les salles.",
+  "piece": true,
+  "titre": "Le couloir",
+  "donjon": "Le donjon de la faille",
+  "statut": "prete",
+  "suites": [
+    {
+      "vers": "sc-salle-3",
+      "libelle": "Porte b, le grand atelier"
+    },
+    {
+      "vers": "sc-salle-4",
+      "libelle": "Porte e, le cul-de-sac"
+    },
+    {
+      "vers": "sc-salle-5",
+      "libelle": "Porte c, la salle 5"
+    }
+  ],
+  "encarts": [
+    {
+      "id": "b3-couloir",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Derrière la porte rouillée, un long couloir. L’odeur âcre est plus forte ici. Des flèches peintes au sol partent dans tous les sens, et au mur, un grand plan plein de lignes et de lettres inconnues.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Trois portes : une vieille porte de métal rouillée, une porte qui pend sur un seul gond, et une autre, plus loin.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Le couloir",
+      "parties": [
+        {
+          "id": "b3-couloir-2",
+          "typeId": "35c92e07-bb4e-4853-9a58-9627ad3bd6f7",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Les portes : a vient de la salle des générateurs ; b mène au grand atelier ; e au cul-de-sac ; c à la salle 5.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "lieuIds": [
+    "lieu-souterrains-grand-roue"
+  ],
+  "ambiance": "odeur âcre, flèches peintes"
+}

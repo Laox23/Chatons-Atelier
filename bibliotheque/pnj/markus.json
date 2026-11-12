@@ -1,0 +1,14 @@
+{
+  "id": "pnj-markus",
+  "nom": "Markus",
+  "role": "Mille-pattes géant, centenaire et bleuté, qui vit dans les souterrains de Grand’Roue depuis une éternité",
+  "coeur": 6,
+  "malin": 2,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Mille-pattes géant, bleuté, aux pattes qui cliquettent // Costaud 4 / Malin 2 / Mignon 1 // Cœur 6 // Bouger son popotin, Feuler et menacer (il cliquette)",
+  "mignon": 1,
+  "costaud": 4,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Grognon d’avoir été tiré de son hibernation ; il veut qu’on le laisse tranquille chez lui",
+  "descriptionImage": "Un très vieux mille-pattes géant à la carapace bleutée, enroulé entre de grosses machines rouillées."
+}

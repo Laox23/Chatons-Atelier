@@ -1,0 +1,13 @@
+{
+  "id": "sc-salle-5",
+  "but": "À écrire.",
+  "piece": true,
+  "titre": "Salle 5",
+  "donjon": "Le donjon de la faille",
+  "statut": "brouillon",
+  "encarts": [],
+  "lieuIds": [
+    "lieu-souterrains-grand-roue"
+  ],
+  "ambiance": "à écrire"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pnj-eric",
+  "nom": "Eric",
+  "role": "Poisson, danseur et fondateur des Ballets aquatiques de Grand’Roue, avec Ariel",
+  "coeur": 6,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Poisson trapu, en combinaison pleine d’eau à hublot assortie à celle d’Ariel // Costaud 3 / Malin 3 / Mignon 2 // Cœur 6 // Bouger son popotin, Faire de la musique // Hardiesse (1) // combinaison à paillettes",
+  "mignon": 2,
+  "costaud": 3,
+  "famille": [
+    {
+      "type": "conjoint",
+      "pnjId": "pnj-ariel"
+    }
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Calme et protecteur ; il ne quitte jamais Ariel",
+  "descriptionImage": "Un poisson trapu dans une combinaison à paillettes remplie d’eau, assortie à celle de sa compagne."
+}

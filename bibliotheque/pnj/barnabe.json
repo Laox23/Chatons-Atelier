@@ -1,0 +1,14 @@
+{
+  "id": "pnj-barnabe",
+  "nom": "Barnabé",
+  "role": "Vieil ours mal léché qui vit sous une tente défraîchie de Grand’Roue ; ancien ours danseur, trop vieux pour la scène",
+  "coeur": 6,
+  "malin": 2,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Vieil ours bourru, pelage pelé, babines collantes de miel // Costaud 4 / Malin 2 / Mignon 2 // Cœur 6 // Feuler et menacer, Bouger son popotin // Gosier sans fond (2) // vieille tente rapiécée, pots de miel vides",
+  "mignon": 2,
+  "costaud": 4,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Bougon et menteur comme un enfant pris en faute ; au fond, il a faim et un peu honte",
+  "descriptionImage": "Un vieil ours au pelage pelé, assis devant une tente rapiécée, les babines pleines de miel, les pattes cachées dans le dos."
+}

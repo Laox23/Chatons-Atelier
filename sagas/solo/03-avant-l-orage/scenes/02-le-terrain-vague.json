@@ -63,6 +63,11 @@
     },
     {
       "id": "acdfe9fb-b48c-409f-8cf9-eb9ac5dad20f",
+      "champs": {
+        "sorte": "groupe",
+        "qualite": "malin",
+        "difficulte": "2"
+      },
       "styles": {},
       "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
       "contenu": {
@@ -78,11 +83,6 @@
             ]
           }
         ]
-      },
-      "champs": {
-        "sorte": "groupe",
-        "qualite": "malin",
-        "difficulte": "2"
       }
     },
     {

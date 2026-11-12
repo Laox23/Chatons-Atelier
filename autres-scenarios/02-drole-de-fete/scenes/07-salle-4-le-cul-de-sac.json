@@ -1,0 +1,133 @@
+{
+  "id": "sc-salle-4",
+  "but": "Un piège : le sol qui s’effondre.",
+  "piece": true,
+  "titre": "Salle 4 · Le cul-de-sac",
+  "donjon": "Le donjon de la faille",
+  "statut": "prete",
+  "encarts": [
+    {
+      "id": "b3-cul-de-sac",
+      "styles": {},
+      "typeId": "032a1f8f-68cf-43b8-9871-eaa604c51e94",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Une vieille pièce vide. Le sol s’effrite sous les pattes, les murs s’émiettent.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "libelle": "Le cul-de-sac",
+      "parties": [
+        {
+          "id": "b3-cul-de-sac-2",
+          "champs": {
+            "rate": "Craaac ! Le sol cède sous leurs pattes.",
+            "sorte": "groupe",
+            "reussi": "Les chatons reculent juste avant que le sol ne s’écroule dans un nuage de poussière.",
+            "qualite": "malin",
+            "difficulte": "3"
+          },
+          "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Voir à temps que le sol va s’effondrer.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "b3-cul-de-sac-3",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Avec la lampe torche : Avantage.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "condition": {
+            "si": true,
+            "fait": "issue:b3-fouiller:reussi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3-chute",
+      "champs": {
+        "rate": "Il atterrit sur le dos : il perd 1 Cœur.",
+        "sorte": "qualite",
+        "reussi": "Le chaton retombe sur ses pattes, comme un vrai chat.",
+        "qualite": "costaud",
+        "difficulte": "3"
+      },
+      "styles": {},
+      "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
+      "contenu": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Retomber sur ses pattes : un jet par chaton.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "id": "b3-chute-2",
+          "typeId": "03316a1c-6ecc-4528-b2af-fb7906793300",
+          "contenu": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Remonter est facile : les décombres font des prises partout.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "condition": {
+        "si": true,
+        "fait": "issue:b3-cul-de-sac-2:rate"
+      }
+    }
+  ],
+  "lieuIds": [
+    "lieu-souterrains-grand-roue"
+  ],
+  "ambiance": "silence, sol qui s’effrite"
+}

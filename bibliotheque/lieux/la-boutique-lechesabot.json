@@ -1,0 +1,13 @@
+{
+  "id": "lieu-boutique-lechesabot",
+  "nom": "La boutique Lechesabot",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pnjIds": [
+    "pnj-lechesabot"
+  ],
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "ambiance": "Sucré, doré, gourmand",
+  "parentId": "e6a3b437-d644-450f-8f27-1d1bc987262d",
+  "description": "Une boutique de friandises aux allures de palais, qui régale le palais : colonnes de sucre d’orge, toit de meringue, vitrines de bonbons, de gâteaux et de crèmes.",
+  "descriptionImage": "Une petite boutique en forme de palais de sucre, colonnes de sucre d’orge, toit de meringue, vitrines pleines de bonbons."
+}

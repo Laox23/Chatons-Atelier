@@ -428,11 +428,11 @@
         {
           "id": "816beaab-a23a-4ac9-946d-8e95d4cedd93",
           "champs": {
-            "sorte": "course",
-            "qualite": "malin",
-            "difficulte": "2",
             "pnjId": "861775ee-dfd0-4359-adf8-f582176e5bb5",
-            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Course égale\",\"label\":\"Course égale\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}"
+            "sorte": "course",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Course égale\",\"label\":\"Course égale\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}",
+            "qualite": "malin",
+            "difficulte": "2"
           },
           "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
           "contenu": null
@@ -540,11 +540,11 @@
         {
           "id": "28c9a2b2-7de9-48bf-ab94-e64680f8c2e3",
           "champs": {
-            "sorte": "course",
-            "qualite": "malin",
-            "difficulte": "2",
             "pnjId": "861775ee-dfd0-4359-adf8-f582176e5bb5",
-            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Course égale\",\"label\":\"Course égale\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}"
+            "sorte": "course",
+            "reussi": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"fait\",\"attrs\":{\"id\":\"Course égale\",\"label\":\"Course égale\",\"mentionSuggestionChar\":\"#\"}},{\"type\":\"text\",\"text\":\" \"}]}]}",
+            "qualite": "malin",
+            "difficulte": "2"
           },
           "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
           "contenu": null
@@ -556,8 +556,8 @@
       }
     }
   ],
-  "ambiance": "une forêt devenue sombre et hostile",
   "lieuIds": [
     "56c9ae0c-56bc-4eed-a97d-c332e8d4d156"
-  ]
+  ],
+  "ambiance": "une forêt devenue sombre et hostile"
 }

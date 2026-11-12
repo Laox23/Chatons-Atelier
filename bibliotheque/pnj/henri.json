@@ -1,0 +1,14 @@
+{
+  "id": "pnj-henri",
+  "nom": "Henri",
+  "role": "Cerf majestueux, marchand de grimoires et d’objets enchantés à Grand’Roue ; sa boutique est un spectacle",
+  "coeur": 7,
+  "malin": 4,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Grand cerf aux bois ornés de clochettes // Costaud 3 / Malin 4 / Mignon 3 // Cœur 7 // Connaître les lois et les légendes, Lire, écrire et compter, Convaincre et baratiner // Son et lumière (1), Dissimulation d’objets (2), Objets vivants (3) // baguette de cèdre, coffre à grimoires",
+  "mignon": 3,
+  "costaud": 3,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Aimable et un peu vaniteux ; il adore épater, mais aujourd’hui il est dépassé",
+  "descriptionImage": "Un grand cerf majestueux, des clochettes accrochées aux bois, dans une boutique pleine de grimoires et de lumières flottantes."
+}

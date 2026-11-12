@@ -1,0 +1,14 @@
+{
+  "id": "pnj-nenuphar",
+  "nom": "Monsieur et Madame Nénuphar",
+  "role": "Couple de vieilles grenouilles en voyage, de passage à Grand’Roue",
+  "coeur": 4,
+  "malin": 3,
+  "owner": "nicolas.fonollosa@gmail.com",
+  "stats": "Deux vieilles grenouilles en gilet et en châle, lunettes rondes // Costaud 1 / Malin 3 / Mignon 2 // Cœur 4 // Faire de la musique // filet à papillons",
+  "mignon": 2,
+  "costaud": 1,
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "attitude": "Doux et reconnaissants ; ils se disputent pour rire et ne se quittent jamais",
+  "descriptionImage": "Deux vieilles grenouilles, lui en gilet, elle en châle, avec de petites lunettes rondes."
+}

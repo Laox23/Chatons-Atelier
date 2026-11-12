@@ -1,0 +1,9 @@
+{
+  "id": "objet-lampe-torche",
+  "nom": "La vieille lampe torche",
+  "owner": "nicolas.fonollosa@gmail.com",
+  "pouvoir": "Éclaire bien plus loin et plus fort que les lanternes.",
+  "realmId": "nicolas.fonollosa@gmail.com",
+  "description": "Un tube de métal des gros-tout-nus, trouvé dans la première coursive des souterrains. Quand on appuie sur le bouton, il fait jour.",
+  "descriptionImage": "Une vieille lampe torche de métal cabossée, au faisceau puissant."
+}
