@@ -62,20 +62,8 @@
                 "type": "paragraph",
                 "content": [
                   {
-                    "text": "Le matériel d’escalade donne l’Avantage pour la descente. Fremper prête aussi ",
-                    "type": "text"
-                  },
-                  {
-                    "type": "mention",
-                    "attrs": {
-                      "id": "objet-lanternes-a-luciole",
-                      "label": "les lanternes à luciole",
-                      "nature": "objet"
-                    }
-                  },
-                  {
-                    "text": ", en plus du sac à dos.",
-                    "type": "text"
+                    "type": "text",
+                    "text": "Le matériel d’escalade donne l’Avantage pour la descente. Fremper prête aussi une lanterne à luciole à chaque chaton, le temps du donjon : elle ne va pas dans le sac à dos, et la troupe la rend en sortant."
                   }
                 ]
               }
@@ -277,7 +265,8 @@
         "sorte": "qualite",
         "reussi": "{\"type\": \"doc\", \"content\": [{\"type\": \"paragraph\", \"content\": [{\"type\": \"text\", \"text\": \"Ils trouvent \"}, {\"type\": \"mention\", \"attrs\": {\"nature\": \"objet\", \"id\": \"objet-lampe-torche\", \"label\": \"une vieille lampe torche\"}}, {\"type\": \"text\", \"text\": \" : un bouton, et il fait jour ! Elle éclaire bien mieux que les lanternes.\"}]}]}",
         "qualite": "malin",
-        "difficulte": "3"
+        "difficulte": "3",
+        "trouvaille": "Vieille lampe torche"
       },
       "styles": {},
       "typeId": "1cd6999c-83e4-41da-86af-51037488b239",
